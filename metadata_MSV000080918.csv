@@ -1,0 +1,514 @@
+SampleID,ATTRIBUTE_description,ATTRIBUTE_age,ATTRIBUTE_diet,ATTRIBUTE_antibiotics,ATTRIBUTE_immunestatus,ATTRIBUTE_phenotype
+SS1_RA1_01_7303_mzML_1,MupHe-HFD (6M),27,HFD,No,normal,"NASH, obesity"
+SS11_RA11_01_7317_mzML_1,MupHe-NC (6M),25,NC,No,normal,"NASH, lean"
+SS12_RA12_01_7318_mzML_1,MupHe-NC (6M),25,NC,No,normal,"NASH, lean"
+SS13_RB1_01_7320_mzML_1,MupHe-NC (6M),25,NC,No,normal,"NASH, lean"
+SS50_RE2_01_7362_mzML_1,MupHe-NC (10-11M),45,NC,No,normal,"NASH,lean, adenomas"
+SS51_RE3_01_7363_mzML_1,MupHe-NC (10-11M),45,NC,No,normal,"NASH,lean, adenomas"
+SS53_RE4_01_7364_mzML_1,MupHe-NC (10-11M),41,NC,No,normal,"NASH,lean, adenomas"
+SS53_RE5_01_7365_mzML_1,MupHe-NC (10-11M),56,NC,No,normal,"NASH,lean, adenomas"
+SS54_RE6_01_7366_mzML_1,MupHe-NC (10-11M),56,NC,No,normal,"NASH,lean, adenomas"
+SS55_RE7_01_7367_mzML_1,MupHe-NC (10-11M),56,NC,No,normal,"NASH,lean, adenomas"
+SS56_RE8_01_7368_mzML_1,MupHe-NC (10-11M),56,NC,No,normal,"NASH,lean, adenomas"
+SS57_RE9_01_7369_mzML_1,MupHe-NC (10-11M),43,NC,No,normal,"NASH,lean, adenomas"
+SS58_RE10_01_7370_mzML_1,MupHe-NC (10-11M),43,NC,No,normal,"NASH,lean, adenomas"
+SS59_RE11_01_7371_mzML_1,MupHe-NC (10-11M),51,NC,No,normal,"NASH,lean, adenomas"
+SS60_RE12_01_7372_mzML_1,MupHe-NC (10-11M),50,NC,No,normal,"NASH,lean, adenomas"
+SS61_RF1_01_7374_mzML_1,MupHe-NC (10-11M),50,NC,No,normal,"NASH,lean, adenomas"
+SS62_RF2_01_7375_mzML_1,MupHe-NC (10-11M),50,NC,No,normal,"NASH,lean, adenomas"
+SS63_RF3_01_7376_mzML_1,MupHe-NC (10-11M),50,NC,No,normal,"NASH,lean, adenomas"
+SS69_RF9_01_7382_mzML_1,B6-NC (6M),27,NC,No,normal,none
+SS70_RF10_01_7384_mzML_1,B6-NC (6M),27,NC,No,normal,none
+SS71_RF11_01_7385_mzML_1,B6-NC (6M),27,NC,No,normal,none
+SS72_RF12_01_7386_mzML_1,B6-NC (6M),27,NC,No,normal,none
+SS73_RG1_01_7388_mzML_1,B6-NC (6M),27,NC,No,normal,none
+SS74_RG2_01_7389_mzML_1,B6-NC (6M),27,NC,No,normal,none
+SS84_RG12_01_7399_mzML_1,B6-NC (10-11M),51,NC,No,normal,none
+SS85_RH1_01_7401_mzML_1,B6-NC (10-11M),51,NC,No,normal,none
+SS86_RH2_01_7403_mzML_1,B6-NC (10-11M),51,NC,No,normal,none
+SS87_RH3_01_7404_mzML_1,B6-NC (10-11M),51,NC,No,normal,none
+SS88_RH4_01_7405_mzML_1,B6-NC (10-11M),51,NC,No,normal,none
+SS89_RH5_01_7406_mzML_1,B6-NC (10-11M),47,NC,No,normal,none
+SS90_RH6_01_7407_mzML_1,B6-NC (10-11M),47,NC,No,normal,none
+SS91_RH7_01_7408_mzML_1,B6-NC (10-11M),47,NC,No,normal,none
+SS103_RA10_01_7427_mzML_1,IgAkMup-NC (6M),25,NC,No,no IgA - some susceptibility,"NASH, no IgA"
+SS104_RA11_01_7428_mzML_1,IgAkMup-NC (6M),23,NC,No,no IgA - some susceptibility,"NASH, no IgA"
+SS105_RA12_01_7429_mzML_1,IgAkMup-NC (6M),23,NC,No,no IgA - some susceptibility,"NASH, no IgA"
+SS106_RB1_01_7431_mzML_1,IgAkMup-NC (6M),23,NC,No,no IgA - some susceptibility,"NASH, no IgA"
+SS140_RD11_01_7467_mzML_1,IgAkMup-NC (10-11M),47,NC,No,no IgA - some susceptibility,"NASH, adenomas, no IgA"
+SS141_RD12_01_7468_mzML_1,IgAkMup-NC (10-11M),47,NC,No,no IgA - some susceptibility,"NASH, adenomas, no IgA"
+SS142_RE1_01_7470_mzML_1,IgAkMup-NC (10-11M),47,NC,No,no IgA - some susceptibility,"NASH, adenomas, no IgA"
+SS148_RE7_01_7476_mzML_1,IgAk-NC (6M),27,NC,No,no IgA - some susceptibility,no IgA
+SS149_RE8_01_7478_mzML_1,IgAk-NC (6M),27,NC,No,no IgA - some susceptibility,no IgA
+SS150_RE9_01_7480_mzML_1,IgAk-NC (6M),27,NC,No,no IgA - some susceptibility,no IgA
+SS151_RE10_01_7482_mzML_1,IgAk-NC (6M),25,NC,No,no IgA - some susceptibility,no IgA
+SS152_RE11_01_7483_mzML_1,IgAk-NC (6M),25,NC,No,no IgA - some susceptibility,no IgA
+SS179_RH2_01_7512_mzML_1,IgAk-NC (10-11M),47,NC,No,no IgA - some susceptibility,no IgA
+SS180_RH3_01_7514_mzML_1,IgAk-NC (10-11M),50,NC,No,no IgA - some susceptibility,no IgA
+SS181_RH4_01_7516_mzML_1,IgAk-NC (10-11M),50,NC,No,no IgA - some susceptibility,no IgA
+SS182_RH5_01_7518_mzML_1,IgAk-NC (10-11M),50,NC,No,no IgA - some susceptibility,no IgA
+SS195_RA9_01_7537_mzML_1,CD8kMup-NC (6M),27,NC,No,CD8KO - some susceptibility,"NASH, CD8KO"
+SS196_RA10_01_7538_mzML_1,CD8kMup-NC (6M),27,NC,No,CD8KO - some susceptibility,"NASH, CD8KO"
+SS197_RA11_01_7539_mzML_1,CD8kMup-NC (6M),27,NC,No,CD8KO - some susceptibility,"NASH, CD8KO"
+SS198_RA12_01_7540_mzML_1,CD8kMup-NC (6M),27,NC,No,CD8KO - some susceptibility,"NASH, CD8KO"
+SS199_RB1_01_7542_mzML_1,CD8kMup-NC (6M),27,NC,No,CD8KO - some susceptibility,"NASH, CD8KO"
+SS232_RD10_01_7577_mzML_1,CD8kMup-NC (10-11M),50,NC,No,CD8KO - some susceptibility,"NASH, adenomas, CD8KO"
+SS233_RD11_01_7578_mzML_1,CD8kMup-NC (10-11M),50,NC,No,CD8KO - some susceptibility,"NASH, adenomas, CD8KO"
+SS234_RD12_01_7579_mzML_1,CD8kMup-NC (10-11M),50,NC,No,CD8KO - some susceptibility,"NASH, adenomas, CD8KO"
+SS235_RE1_01_7581_mzML_1,CD8kMup-NC (10-11M),50,NC,No,CD8KO - some susceptibility,"obese, CD8KO"
+SS242_RE8_01_7588_mzML_1,CD8k-NC (6M),27,NC,No,CD8KO - some susceptibility,CD8KO
+SS243_RE9_01_7589_mzML_1,CD8k-NC (6M),27,NC,No,CD8KO - some susceptibility,CD8KO
+SS244_RE10_01_7590_mzML_1,CD8k-NC (6M),13,NC,No,CD8KO - some susceptibility,CD8KO
+SS245_RE11_01_7591_mzML_1,CD8k-NC (6M),13,NC,No,CD8KO - some susceptibility,"obese, CD8KO"
+SS246_RE12_01_7592_mzML_1,CD8k-NC (6M),13,NC,No,CD8KO - some susceptibility,"obese, CD8KO"
+SS257_RF11_01_7604_mzML_1,CD8k-NC (10-11M),50,NC,No,CD8KO - some susceptibility,CD8KO
+SS258_RF12_01_7605_mzML_1,CD8k-NC (10-11M),50,NC,No,CD8KO - some susceptibility,CD8KO
+SS259_RG1_01_7607_mzML_1,CD8k-NC (10-11M),50,NC,No,CD8KO - some susceptibility,CD8KO
+SS318_RD3_01_7675_mzML_1,NC-B6,8,NC,No,none,none
+SS319_RD4_01_7676_mzML_1,NC-B6,8,NC,No,none,none
+SS320_RD5_01_7677_mzML_1,NC-B6,8,NC,No,none,none
+SS321_RD6_01_7678_mzML_1,NC-B6,6,NC,No,none,none
+SS322_RD7_01_7679_mzML_1,NC-B6,6,NC,No,none,none
+SS323_RD8_01_7680_mzML_1,NC-B6-IgAk,8,NC,No,no IgA - some susceptibility,no IgA
+SS324_RD9_01_7681_mzML_1,NC-B6-IgAk,8,NC,No,no IgA - some susceptibility,no IgA
+SS325_RD10_01_7682_mzML_1,NC-B6-IgAk,8,NC,No,no IgA - some susceptibility,no IgA
+SS326_RD11_01_7683_mzML_1,NC-B6-IgAk,5,NC,No,no IgA - some susceptibility,no IgA
+SS327_RD12_01_7684_mzML_1,NC-B6-IgAk,5,NC,No,no IgA - some susceptibility,no IgA
+SS328_RE1_01_7686_mzML_1,NC-B6-Ighel/MD4,21,NC,No,none,none
+SS329_RE2_01_7687_mzML_1,NC-B6-Ighel/MD4,21,NC,No,none,none
+SS330_RE3_01_7688_mzML_1,NC-B6-Ighel/MD4,21,NC,No,none,none
+SS331_RE4_01_7689_mzML_1,NC-B6-Ighel/MD4,21,NC,No,none,none
+SS371_RH8_01_7732_mzML_1,NC-JH,11,NC,No,none,none
+SS372_RH9_01_7733_mzML_1,NC-JH,11,NC,No,none,none
+SS373_RA1_01_7739_mzML_1,NC-JH,11,NC,No,none,none
+SS374_RA2_01_7740_mzML_1,NC-JH,9,NC,No,none,none
+SS375_RA3_01_7741_mzML_1,NC-JH,9,NC,No,none,none
+SS376_RA4_01_7742_mzML_1,NC-JH,9,NC,No,none,none
+SS377_RA5_01_7743_mzML_1,NC-FVB-IgAk,16,NC,No,none,no IgA
+SS378_RA6_01_7744_mzML_1,NC-FVB-IgAk,16,NC,No,none,no IgA
+SS379_RA7_01_7745_mzML_1,NC-FVB-IgAk,16,NC,No,none,no IgA
+SS380_RA8_01_7746_mzML_1,NC-FVB-IgAk,16,NC,No,none,no IgA
+SS381_RA9_01_7747_mzML_1,NC-FVB-IgAk,16,NC,No,none,no IgA
+SS382_RA10_01_7748_mzML_1,NC-FVB-B-TGFbR,10,NC,No,none,TGFbrko
+SS383_RA11_01_7749_mzML_1,NC-FVB-B-TGFbR,10,NC,No,none,TGFbrko
+SS384_RA12_01_7830_mzML_1,NC-FVB-B-TGFbR,10,NC,No,none,TGFbrko
+SS385_RB1_01_7752_mzML_1,NC-FVB-B-TGFbR,11,NC,No,none,TGFbrko
+SS386_RB2_01_7753_mzML_1,NC-FVB-B-TGFbR,11,NC,No,none,TGFbrko
+SS387_RB3_01_7754_mzML_1,NC-FVB-B-TGFbR,11,NC,No,none,TGFbrko
+SS388_RB4_01_7755_mzML_1,NC-FVB-TGFbRff,10,NC,No,none,TGFbRflox/flox
+SS389_RB5_01_7756_mzML_1,NC-FVB-TGFbRff,10,NC,No,none,TGFbRflox/flox
+SS390_RB6_01_7757_mzML_1,NC-FVB-TGFbRff,11,NC,No,none,TGFbRflox/flox
+SS391_RB7_01_7758_mzML_1,NC-FVB-TGFbRff,11,NC,No,none,TGFbRflox/flox
+SS407_RC11_01_7777_mzML_1,NC-FVB,25,NC,No,none,FVB none
+SS408_RC12_01_7832_mzML_1,NC-FVB,25,NC,No,none,FVB none
+SS409_RD1_01_7780_mzML_1,NC-FVB-CD8k,20,NC,No,CD8KO - some susceptibility,"FVB, CD8ko"
+SS410_RD2_01_7781_mzML_1,NC-FVB-CD8k,20,NC,No,CD8KO - some susceptibility,"FVB, CD8ko"
+SS411_RD3_01_7782_mzML_1,NC-FVB-CD8k,7,NC,No,CD8KO - some susceptibility,"FVB, CD8ko"
+SS412_RD4_01_7783_mzML_1,NC-FVB-CD8k,7,NC,No,CD8KO - some susceptibility,"FVB, CD8ko"
+SS417_RD9_01_7788_mzML_1,NC-B6-PIGHe,16,NC,No,none,"NASH, HCC"
+SS418_RD10_01_7789_mzML_1,NC-B6-PIGHe,16,NC,No,none,"NASH, HCC"
+SS419_RD11_01_7790_mzML_1,NC-B6-PIGHe,16,NC,No,none,"NASH, HCC"
+SS420_RD12_01_7791_mzML_1,NC-B6-PIGK,16,NC,No,none,"NASH, HCC"
+SS421_RE1_01_7793_mzML_1,NC-B6-PIGK,6,NC,No,none,"NASH, HCC"
+SS422_RE2_01_7794_mzML_1,NC-B6-PIGK,6,NC,No,none,"NASH, HCC"
+SS423_RE3_01_7795_mzML_1,NC-B6-PIGK,6,NC,No,none,"NASH, HCC"
+SS424_RE4_01_7796_mzML_1,NC-B6-PIGK,6,NC,No,none,"NASH, HCC"
+SS425_RE5_01_7797_mzML_1,NC-B6-PIGK,6,NC,No,none,"NASH, HCC"
+SS2_RA2_01_7306_mzML_1,MupHe-HFD (6M),27,HFD,No,normal,"NASH, obesity"
+SS3_RA3_01_7307_mzML_1,MupHe-HFD (6M),27,HFD,No,normal,"NASH, obesity"
+SS4_RA4_01_7308_mzML_1,MupHe-HFD (6M),25,HFD,No,normal,"NASH, obesity"
+SS5_RA5_01_7309_mzML_1,MupHe-HFD (6M),25,HFD,No,normal,"NASH, obesity"
+SS6_RA6_01_7310_mzML_1,MupHe-HFD (6M),25,HFD,No,normal,"NASH, obesity"
+SS7_RA7_01_7313_mzML_1,MupHe-HFD (6M),27,HFD,No,normal,"NASH, obesity"
+SS8_RA8_01_7314_mzML_1,MupHe-HFD (6M),27,HFD,No,normal,"NASH, obesity"
+SS9_RA9_01_7315_mzML_1,MupHe-HFD (6M),27,HFD,No,normal,"NASH, obesity"
+SS10_RA10_01_7316_mzML_1,MupHe-HFD (6M),27,HFD,No,normal,"NASH, obesity"
+SS14_RB2_01_7322_mzML_1,MupHe-HFD (10-11M),44,HFD,No,normal,"NASH, obesity, HCC"
+SS15_RB3_01_7323_mzML_1,MupHe-HFD (10-11M),44,HFD,No,normal,"NASH, obesity, HCC"
+SS16_RB4_01_7324_mzML_1,MupHe-HFD (10-11M),44,HFD,No,normal,"NASH, obesity, HCC"
+SS17_RB5_01_7325_mzML_1,MupHe-HFD (10-11M),44,HFD,No,normal,"NASH, obesity, HCC"
+SS18_RB6_01_7326_mzML_1,MupHe-HFD (10-11M),44,HFD,No,normal,"NASH, obesity, HCC"
+SS19_RB7_01_7327_mzML_1,MupHe-HFD (10-11M),41,HFD,No,normal,"NASH, obesity, HCC"
+SS20_RB8_01_7328_mzML_1,MupHe-HFD (10-11M),39,HFD,No,normal,"NASH, obesity, HCC"
+SS21_RB9_01_7329_mzML_1,MupHe-HFD (10-11M),37,HFD,No,normal,"NASH, obesity, HCC"
+SS22_RB10_01_7330_mzML_1,MupHe-HFD (10-11M),39,HFD,No,normal,"NASH, obesity, HCC"
+SS23_RB11_01_7331_mzML_1,MupHe-HFD (10-11M),39,HFD,No,normal,"NASH, obesity, HCC"
+SS24_RB12_01_7332_mzML_1,MupHe-HFD (10-11M),39,HFD,No,normal,"NASH, obesity, HCC"
+SS25_RC1_01_7334_mzML_1,MupHe-HFD (10-11M),45,HFD,No,normal,"NASH, obesity, HCC"
+SS26_RC2_01_7335_mzML_1,MupHe-HFD (10-11M),45,HFD,No,normal,"NASH, obesity, HCC"
+SS27_RC3_01_7336_mzML_1,MupHe-HFD (10-11M),51,HFD,No,normal,"NASH, obesity, HCC"
+SS28_RC4_01_7337_mzML_1,MupHe-HFD (10-11M),51,HFD,No,normal,"NASH, obesity, HCC"
+SS29_RC5_01_7338_mzML_1,MupHe-HFD (10-11M),41,HFD,No,normal,"NASH, obesity, HCC"
+SS30_RC6_01_7339_mzML_1,MupHe-HFD (10-11M),41,HFD,No,normal,"NASH, obesity, HCC"
+SS31_RC7_01_7340_mzML_1,MupHe-HFD (10-11M),41,HFD,No,normal,"NASH, obesity, HCC"
+SS32_RC8_01_7341_mzML_1,MupHe-HFD (10-11M),38,HFD,No,normal,"NASH, obesity, HCC"
+SS33_RC9_01_7342_mzML_1,MupHe-HFD (10-11M),38,HFD,No,normal,"NASH, obesity, HCC"
+SS34_RC10_01_7343_mzML_1,MupHe-HFD (10-11M),36,HFD,No,normal,"NASH, obesity, HCC"
+SS35_RC11_01_7344_mzML_1,MupHe-HFD (10-11M),44,HFD,No,normal,"NASH, obesity, HCC"
+SS36_RC12_01_7345_mzML_1,MupHe-HFD (10-11M),44,HFD,No,normal,"NASH, obesity, HCC"
+SS37_RD1_01_7347_mzML_1,MupHe-HFD (10-11M),42,HFD,No,normal,"NASH, obesity, HCC"
+SS38_RD2_01_7348_mzML_1,MupHe-HFD (10-11M),42,HFD,No,normal,"NASH, obesity, HCC"
+SS39_RD3_01_7349_mzML_1,MupHe-HFD (10-11M),47,HFD,No,normal,"NASH, obesity, HCC"
+SS40_RD4_01_7350_mzML_1,MupHe-HFD (10-11M),49,HFD,No,normal,"NASH, obesity, HCC"
+SS41_RD5_01_7351_mzML_1,MupHe-HFD (10-11M),50,HFD,No,normal,"NASH, obesity, HCC"
+SS42_RD6_01_7352_mzML_1,MupHe-HFD (10-11M),50,HFD,No,normal,"NASH, obesity, HCC"
+SS43_RD7_01_7353_mzML_1,MupHe-HFD (10-11M),49,HFD,No,normal,"NASH, obesity, HCC"
+SS44_RD8_01_7355_mzML_1,MupHe-HFD (10-11M),48,HFD,No,normal,"NASH, obesity, HCC"
+SS45_RD9_01_7356_mzML_1,MupHe-HFD (10-11M),47,HFD,No,normal,"NASH, obesity, HCC"
+SS46_RD10_01_7357_mzML_1,MupHe-HFD (10-11M),40,HFD,No,normal,"NASH, obesity, HCC"
+SS47_RD11_01_7358_mzML_1,MupHe-HFD (10-11M),47,HFD,No,normal,"NASH, obesity, HCC"
+SS48_RD12_01_7359_mzML_1,MupHe-HFD (10-11M),48,HFD,No,normal,"NASH, obesity, HCC"
+SS49_RE1_01_7361_mzML_1,MupHe-HFD (10-11M),39,HFD,No,normal,"NASH, obesity, HCC"
+SS64_RF4_01_7377_mzML_1,B6-HFD (6M),34,HFD,No,normal,obese only
+SS65_RF5_01_7378_mzML_1,B6-HFD (6M),34,HFD,No,normal,obese only
+SS66_RF6_01_7379_mzML_1,B6-HFD (6M),32,HFD,No,normal,obese only
+SS67_RF7_01_7380_mzML_1,B6-HFD (6M),32,HFD,No,normal,obese only
+SS68_RF8_01_7381_mzML_1,B6-HFD (6M),32,HFD,No,normal,obese only
+SS75_RG3_01_7390_mzML_1,B6-HFD (10-11M),50,HFD,No,normal,obese only
+SS76_RG4_01_7391_mzML_1,B6-HFD (10-11M),50,HFD,No,normal,obese only
+SS77_RG5_01_7392_mzML_1,B6-HFD (10-11M),50,HFD,No,normal,obese only
+SS78_RG6_01_7393_mzML_1,B6-HFD (10-11M),51,HFD,No,normal,obese only
+SS79_RG7_01_7394_mzML_1,B6-HFD (10-11M),51,HFD,No,normal,obese only
+SS80_RG8_01_7395_mzML_1,B6-HFD (10-11M),42,HFD,No,normal,obese only
+SS81_RG9_01_7396_mzML_1,B6-HFD (10-11M),42,HFD,No,normal,obese only
+SS82_RG10_01_7397_mzML_1,B6-HFD (10-11M),47,HFD,No,normal,obese only
+SS83_RG11_01_7398_mzML_1,B6-HFD (10-11M),50,HFD,No,normal,obese only
+SS92_RH8_01_7409_mzML_1,IgAkMup-HFD (6M),27,HFD,No,no IgA - some susceptibility,"NASH, obesity, no IgA"
+SS93_RH9_01_7410_mzML_1,IgAkMup-HFD (6M),29,HFD,No,no IgA - some susceptibility,"NASH, obesity, no IgA"
+SS94_RA1_01_7418_mzML_1,IgAkMup-HFD (6M),29,HFD,No,no IgA - some susceptibility,"NASH, obesity, no IgA"
+SS95_RA2_01_7419_mzML_1,IgAkMup-HFD (6M),26,HFD,No,no IgA - some susceptibility,"NASH, obesity, no IgA"
+SS96_RA3_01_7420_mzML_1,IgAkMup-HFD (6M),26,HFD,No,no IgA - some susceptibility,"NASH, obesity, no IgA"
+SS97_RA4_01_7421_mzML_1,IgAkMup-HFD (6M),26,HFD,No,no IgA - some susceptibility,"NASH, obesity, no IgA"
+SS98_RA5_01_7422_mzML_1,IgAkMup-HFD (6M),26,HFD,No,no IgA - some susceptibility,"NASH, obesity, no IgA"
+SS99_RA6_01_7423_mzML_1,IgAkMup-HFD (6M),28,HFD,No,no IgA - some susceptibility,"NASH, obesity, no IgA"
+SS100_RA7_01_7424_mzML_1,IgAkMup-HFD (6M),28,HFD,No,no IgA - some susceptibility,"NASH, obesity, no IgA"
+SS101_RA8_01_7425_mzML_1,IgAkMup-HFD (6M),27,HFD,No,no IgA - some susceptibility,"NASH, obesity, no IgA"
+SS102_RA9_01_7426_mzML_1,IgAkMup-HFD (6M),27,HFD,No,no IgA - some susceptibility,"NASH, obesity, no IgA"
+SS107_RB2_01_7432_mzML_1,IgAkMup-HFD (10-11M),37,HFD,No,no IgA - some susceptibility,"NASH, HCC, no IgA"
+SS108_RB3_01_7433_mzML_1,IgAkMup-HFD (10-11M),36,HFD,No,no IgA - some susceptibility,"NASH, HCC, no IgA"
+SS109_RB4_01_7434_mzML_1,IgAkMup-HFD (10-11M),45,HFD,No,no IgA - some susceptibility,"NASH, HCC, no IgA"
+SS110_RB5_01_7435_mzML_1,IgAkMup-HFD (10-11M),45,HFD,No,no IgA - some susceptibility,"NASH, HCC, no IgA"
+SS111_RB6_01_7436_mzML_1,IgAkMup-HFD (10-11M),45,HFD,No,no IgA - some susceptibility,"NASH, HCC, no IgA"
+SS112_RB7_01_7437_mzML_1,IgAkMup-HFD (10-11M),45,HFD,No,no IgA - some susceptibility,"NASH, HCC, no IgA"
+SS113_RB8_01_7438_mzML_1,IgAkMup-HFD (10-11M),45,HFD,No,no IgA - some susceptibility,"NASH, HCC, no IgA"
+SS114_RB9_01_7439_mzML_1,IgAkMup-HFD (10-11M),44,HFD,No,no IgA - some susceptibility,"NASH, HCC, no IgA"
+SS115_RB10_01_7440_mzML_1,IgAkMup-HFD (10-11M),44,HFD,No,no IgA - some susceptibility,"NASH, HCC, no IgA"
+SS116_RB11_01_7441_mzML_1,IgAkMup-HFD (10-11M),45,HFD,No,no IgA - some susceptibility,"NASH, HCC, no IgA"
+SS117_RB12_01_7442_mzML_1,IgAkMup-HFD (10-11M),45,HFD,No,no IgA - some susceptibility,"NASH, HCC, no IgA"
+SS118_RC1_01_7444_mzML_1,IgAkMup-HFD (10-11M),45,HFD,No,no IgA - some susceptibility,"NASH, HCC, no IgA"
+SS119_RC2_01_7445_mzML_1,IgAkMup-HFD (10-11M),45,HFD,No,no IgA - some susceptibility,"NASH, HCC, no IgA"
+SS120_RC3_01_7446_mzML_1,IgAkMup-HFD (10-11M),47,HFD,No,no IgA - some susceptibility,"NASH, HCC, no IgA"
+SS121_RC4_01_7447_mzML_1,IgAkMup-HFD (10-11M),47,HFD,No,no IgA - some susceptibility,"NASH, HCC, no IgA"
+SS122_RC5_01_7448_mzML_1,IgAkMup-HFD (10-11M),46,HFD,No,no IgA - some susceptibility,"NASH, HCC, no IgA"
+SS123_RC6_01_7449_mzML_1,IgAkMup-HFD (10-11M),46,HFD,No,no IgA - some susceptibility,"NASH, HCC, no IgA"
+SS124_RC7_01_7450_mzML_1,IgAkMup-HFD (10-11M),46,HFD,No,no IgA - some susceptibility,"NASH, HCC, no IgA"
+SS125_RC8_01_7451_mzML_1,IgAkMup-HFD (10-11M),50,HFD,No,no IgA - some susceptibility,"NASH, HCC, no IgA"
+SS126_RC9_01_7452_mzML_1,IgAkMup-HFD (10-11M),49,HFD,No,no IgA - some susceptibility,"NASH, HCC, no IgA"
+SS127_RC10_01_7453_mzML_1,IgAkMup-HFD (10-11M),49,HFD,No,no IgA - some susceptibility,"NASH, HCC, no IgA"
+SS128_RC11_01_7454_mzML_1,IgAkMup-HFD (10-11M),49,HFD,No,no IgA - some susceptibility,"NASH, HCC, no IgA"
+SS129_RC12_01_7455_mzML_1,IgAkMup-HFD (10-11M),49,HFD,No,no IgA - some susceptibility,"NASH, HCC, no IgA"
+SS130_RD1_01_7457_mzML_1,IgAkMup-HFD (10-11M),48,HFD,No,no IgA - some susceptibility,"NASH, HCC, no IgA"
+SS131_RD2_01_7458_mzML_1,IgAkMup-HFD (10-11M),48,HFD,No,no IgA - some susceptibility,"NASH, HCC, no IgA"
+SS132_RD3_01_7459_mzML_1,IgAkMup-HFD (10-11M),48,HFD,No,no IgA - some susceptibility,"NASH, HCC, no IgA"
+SS133_RD4_01_7460_mzML_1,IgAkMup-HFD (10-11M),48,HFD,No,no IgA - some susceptibility,"NASH, HCC, no IgA"
+SS134_RD5_01_7461_mzML_1,IgAkMup-HFD (10-11M),51,HFD,No,no IgA - some susceptibility,"NASH, HCC, no IgA"
+SS135_RD6_01_7462_mzML_1,IgAkMup-HFD (10-11M),50,HFD,No,no IgA - some susceptibility,"NASH, HCC, no IgA"
+SS136_RD7_01_7463_mzML_1,IgAkMup-HFD (10-11M),50,HFD,No,no IgA - some susceptibility,"NASH, HCC, no IgA"
+SS137_RD8_01_7464_mzML_1,IgAkMup-HFD (10-11M),48,HFD,No,no IgA - some susceptibility,"NASH, HCC, no IgA"
+SS138_RD9_01_7465_mzML_1,IgAkMup-HFD (10-11M),46,HFD,No,no IgA - some susceptibility,"NASH, HCC, no IgA"
+SS139_RD10_01_7466_mzML_1,IgAkMup-HFD (10-11M),50,HFD,No,no IgA - some susceptibility,"NASH, HCC, no IgA"
+SS143_RE2_01_7471_mzML_1,IgAk-HFD (6M),27,HFD,No,no IgA - some susceptibility,obese no IgA
+SS144_RE3_01_7472_mzML_1,IgAk-HFD (6M),28,HFD,No,no IgA - some susceptibility,obese no IgA
+SS145_RE4_01_7473_mzML_1,IgAk-HFD (6M),27,HFD,No,no IgA - some susceptibility,obese no IgA
+SS146_RE5_01_7474_mzML_1,IgAk-HFD (6M),26,HFD,No,no IgA - some susceptibility,obese no IgA
+SS147_RE6_01_7475_mzML_1,IgAk-HFD (6M),26,HFD,No,no IgA - some susceptibility,obese no IgA
+SS153_RE12_01_7484_mzML_1,IgAk-HFD (10-11M),47,HFD,No,no IgA - some susceptibility,obese no IgA
+SS154_RF1_01_7486_mzML_1,IgAk-HFD (10-11M),37,HFD,No,no IgA - some susceptibility,obese no IgA
+SS155_RF2_01_7487_mzML_1,IgAk-HFD (10-11M),36,HFD,No,no IgA - some susceptibility,obese no IgA
+SS156_RF3_01_7488_mzML_1,IgAk-HFD (10-11M),45,HFD,No,no IgA - some susceptibility,obese no IgA
+SS157_RF4_01_7489_mzML_1,IgAk-HFD (10-11M),45,HFD,No,no IgA - some susceptibility,obese no IgA
+SS158_RF5_01_7490_mzML_1,IgAk-HFD (10-11M),45,HFD,No,no IgA - some susceptibility,obese no IgA
+SS159_RF6_01_7491_mzML_1,IgAk-HFD (10-11M),45,HFD,No,no IgA - some susceptibility,obese no IgA
+SS160_RF7_01_7492_mzML_1,IgAk-HFD (10-11M),45,HFD,No,no IgA - some susceptibility,obese no IgA
+SS161_RF8_01_7493_mzML_1,IgAk-HFD (10-11M),45,HFD,No,no IgA - some susceptibility,obese no IgA
+SS162_RF9_01_7494_mzML_1,IgAk-HFD (10-11M),44,HFD,No,no IgA - some susceptibility,obese no IgA
+SS163_RF10_01_7495_mzML_1,IgAk-HFD (10-11M),45,HFD,No,no IgA - some susceptibility,obese no IgA
+SS164_RF11_01_7496_mzML_1,IgAk-HFD (10-11M),45,HFD,No,no IgA - some susceptibility,obese no IgA
+SS165_RF12_01_7498_mzML_1,IgAk-HFD (10-11M),45,HFD,No,no IgA - some susceptibility,obese no IgA
+SS166_RG1_01_7499_mzML_1,IgAk-HFD (10-11M),50,HFD,No,no IgA - some susceptibility,obese no IgA
+SS167_RG2_01_7500_mzML_1,IgAk-HFD (10-11M),50,HFD,No,no IgA - some susceptibility,obese no IgA
+SS168_RG3_01_7501_mzML_1,IgAk-HFD (10-11M),50,HFD,No,no IgA - some susceptibility,obese no IgA
+SS169_RG4_01_7502_mzML_1,IgAk-HFD (10-11M),49,HFD,No,no IgA - some susceptibility,obese no IgA
+SS170_RG5_01_7503_mzML_1,IgAk-HFD (10-11M),49,HFD,No,no IgA - some susceptibility,obese no IgA
+SS171_RG6_01_7504_mzML_1,IgAk-HFD (10-11M),49,HFD,No,no IgA - some susceptibility,obese no IgA
+SS172_RG7_01_7505_mzML_1,IgAk-HFD (10-11M),49,HFD,No,no IgA - some susceptibility,obese no IgA
+SS173_RG8_01_7506_mzML_1,IgAk-HFD (10-11M),49,HFD,No,no IgA - some susceptibility,obese no IgA
+SS174_RG9_01_7507_mzML_1,IgAk-HFD (10-11M),51,HFD,No,no IgA - some susceptibility,obese no IgA
+SS175_RG10_01_7508_mzML_1,IgAk-HFD (10-11M),49,HFD,No,no IgA - some susceptibility,obese no IgA
+SS176_RG11_01_7509_mzML_1,IgAk-HFD (10-11M),48,HFD,No,no IgA - some susceptibility,obese no IgA
+SS177_RG12_01_7510_mzML_1,IgAk-HFD (10-11M),50,HFD,No,no IgA - some susceptibility,obese no IgA
+SS178_RH1_01_7511_mzML_1,IgAk-HFD (10-11M),50,HFD,No,no IgA - some susceptibility,obese no IgA
+SS183_RH6_01_7520_mzML_1,CD8kMup-HFD (6M),28,HFD,No,CD8KO - some susceptibility,"NASH, obesity, CD8KO"
+SS184_RH7_01_7521_mzML_1,CD8kMup-HFD (6M),28,HFD,No,CD8KO - some susceptibility,"NASH, obesity, CD8KO"
+SS185_RH8_01_7522_mzML_1,CD8kMup-HFD (6M),26,HFD,No,CD8KO - some susceptibility,"NASH, obesity, CD8KO"
+SS186_RH9_01_7523_mzML_1,CD8kMup-HFD (6M),26,HFD,No,CD8KO - some susceptibility,"NASH, obesity, CD8KO"
+SS187_RA1_01_7529_mzML_1,CD8kMup-HFD (6M),26,HFD,No,CD8KO - some susceptibility,"NASH, obesity, CD8KO"
+SS188_RA2_01_7530_mzML_1,CD8kMup-HFD (6M),26,HFD,No,CD8KO - some susceptibility,"NASH, obesity, CD8KO"
+SS189_RA3_01_7531_mzML_1,CD8kMup-HFD (6M),25,HFD,No,CD8KO - some susceptibility,"NASH, obesity, CD8KO"
+SS190_RA4_01_7532_mzML_1,CD8kMup-HFD (6M),30,HFD,No,CD8KO - some susceptibility,"NASH, obesity, CD8KO"
+SS191_RA5_01_7533_mzML_1,CD8kMup-HFD (6M),30,HFD,No,CD8KO - some susceptibility,"NASH, obesity, CD8KO"
+SS192_RA6_01_7534_mzML_1,CD8kMup-HFD (6M),30,HFD,No,CD8KO - some susceptibility,"NASH, obesity, CD8KO"
+SS193_RA7_01_7535_mzML_1,CD8kMup-HFD (6M),30,HFD,No,CD8KO - some susceptibility,"NASH, obesity, CD8KO"
+SS194_RA8_01_7536_mzML_1,CD8kMup-HFD (6M),30,HFD,No,CD8KO - some susceptibility,"NASH, obesity, CD8KO"
+SS200_RB2_01_7543_mzML_1,CD8kMup-HFD (10-11M),42,HFD,No,CD8KO - some susceptibility,"NASH, HCC, CD8KO"
+SS201_RB3_01_7544_mzML_1,CD8kMup-HFD (10-11M),40,HFD,No,CD8KO - some susceptibility,"NASH, HCC, CD8KO"
+SS202_RB4_01_7545_mzML_1,CD8kMup-HFD (10-11M),47,HFD,No,CD8KO - some susceptibility,"NASH, HCC, CD8KO"
+SS203_RB5_01_7546_mzML_1,CD8kMup-HFD (10-11M),47,HFD,No,CD8KO - some susceptibility,"NASH, HCC, CD8KO"
+SS204_RB6_01_7547_mzML_1,CD8kMup-HFD (10-11M),45,HFD,No,CD8KO - some susceptibility,"NASH, HCC, CD8KO"
+SS205_RB7_01_7548_mzML_1,CD8kMup-HFD (10-11M),45,HFD,No,CD8KO - some susceptibility,"NASH, HCC, CD8KO"
+SS206_RB8_01_7549_mzML_1,CD8kMup-HFD (10-11M),45,HFD,No,CD8KO - some susceptibility,"NASH, HCC, CD8KO"
+SS207_RB9_01_7550_mzML_1,CD8kMup-HFD (10-11M),49,HFD,No,CD8KO - some susceptibility,"NASH, HCC, CD8KO"
+SS208_RB10_01_7551_mzML_1,CD8kMup-HFD (10-11M),49,HFD,No,CD8KO - some susceptibility,"NASH, HCC, CD8KO"
+SS209_RB11_01_7552_mzML_1,CD8kMup-HFD (10-11M),49,HFD,No,CD8KO - some susceptibility,"NASH, HCC, CD8KO"
+SS210_RB12_01_7553_mzML_1,CD8kMup-HFD (10-11M),49,HFD,No,CD8KO - some susceptibility,"NASH, HCC, CD8KO"
+SS211_RC1_01_7555_mzML_1,CD8kMup-HFD (10-11M),49,HFD,No,CD8KO - some susceptibility,"NASH, HCC, CD8KO"
+SS212_RC2_01_7556_mzML_1,CD8kMup-HFD (10-11M),48,HFD,No,CD8KO - some susceptibility,"NASH, HCC, CD8KO"
+SS213_RC3_01_7557_mzML_1,CD8kMup-HFD (10-11M),48,HFD,No,CD8KO - some susceptibility,"NASH, HCC, CD8KO"
+SS214_RC4_01_7558_mzML_1,CD8kMup-HFD (10-11M),48,HFD,No,CD8KO - some susceptibility,"NASH, HCC, CD8KO"
+SS215_RC5_01_7559_mzML_1,CD8kMup-HFD (10-11M),48,HFD,No,CD8KO - some susceptibility,"NASH, HCC, CD8KO"
+SS216_RC6_01_7560_mzML_1,CD8kMup-HFD (10-11M),48,HFD,No,CD8KO - some susceptibility,"NASH, HCC, CD8KO"
+SS217_RC7_01_7561_mzML_1,CD8kMup-HFD (10-11M),37,HFD,No,CD8KO - some susceptibility,"NASH, HCC, CD8KO"
+SS218_RC8_01_7562_mzML_1,CD8kMup-HFD (10-11M),37,HFD,No,CD8KO - some susceptibility,"NASH, HCC, CD8KO"
+SS219_RC9_01_7563_mzML_1,CD8kMup-HFD (10-11M),47,HFD,No,CD8KO - some susceptibility,"NASH, HCC, CD8KO"
+SS220_RC10_01_7564_mzML_1,CD8kMup-HFD (10-11M),47,HFD,No,CD8KO - some susceptibility,"NASH, HCC, CD8KO"
+SS221_RC11_01_7565_mzML_1,CD8kMup-HFD (10-11M),47,HFD,No,CD8KO - some susceptibility,"NASH, HCC, CD8KO"
+SS222_RC12_01_7566_mzML_1,CD8kMup-HFD (10-11M),50,HFD,No,CD8KO - some susceptibility,"NASH, HCC, CD8KO"
+SS223_RD1_01_7568_mzML_1,CD8kMup-HFD (10-11M),50,HFD,No,CD8KO - some susceptibility,"NASH, HCC, CD8KO"
+SS224_RD2_01_7569_mzML_1,CD8kMup-HFD (10-11M),51,HFD,No,CD8KO - some susceptibility,"NASH, HCC, CD8KO"
+SS225_RD3_01_7570_mzML_1,CD8kMup-HFD (10-11M),51,HFD,No,CD8KO - some susceptibility,"NASH, HCC, CD8KO"
+SS226_RD4_01_7571_mzML_1,CD8kMup-HFD (10-11M),49,HFD,No,CD8KO - some susceptibility,"NASH, HCC, CD8KO"
+SS227_RD5_01_7572_mzML_1,CD8kMup-HFD (10-11M),49,HFD,No,CD8KO - some susceptibility,"NASH, HCC, CD8KO"
+SS228_RD6_01_7573_mzML_1,CD8kMup-HFD (10-11M),49,HFD,No,CD8KO - some susceptibility,"NASH, HCC, CD8KO"
+SS229_RD7_01_7574_mzML_1,CD8kMup-HFD (10-11M),49,HFD,No,CD8KO - some susceptibility,"NASH, HCC, CD8KO"
+SS230_RD8_01_7575_mzML_1,CD8kMup-HFD (10-11M),48,HFD,No,CD8KO - some susceptibility,"NASH, HCC, CD8KO"
+SS231_RD9_01_7576_mzML_1,CD8kMup-HFD (10-11M),48,HFD,No,CD8KO - some susceptibility,"NASH, HCC, CD8KO"
+SS236_RE2_01_7582_mzML_1,CD8k-HFD (6M),30,HFD,No,CD8KO - some susceptibility,"obese, CD8KO"
+SS237_RE3_01_7583_mzML_1,CD8k-HFD (6M),30,HFD,No,CD8KO - some susceptibility,"obese, CD8KO"
+SS238_RE4_01_7584_mzML_1,CD8k-HFD (6M),28,HFD,No,CD8KO - some susceptibility,"obese, CD8KO"
+SS239_RE5_01_7585_mzML_1,CD8k-HFD (6M),30,HFD,No,CD8KO - some susceptibility,"obese, CD8KO"
+SS240_RE6_01_7586_mzML_1,CD8k-HFD (6M),30,HFD,No,CD8KO - some susceptibility,"obese, CD8KO"
+SS241_RE7_01_7587_mzML_1,CD8k-HFD (6M),30,HFD,No,CD8KO - some susceptibility,"obese, CD8KO"
+SS247_RF1_01_7594_mzML_1,CD8k-HFD (10-11M),40,HFD,No,CD8KO - some susceptibility,"obese, CD8KO"
+SS248_RF2_01_7595_mzML_1,CD8k-HFD (10-11M),45,HFD,No,CD8KO - some susceptibility,"obese, CD8KO"
+SS249_RF3_01_7596_mzML_1,CD8k-HFD (10-11M),49,HFD,No,CD8KO - some susceptibility,"obese, CD8KO"
+SS250_RF4_01_7597_mzML_1,CD8k-HFD (10-11M),49,HFD,No,CD8KO - some susceptibility,"obese, CD8KO"
+SS251_RF5_01_7598_mzML_1,CD8k-HFD (10-11M),49,HFD,No,CD8KO - some susceptibility,"obese, CD8KO"
+SS252_RF6_01_7599_mzML_1,CD8k-HFD (10-11M),49,HFD,No,CD8KO - some susceptibility,"obese, CD8KO"
+SS253_RF7_01_7600_mzML_1,CD8k-HFD (10-11M),47,HFD,No,CD8KO - some susceptibility,"obese, CD8KO"
+SS254_RF8_01_7601_mzML_1,CD8k-HFD (10-11M),47,HFD,No,CD8KO - some susceptibility,"obese, CD8KO"
+SS255_RF9_01_7602_mzML_1,CD8k-HFD (10-11M),50,HFD,No,CD8KO - some susceptibility,"obese, CD8KO"
+SS256_RF10_01_7603_mzML_1,CD8k-HFD (10-11M),50,HFD,No,CD8KO - some susceptibility,"obese, CD8KO"
+SS260_RG2_01_7608_mzML_1,RagkMupe-HFD (6M),26,HFD,No,no t or b cells,"NASH, obese, no b or t cells"
+SS261_RG3_01_7609_mzML_1,RagkMupe-HFD (6M),26,HFD,No,no t or b cells,"NASH, obese, no b or t cells"
+SS262_RG4_01_7610_mzML_1,RagkMupe-HFD (6M),26,HFD,No,no t or b cells,"NASH, obese, no b or t cells"
+SS263_RG5_01_7611_mzML_1,RagkMupe-HFD (6M),26,HFD,No,no t or b cells,"NASH, obese, no b or t cells"
+SS264_RG6_01_7612_mzML_1,RagkMupe-HFD (6M),26,HFD,No,no t or b cells,"NASH, obese, no b or t cells"
+SS265_RG7_01_7613_mzML_1,RagkMupe-HFD (6M),25,HFD,No,no t or b cells,"NASH, obese, no b or t cells"
+SS266_RG8_01_7614_mzML_1,RagkMupe-HFD (6M),25,HFD,No,no t or b cells,"NASH, obese, no b or t cells"
+SS267_RG9_01_7615_mzML_1,RagkMupe-HFD (10-11M),51,HFD,No,no t or b cells,"NASH, obese, no b or t cells"
+SS268_RG10_01_7616_mzML_1,RagkMupe-HFD (10-11M),51,HFD,No,no t or b cells,"NASH, obese, no b or t cells"
+SS269_RG11_01_7617_mzML_1,RagkMupe-HFD (10-11M),51,HFD,No,no t or b cells,"NASH, obese, no b or t cells"
+SS270_RG12_01_7618_mzML_1,RagkMupe-HFD (10-12M),50,HFD,No,no t or b cells,"NASH, obese, no b or t cells"
+SS271_RH1_01_7620_mzML_1,RagkMupe-HFD (10-13M),49,HFD,No,no t or b cells,"NASH, obese, no b or t cells"
+SS272_RH2_01_7621_mzML_1,RagkMupe-HFD (10-14M),47,HFD,No,no t or b cells,"NASH, obese, no b or t cells"
+SS273_RH3_01_7622_mzML_1,IgMkMup-HFD (10-11M),41,HFD,No,no Ig M - some susceptibility,"NASH, obese, no IgM"
+SS274_RH4_01_7623_mzML_1,IgMkMup-HFD (10-11M),41,HFD,No,no Ig M - some susceptibility,"NASH, obese, no IgM"
+SS275_RH5_01_7624_mzML_1,IgMkMup-HFD (10-11M),39,HFD,No,no Ig M - some susceptibility,"NASH, obese, no IgM"
+SS276_RH6_01_7625_mzML_1,IgMkMup-HFD (10-11M),39,HFD,No,no Ig M - some susceptibility,"NASH, obese, no IgM"
+SS277_RH7_01_7626_mzML_1,IgMkMup-HFD (10-11M),51,HFD,No,no Ig M - some susceptibility,"NASH, obese, no IgM"
+SS278_RH8_01_7627_mzML_1,SI-MupHe-HFD (10-11M),49,HFD,No,none,"Colon, NASH, obese"
+SS279_RH9_01_7628_mzML_1,SI-MupHe-HFD (10-11M),49,HFD,No,none,"SI, NASH, obese"
+SS280_RA1_01_7634_mzML_1,SI-MupHe-HFD (10-11M),49,HFD,No,none,"Colon, NASH, obese"
+SS281_RA2_01_7635_mzML_1,SI-MupHe-HFD (10-11M),49,HFD,No,none,"SI, NASH, obese"
+SS282_RA3_01_7636_mzML_1,SI-MupHe-HFD (10-11M),49,HFD,No,none,"Colon, NASH, obese"
+SS283_RA4_01_7637_mzML_1,SI-MupHe-HFD (10-11M),49,HFD,No,none,"SI, NASH, obese"
+SS284_RA5_01_7638_mzML_1,SI-IgAkMup-HFD (10-11M),48,HFD,No,no IgA - some susceptibility,"Colon, NASH, obese, no IgA"
+SS285_RA6_01_7639_mzML_1,SI-IgAkMup-HFD (10-11M),48,HFD,No,no IgA - some susceptibility,"SI, NASH, obese, no IgA"
+SS286_RA7_01_7640_mzML_1,SI-IgAkMup-HFD (10-11M),48,HFD,No,no IgA - some susceptibility,"Colon, NASH, obese, no IgA"
+SS287_RA8_01_7641_mzML_1,SI-IgAkMup-HFD (10-11M),48,HFD,No,no IgA - some susceptibility,"SI, NASH, obese, no IgA"
+SS288_RA9_01_7642_mzML_1,SI-IgAkMup-HFD (10-11M),48,HFD,No,no IgA - some susceptibility,"Colon, NASH, obese, no IgA"
+SS289_RA10_01_7643_mzML_1,SI-IgAkMup-HFD (10-11M),48,HFD,No,no IgA - some susceptibility,"SI, NASH, obese, no IgA"
+SS290_RA11_01_7644_mzML_1,SI-IgAkMup-HFD (10-11M),48,HFD,No,no IgA - some susceptibility,"Colon, NASH, obese, no IgA"
+SS291_RA12_01_7645_mzML_1,SI-IgAkMup-HFD (10-11M),48,HFD,No,no IgA - some susceptibility,"SI, NASH, obese, no IgA"
+SS292_RB1_01_7647_mzML_1,SI-CD8kMup-HFD (10-11M),51,HFD,No,CD8KO - some susceptibility,"Colon, NASH, obese, CD8KO"
+SS293_RB2_01_7648_mzML_1,SI-CD8kMup-HFD (10-11M),51,HFD,No,CD8KO - some susceptibility,"SI, NASH, obese, CD8KO"
+SS294_RB3_01_7649_mzML_1,SI-CD8kMup-HFD (10-11M),51,HFD,No,CD8KO - some susceptibility,"Colon, NASH, obese, CD8KO"
+SS295_RB4_01_7650_mzML_1,SI-CD8kMup-HFD (10-11M),51,HFD,No,CD8KO - some susceptibility,"SI, NASH, obese, CD8KO"
+SS296_RB5_01_7651_mzML_1,SI-CD8kMup-HFD (10-11M),47,HFD,No,CD8KO - some susceptibility,"Colon, NASH, obese, CD8KO"
+SS297_RB6_01_7652_mzML_1,SI-CD8kMup-HFD (10-11M),47,HFD,No,CD8KO - some susceptibility,"SI, NASH, obese, CD8KO"
+SS298_RB7_01_7653_mzML_1,SI-CD8kMup-HFD (10-11M),47,HFD,No,CD8KO - some susceptibility,"Colon, NASH, obese, CD8KO"
+SS299_RB8_01_7654_mzML_1,SI-CD8kMup-HFD (10-11M),47,HFD,No,CD8KO - some susceptibility,"SI, NASH, obese, CD8KO"
+SS300_RB9_01_7655_mzML_1,STAM-B6,26,HFD,No,none,"T1d, NASH driven HCC"
+SS301_RB10_01_7656_mzML_1,STAM-B6,26,HFD,No,none,"T1d, NASH driven HCC"
+SS302_RB11_01_7657_mzML_1,STAM-B6,26,HFD,No,none,"T1d, NASH driven HCC"
+SS303_RB12_01_7658_mzML_1,STAM-B6,26,HFD,No,none,"T1d, NASH driven HCC"
+SS304_RC1_01_7660_mzML_1,STAM-B6-PIGRHe,25,HFD,No,none,"T1d, NASH driven HCC"
+SS305_RC2_01_7661_mzML_1,STAM-B6-PIGRHe,25,HFD,No,none,"T1d, NASH driven HCC"
+SS306_RC3_01_7662_mzML_1,STAM-B6-IgAk,26,HFD,No,no IgA - some susceptibility,"T1d, NASH driven HCC, no IgA"
+SS307_RC4_01_7663_mzML_1,STAM-B6-IgAk,26,HFD,No,no IgA - some susceptibility,"T1d, NASH driven HCC, no IgA"
+SS308_RC5_01_7664_mzML_1,STAM-B6-IgAk,26,HFD,No,no IgA - some susceptibility,"T1d, NASH driven HCC, no IgA"
+SS309_RC6_01_7665_mzML_1,STAM-B6-IgAk,26,HFD,No,no IgA - some susceptibility,"T1d, NASH driven HCC, no IgA"
+SS310_RC7_01_7666_mzML_1,STAM-B6-PIGRK,26,HFD,No,none,"T1d, NASH driven HCC"
+SS311_RC8_01_7667_mzML_1,STAM-B6-PIGRK,26,HFD,No,none,"T1d, NASH driven HCC"
+SS312_RC9_01_7668_mzML_1,STAM-B6-PIGRK,26,HFD,No,none,"T1d, NASH driven HCC"
+SS313_RC10_01_7669_mzML_1,STAM-B6-PIGRK,26,HFD,No,none,"T1d, NASH driven HCC"
+SS314_RC11_01_7670_mzML_1,STAM-B6-Ighel/MD4,25,HFD,No,none,"T1d, NASH driven HCC"
+SS315_RC12_01_7671_mzML_1,STAM-B6-Ighel/MD4,25,HFD,No,none,"T1d, NASH driven HCC"
+SS316_RD1_01_7673_mzML_1,STAM-B6-Ighel/MD4,25,HFD,No,none,"T1d, NASH driven HCC"
+SS317_RD2_01_7674_mzML_1,STAM-B6-Ighel/MD4,25,HFD,No,none,"T1d, NASH driven HCC"
+SS332_RE5_01_7690_mzML_1,STAM-FVB,22,HFD,No,none,"FVB, NASH driven HCC"
+SS333_RE6_01_7691_mzML_1,STAM-FVB,22,HFD,No,none,"FVB, NASH driven HCC"
+SS334_RE7_01_7692_mzML_1,STAM-FVB,22,HFD,No,none,"FVB, NASH driven HCC"
+SS335_RE8_01_7693_mzML_1,STAM-FVB,22,HFD,No,none,"FVB, NASH driven HCC"
+SS336_RE9_01_7694_mzML_1,STAM-JH,20,HFD,No,none,"FVB, NASH driven HCC"
+SS337_RE10_01_7695_mzML_1,STAM-JH,20,HFD,No,none,"FVB, NASH driven HCC"
+SS338_RE11_01_7696_mzML_1,STAM-JH,20,HFD,No,none,"FVB, NASH driven HCC"
+SS339_RE12_01_7697_mzML_1,STAM-JH,20,HFD,No,none,"FVB, NASH driven HCC"
+SS340_RF1_01_7699_mzML_1,STAM-JH,20,HFD,No,none,"FVB, NASH driven HCC"
+SS341_RF2_01_7700_mzML_1,STAM-JH,20,HFD,No,none,"FVB, NASH driven HCC"
+SS342_RF3_01_7701_mzML_1,STAM-JH,20,HFD,No,none,"FVB, NASH driven HCC"
+SS343_RF4_01_7702_mzML_1,STAM-JH,22,HFD,No,none,"FVB, NASH driven HCC"
+SS344_RF5_01_7703_mzML_1,STAM-JH,22,HFD,No,none,"FVB, NASH driven HCC"
+SS345_RF6_01_7704_mzML_1,STAM-JH,22,HFD,No,none,"FVB, NASH driven HCC"
+SS346_RF7_01_7705_mzML_1,STAM-FVB-IgAk,20,HFD,No,no IgA - some susceptibility,"FVB, NASH driven HCC, no IgA"
+SS347_RF8_01_7706_mzML_1,STAM-FVB-IgAk,20,HFD,No,no IgA - some susceptibility,"FVB, NASH driven HCC, no IgA"
+SS348_RF9_01_7707_mzML_1,STAM-FVB-IgAk,21,HFD,No,no IgA - some susceptibility,"FVB, NASH driven HCC, no IgA"
+SS349_RF10_01_7708_mzML_1,STAM-FVB-IgAk,21,HFD,No,no IgA - some susceptibility,"FVB, NASH driven HCC, no IgA"
+SS350_RF11_01_7709_mzML_1,STAM-FVB-IgAk,21,HFD,No,no IgA - some susceptibility,"FVB, NASH driven HCC, no IgA"
+SS351_RF12_01_7710_mzML_1,STAM-FVB-IgAk,21,HFD,No,no IgA - some susceptibility,"FVB, NASH driven HCC, no IgA"
+SS352_RG1_01_7712_mzML_1,STAM-FVB-IgAk,20,HFD,No,no IgA - some susceptibility,"FVB, NASH driven HCC, no IgA"
+SS353_RG2_01_7713_mzML_1,STAM-FVB-IgAk,20,HFD,No,no IgA - some susceptibility,"FVB, NASH driven HCC, no IgA"
+SS354_RG3_01_7714_mzML_1,STAM-FVB-IgAk,20,HFD,No,no IgA - some susceptibility,"FVB, NASH driven HCC, no IgA"
+SS355_RG4_01_7715_mzML_1,STAM-FVB-IgAk,20,HFD,No,no IgA - some susceptibility,"FVB, NASH driven HCC, no IgA"
+SS356_RG5_01_7716_mzML_1,STAM-FVB-IgAk,20,HFD,No,no IgA - some susceptibility,"FVB, NASH driven HCC, no IgA"
+SS357_RG6_01_7717_mzML_1,STAM-FVB-IgAk,20,HFD,No,no IgA - some susceptibility,"FVB, NASH driven HCC, no IgA"
+SS358_RG7_01_7718_mzML_1,STAM-FVB-B-TGFbR,19,HFD,No,none,"NASH driven HCC, TGFbrko"
+SS359_RG8_01_7719_mzML_1,STAM-FVB-B-TGFbR,19,HFD,No,none,"NASH driven HCC, TGFbrko"
+SS360_RG9_01_7720_mzML_1,STAM-FVB-B-TGFbR,19,HFD,No,none,"NASH driven HCC, TGFbrko"
+SS361_RG10_01_7721_mzML_1,STAM-FVB-B-TGFbR,20,HFD,No,none,"NASH driven HCC, TGFbrko"
+SS362_RG11_01_7722_mzML_1,STAM-FVB-B-TGFbR,20,HFD,No,none,"NASH driven HCC, TGFbrko"
+SS363_RG12_01_7723_mzML_1,STAM-FVB-B-TGFbR,20,HFD,No,none,"NASH driven HCC, TGFbrko"
+SS364_RH1_01_7725_mzML_1,STAM-FVB-B-TGFbR,20,HFD,No,none,"NASH driven HCC, TGFbrko"
+SS365_RH2_01_7726_mzML_1,STAM-FVB-B-TGFbR,20,HFD,No,none,"NASH driven HCC, TGFbrko"
+SS366_RH3_01_7727_mzML_1,STAM-FVB-B-TGFbR,20,HFD,No,none,"NASH driven HCC, TGFbrko"
+SS367_RH4_01_7728_mzML_1,STAM-FVB-B-TGFbR,20,HFD,No,none,"NASH driven HCC, TGFbrko"
+SS368_RH5_01_7729_mzML_1,STAM-FVB-TGFbRff,19,HFD,No,none,"NASH driven HCC, TGFbRflox/flox"
+SS369_RH6_01_7730_mzML_1,STAM-FVB-TGFbRff,19,HFD,No,none,"NASH driven HCC, TGFbRflox/flox"
+SS370_RH7_01_7731_mzML_1,STAM-FVB-TGFbRff,20,HFD,No,none,"NASH driven HCC, TGFbRflox/flox"
+SS392_RB8_01_7759_mzML_1,MupHe-HFD-aPD-L1 (10-11M),51,HFD,No,none,HCC
+SS393_RB9_01_7760_mzML_1,MupHe-HFD-aPD-L1 (10-11M),51,HFD,No,none,HCC
+SS394_RB10_01_7761_mzML_1,MupHe-HFD-aPD-L1 (10-11M),51,HFD,No,none,HCC
+SS395_RB11_01_7762_mzML_1,MupHe-HFD-LALAPG (10-11M),51,HFD,No,none,HCC
+SS397_RC1_01_7765_mzML_1,MupHe-HFD-LALAPG (10-11M),51,HFD,No,none,HCC
+SS398_RC2_01_7766_mzML_1,MupHe-HFD-Oxali (10-11M),41,HFD,No,none,HCC
+SS399_RC3_01_7767_mzML_1,MupHe-HFD-Oxali (10-11M),40,HFD,No,none,HCC
+SS400_RC4_01_7768_mzML_1,MupHe-HFD-Oxali (10-11M),39,HFD,No,none,HCC
+SS401_RC5_01_7769_mzML_1,MupHe-HFD-Oxali (10-11M),37,HFD,No,none,HCC
+SS402_RC6_01_7770_mzML_1,MupHe-HFD-Oxali+aPD-L1 (10-11M),41,HFD,No,none,HCC
+SS403_RC7_01_7771_mzML_1,MupHe-HFD-Oxali+aPD-L1 (10-11M),39,HFD,No,none,HCC
+SS404_RC8_01_7772_mzML_1,MupHe-HFD-Oxali+aPD-L1 (10-11M),37,HFD,No,none,HCC
+SS405_RC9_01_7773_mzML_1,STAM-FVB-CD8k,16,HFD,No,CD8KO - some susceptibility,"FVB NASH driven HCC, CD8ko"
+SS406_RC10_01_7776_mzML_1,STAM-FVB-CD8k,16,HFD,No,CD8KO - some susceptibility,"FVB NASH driven HCC, CD8ko"
+SS413_RD5_01_7784_mzML_1,STAB-B6-CD8k,25,HFD,No,CD8KO - some susceptibility,"FVB NASH driven HCC, CD8ko"
+SS414_RD6_01_7785_mzML_1,STAB-B6-CD8k,25,HFD,No,CD8KO - some susceptibility,"FVB NASH driven HCC, CD8ko"
+SS415_RD7_01_7786_mzML_1,STAB-B6-CD8k,25,HFD,No,CD8KO - some susceptibility,"FVB NASH driven HCC, CD8ko"
+SS416_RD8_01_7787_mzML_1,STAB-B6-CD8k,25,HFD,No,CD8KO - some susceptibility,"FVB NASH driven HCC, CD8ko"
+SS426_RE6_01_7798_mzML_1,Antibiotic-MupHe-HFD (6M),27,HFD,"Yes (Ampicillin, Vancomycin, Neomycin sulfate and Metronidazole )",none,"NASH, obesity, ABX"
+SS427_RE7_01_7799_mzML_1,Antibiotic-MupHe-HFD (6M),27,HFD,"Yes (Ampicillin, Vancomycin, Neomycin sulfate and Metronidazole )",none,"NASH, obesity, ABX"
+SS428_RE8_01_7800_mzML_1,Antibiotic-MupHe-HFD (6M),27,HFD,"Yes (Ampicillin, Vancomycin, Neomycin sulfate and Metronidazole )",none,"NASH, obesity, ABX"
+SS429_RE9_01_7801_mzML_1,Antibiotic-IgAkMup-HFD (6M),27,HFD,"Yes (Ampicillin, Vancomycin, Neomycin sulfate and Metronidazole )",none,"NASH, obesity, ABX"
+SS430_RE10_01_7802_mzML_1,Antibiotic-IgAkMup-HFD (6M),27,HFD,"Yes (Ampicillin, Vancomycin, Neomycin sulfate and Metronidazole )",none,"NASH, obesity, ABX"
+SS431_RE11_01_7803_mzML_1,Antibiotic-MupHe-HFD (10-11M),41,HFD,"Yes (Ampicillin, Vancomycin, Neomycin sulfate and Metronidazole )",none,"NASH, obesity, HCC, ABX"
+SS432_RE12_01_7804_mzML_1,Antibiotic-MupHe-HFD (10-11M),41,HFD,"Yes (Ampicillin, Vancomycin, Neomycin sulfate and Metronidazole )",none,"NASH, obesity, HCC, ABX"
+SS433_RF1_01_7806_mzML_1,Antibiotic-MupHe-HFD (10-11M),41,HFD,"Yes (Ampicillin, Vancomycin, Neomycin sulfate and Metronidazole )",none,"NASH, obesity, HCC, ABX"
+SS434_RF2_01_7807_mzML_1,Antibiotic-MupHe-HFD (10-11M),41,HFD,"Yes (Ampicillin, Vancomycin, Neomycin sulfate and Metronidazole )",none,"NASH, obesity, HCC, ABX"
+SS435_RF3_01_7808_mzML_1,Antibiotic-MupHe-HFD (10-11M),41,HFD,"Yes (Ampicillin, Vancomycin, Neomycin sulfate and Metronidazole )",none,"NASH, obesity, HCC, ABX"
+SS436_RF4_01_7809_mzML_1,Antibiotic-MupHe-HFD (10-11M),41,HFD,"Yes (Ampicillin, Vancomycin, Neomycin sulfate and Metronidazole )",none,"NASH, obesity, HCC, ABX"
+SS437_RF5_01_7810_mzML_1,Antibiotic-IgAkMup-HFD (10-11M),39,HFD,"Yes (Ampicillin, Vancomycin, Neomycin sulfate and Metronidazole )",no IgA - some susceptibility,"NASH, obesity, HCC, no IgA, ABX"
+SS438_RF6_01_7811_mzML_1,Antibiotic-IgAkMup-HFD (10-11M),39,HFD,"Yes (Ampicillin, Vancomycin, Neomycin sulfate and Metronidazole )",no IgA - some susceptibility,"NASH, obesity, HCC, no IgA, ABX"
+SS439_RF7_01_7812_mzML_1,Antibiotic-IgAkMup-HFD (10-11M),38,HFD,"Yes (Ampicillin, Vancomycin, Neomycin sulfate and Metronidazole )",no IgA - some susceptibility,"NASH, obesity, HCC, no IgA, ABX"
+SS440_RF8_01_7813_mzML_1,Antibiotic-IgAkMup-HFD (10-11M),43,HFD,"Yes (Ampicillin, Vancomycin, Neomycin sulfate and Metronidazole )",no IgA - some susceptibility,"NASH, obesity, HCC, no IgA, ABX"
+SS441_RF9_01_7814_mzML_1,Antibiotic-IgAkMup-HFD (10-11M),51,HFD,"Yes (Ampicillin, Vancomycin, Neomycin sulfate and Metronidazole )",no IgA - some susceptibility,"NASH, obesity, HCC, no IgA, ABX"
+SS442_RF10_01_7815_mzML_1,Antibiotic-IgAkMup-HFD (10-11M),51,HFD,"Yes (Ampicillin, Vancomycin, Neomycin sulfate and Metronidazole )",no IgA - some susceptibility,"NASH, obesity, HCC, no IgA, ABX"
+SS443_RF11_01_7816_mzML_1,Antibiotic-IgAkMup-HFD (10-11M),51,HFD,"Yes (Ampicillin, Vancomycin, Neomycin sulfate and Metronidazole )",no IgA - some susceptibility,"NASH, obesity, HCC, no IgA, ABX"
+SS444_RF12_01_7817_mzML_1,Antibiotic-IgAkMup-HFD (10-11M),51,HFD,"Yes (Ampicillin, Vancomycin, Neomycin sulfate and Metronidazole )",no IgA - some susceptibility,"NASH, obesity, HCC, no IgA, ABX"
+SS445_RG1_01_7819_mzML_1,Antibiotic-CD8kMup-HFD (10-11M),47,HFD,"Yes (Ampicillin, Vancomycin, Neomycin sulfate and Metronidazole )",CD8KO - some susceptibility,"NASH, obesity, HCC,CD8KO, ABX"
+SS446_RG2_01_7820_mzML_1,Antibiotic-CD8kMup-HFD (10-11M),47,HFD,"Yes (Ampicillin, Vancomycin, Neomycin sulfate and Metronidazole )",CD8KO - some susceptibility,"NASH, obesity, HCC,CD8KO, ABX"
+SS447_RG3_01_7821_mzML_1,Antibiotic-CD8kMup-HFD (10-11M),47,HFD,"Yes (Ampicillin, Vancomycin, Neomycin sulfate and Metronidazole )",CD8KO - some susceptibility,"NASH, obesity, HCC,CD8KO, ABX"
+SS448_RG4_01_7822_mzML_1,Antibiotic-CD8kMup-HFD (10-11M),46,HFD,"Yes (Ampicillin, Vancomycin, Neomycin sulfate and Metronidazole )",CD8KO - some susceptibility,"NASH, obesity, HCC,CD8KO, ABX"
+SS449_RG5_01_7823_mzML_1,Antibiotic-CD8kMup-HFD (10-11M),46,HFD,"Yes (Ampicillin, Vancomycin, Neomycin sulfate and Metronidazole )",CD8KO - some susceptibility,"NASH, obesity, HCC,CD8KO, ABX"
+SS450_RG6_01_7824_mzML_1,Antibiotic-CD8kMup-HFD (10-11M),46,HFD,"Yes (Ampicillin, Vancomycin, Neomycin sulfate and Metronidazole )",CD8KO - some susceptibility,"NASH, obesity, HCC,CD8KO, ABX"
+SS451_RG7_01_7825_mzML_1,Antibiotic-CD8kMup-HFD (10-11M),46,HFD,"Yes (Ampicillin, Vancomycin, Neomycin sulfate and Metronidazole )",CD8KO - some susceptibility,"NASH, obesity, HCC,CD8KO, ABX"
+SS452_RG8_01_7826_mzML_1,Antibiotic-CD8kMup-HFD (10-11M),46,HFD,"Yes (Ampicillin, Vancomycin, Neomycin sulfate and Metronidazole )",CD8KO - some susceptibility,"NASH, obesity, HCC,CD8KO, ABX"
+Blank_injection_RC12_01_7778_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7304_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7312_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7319_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7321_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7333_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7346_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7354_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7360_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7373_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7383_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7387_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7400_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7402_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7412_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7415_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7430_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7443_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7456_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7469_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7477_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7479_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7481_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7485_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7497_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7513_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7515_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7517_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7519_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7524_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7526_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7541_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7554_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7567_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7580_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7593_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7606_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7619_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7629_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7631_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7646_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7659_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7672_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7685_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7698_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7711_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7724_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7734_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7736_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7751_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7764_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7775_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7779_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7792_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7805_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7818_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Extraction_solvent_blank_RH11_01_7827_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Sample_extraction_blank_RH10_01_7411_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Sample_extraction_blank_RH10_01_7416_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Sample_extraction_blank_RH10_01_7527_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Sample_extraction_blank_RH10_01_7632_mzML_1,Blank,,Blank,Blank,Blank,Blank
+Sample_extraction_blank_RH10_01_7737_mzML_1,Blank,,Blank,Blank,Blank,Blank

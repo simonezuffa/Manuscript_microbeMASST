@@ -1,0 +1,2426 @@
+Feature,Interest_2425,Compound_Name,Adduct,Precursor_MZ,ExactMass,LibraryQualityString,NPC_Class,NPC_Pathway,ClassyFire_Class
+100199,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Aralkylamines
+100206,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Organonitrogen compounds
+100215,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Dialkylthioethers
+100235,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Sulfenyl compounds
+100238,Yes,NA,NA,NA,NA,NA,Catechols with side chains,Terpenoids,Organooxygen compounds
+100246,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Dialkylthioethers
+100301,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+100312,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+100367,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+100392,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+100415,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+100477,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+100483,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1004911,Yes,Docosahexaenoic acid - 40.0 eV,M+H,329.248,0,Gold,Androstane steroids,Terpenoids,Lipids and lipid-like molecules
+1004975,Yes,NA,NA,NA,NA,NA,Fatty alcohols,Fatty acids,Fatty Acyls
+1004988,Yes,Docosahexaenoic acid - 40.0 eV,M+H,329.248,0,Gold,Unsaturated fatty acids,Fatty acids,Fatty acids and conjugates
+1005004,Yes,NA,NA,NA,NA,NA,Pregnane steroids,Terpenoids,Lipids and lipid-like molecules
+1005005,Yes,NA,NA,NA,NA,NA,Branched fatty acids,Fatty acids,Fatty acid esters
+100504,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1005052,Yes,Docosahexaenoic acid - 40.0 eV,M+H,329.248,0,Gold,Pregnane steroids,Terpenoids,Hydroxysteroids
+1005136,Yes,NA,NA,NA,NA,NA,Other Docosanoids,Fatty acids,Unsaturated fatty acids
+1005164,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Straight chain fatty acids
+1005260,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Very long-chain fatty acids
+100528,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Thioureas
+100543,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Sulfenyl compounds
+100669,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1008584,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,"1,3,5-triazines"
+100906,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Organonitrogen compounds
+100942,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Organonitrogen compounds
+1009431,Yes,NA,NA,NA,NA,NA,Purine alkaloids,Amino acids and Peptides,Alpha amino acids and derivatives
+1009660,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Peptides
+101022,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Organonitrogen compounds
+101068,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,S-alkyl thiosulfates
+1010995,Yes,NA,NA,NA,NA,NA,Purine alkaloids,Alkaloids,6-aminopurines
+101103,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Primary amines
+1016517,Yes,NA,NA,NA,NA,NA,Other Eicosanoids,Fatty acids,Prenol lipids
+1016667,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Alkylarylthioethers
+1016778,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Straight chain fatty acids
+1017306,Yes,"NCGC00186665-03!2,3-dihydroxypropyl hexadecanoate [IIN-based on: CCMSLIB00000849057]",[M+H]+,331.283,330.276,Bronze,Monoacylglycerols,Fatty acids,1-monoacylglycerols
+1017336,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,1-monoacylglycerols
+1017346,Yes,"NCGC00186665-03!2,3-dihydroxypropyl hexadecanoate",M+H,331.284,330.277,Gold,Monoacylglycerols,Fatty acids,1-monoacylglycerols
+1017551,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Fatty alcohols
+1017974,Yes,"NCGC00186665-03!2,3-dihydroxypropyl hexadecanoate [IIN-based on: CCMSLIB00000849057]",[M+H]+,331.283,330.276,Bronze,Monoacylglycerols,Fatty acids,Monoacylglycerols
+1018001,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,1-monoacylglycerols
+1018130,Yes,"NCGC00186665-03!2,3-dihydroxypropyl hexadecanoate [IIN-based on: CCMSLIB00000849057]",[M+H]+,331.283,330.276,Bronze,Monoacylglycerols,Fatty acids,1-monoacylglycerols
+1021348,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Peptides
+102587,Yes,NA,NA,NA,NA,NA,Fatty alcohols,Fatty acids,Organosulfonic acids and derivatives
+102591,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Benzene and substituted derivatives
+102599,Yes,NA,NA,NA,NA,NA,Fatty alcohols,Fatty acids,Sulfonyls
+102609,Yes,NA,NA,NA,NA,NA,Fatty alcohols,Fatty acids,Organosulfur compounds
+102622,Yes,NA,NA,NA,NA,NA,Aminoacids,Alkaloids,Organophosphine oxides
+102639,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Thioethers
+102652,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Hydrazines and derivatives
+102656,Yes,NA,NA,NA,NA,NA,Phenylethylamines,Alkaloids,Amino acids and derivatives
+102672,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Thioethers
+102757,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Amino acids and derivatives
+102761,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Alkanolamines
+102808,Yes,NA,NA,NA,NA,NA,Halogenated hydrocarbons,Fatty acids,Sulfones
+1028994,Yes,NA,NA,NA,NA,NA,Wax monoesters,Amino acids and Peptides,Amino acids and derivatives
+1029487,Yes,NA,NA,NA,NA,NA,Wax monoesters,Fatty acids,Alpha amino acid esters
+1032003,Yes,NA,NA,NA,NA,NA,N-acyl amines,Alkaloids,Lipids and lipid-like molecules
+1032208,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Long-chain fatty acids
+103628,Yes,NA,NA,NA,NA,NA,Bisabolane sesquiterpenoids,Terpenoids,Benzene and substituted derivatives
+104020,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+104023,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1040468,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Dipeptides
+1040482,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Dipeptides
+1041713,Yes,NA,NA,NA,NA,NA,N-acyl amines,Fatty acids,Alpha amino acids and derivatives
+104830,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1060062,Yes,NA,NA,NA,NA,NA,Dipeptides,Alkaloids,Phenol ethers
+1060220,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+1061256,Yes,Eicosanoids_11-HEPE_C20H30O3,M+NH4,336.253,318.22,Gold,Pyridine alkaloids,Alkaloids,Alpha amino acids and derivatives
+1062618,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1062620,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1062626,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+106676,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+106905,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+108168,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+108221,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+108243,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1083702,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Heteroaromatic compounds
+1084057,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Eicosanoids
+1084088,Yes,NA,NA,NA,NA,NA,Labdane diterpenoids,Terpenoids,Diterpenoids
+1084349,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Lineolic acids and derivatives
+1084422,Yes,NA,NA,NA,NA,NA,Epoxy fatty acids,Fatty acids,Lineolic acids and derivatives
+1087281,Yes,NA,NA,NA,NA,NA,N-acyl amines,Fatty acids,N-acyl amines
+1088,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1089129,Yes,NA,NA,NA,NA,NA,N-acyl amines,Fatty acids,N-acyl amines
+1089387,Yes,NA,NA,NA,NA,NA,N-acyl amines,Fatty acids,N-acyl amines
+1089604,Yes,NA,NA,NA,NA,NA,N-acyl amines,Fatty acids,Fatty amides
+1089628,Yes,NA,NA,NA,NA,NA,Primary amides,Fatty acids,Pyrrolidines
+1089734,Yes,NA,NA,NA,NA,NA,N-acyl amines,Fatty acids,Fatty amides
+1091501,Yes,NA,NA,NA,NA,NA,Primary amides,Fatty acids,Fatty amides
+1092692,Yes,NA,NA,NA,NA,NA,N-acyl amines,Fatty acids,Fatty amides
+109335,Yes,NA,NA,NA,NA,NA,Wax monoesters,Fatty acids,Monocarboxylic acids and derivatives
+109354,Yes,NA,NA,NA,NA,NA,Simple coumarins,Shikimates and Phenylpropanoids,Pyranones and derivatives
+109386,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Unsaturated fatty acids
+109403,Yes,NA,NA,NA,NA,NA,Simple phenolic acids,Shikimates and Phenylpropanoids,Heteroaromatic compounds
+109539,Yes,NA,NA,NA,NA,NA,Simple phenolic acids,Shikimates and Phenylpropanoids,Enoate esters
+109585,Yes,NA,NA,NA,NA,NA,Hydrocarbons,Fatty acids,Organothiophosphorus compounds
+109644,Yes,NA,NA,NA,NA,NA,Hydrocarbons,Fatty acids,Organothiophosphorus compounds
+109663,Yes,NA,NA,NA,NA,NA,Phenazine alkaloids,Alkaloids,Benzenoids
+109772,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Monocarboxylic acids and derivatives
+109926,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Carboxylic acids
+110258,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Organic sulfuric acids and derivatives
+1117429,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Peptides
+1117435,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Dipeptides
+111850,Yes,NA,NA,NA,NA,NA,pteridine alkaloids,Alkaloids,Azoles
+1119863,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+112094,Yes,NA,NA,NA,NA,NA,Purine alkaloids,Alkaloids,Thiadiazoles
+112535,Yes,NA,NA,NA,NA,NA,Quinoline alkaloids,Alkaloids,Benzenoids
+1125663,Yes,NA,NA,NA,NA,NA,Polyamines,Fatty acids,Nitriles
+1125693,Yes,NA,NA,NA,NA,NA,N-acyl amines,Fatty acids,Phosphinic acid esters
+112787,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Proline and derivatives
+1132239,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Dipeptides
+113666,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1139306,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Fatty acid methyl esters
+114089,Yes,NA,NA,NA,NA,NA,Aminoacids,Alkaloids,Organic phosphonic acids
+1141284,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+1141562,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+114276,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids and derivatives
+1143357,Yes,NA,NA,NA,NA,NA,Sphingoid bases,Fatty acids,Alpha amino acids and derivatives
+1144,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+114409,Yes,NA,NA,NA,NA,NA,Simple indole alkaloids,Alkaloids,Indoles
+1145409,Yes,NA,NA,NA,NA,NA,Quinolizidine alkaloids,Alkaloids,Alpha amino acids and derivatives
+114570,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids
+114572,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+115114,Yes,NA,NA,NA,NA,NA,Piperidine alkaloids,Alkaloids,Azoles
+115198,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Monoalkylamines
+115210,Yes,NA,NA,NA,NA,NA,Simple indole alkaloids,Alkaloids,Benzenoids
+115221,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids
+115260,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Carboxylic acids and derivatives
+115287,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids
+115292,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids
+115623,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids
+115792,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids
+115865,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Organic phosphoramides
+115993,Yes,NA,NA,NA,NA,NA,Simple indole alkaloids,Alkaloids,Indoles and derivatives
+116032,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Azoles
+117014,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids
+117156,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Fatty acids,Isothiocyanates
+117473,Yes,NA,NA,NA,NA,NA,Purine alkaloids,Alkaloids,Xanthines
+117717,Yes,NA,NA,NA,NA,NA,Piperidine alkaloids,Alkaloids,Azacyclic compounds
+118226,Yes,NA,NA,NA,NA,NA,Oxygenated hydrocarbons,Terpenoids,Sulfoxides
+118256,Yes,NA,NA,NA,NA,NA,Fatty alcohols,Polyketides,Thiophenol ethers
+118261,Yes,NA,NA,NA,NA,NA,Fatty alcohols,Polyketides,Thiophenol ethers
+118270,Yes,NA,NA,NA,NA,NA,Carbocyclic fatty acids,Fatty acids,Thia fatty acids
+1183,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+118394,Yes,NA,NA,NA,NA,NA,Menthane monoterpenoids,Terpenoids,Benzene and substituted derivatives
+1185,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1186807,Yes,Spectral Match to Phe-Trp from NIST14,M+H,352.165,0,Bronze,Aminoacids,Amino acids and Peptides,Peptides
+1186810,Yes,Spectral Match to Trp-Phe from NIST14,M+H,352.165,351.158,Bronze,Dipeptides,Amino acids and Peptides,Dipeptides
+1186906,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+1188473,Yes,NA,NA,NA,NA,NA,Phenazine alkaloids,Alkaloids,Alkylarylthioethers
+1188696,Yes,NA,NA,NA,NA,NA,Glycerophosphoethanolamines,Fatty acids,Dithiophosphate S-esters
+119116,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids
+119327,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+119392,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,Substituted pyrroles
+119607,Yes,NA,NA,NA,NA,NA,Aminoacids,Alkaloids,Benzenoids
+1197903,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Aralkylamines
+119843,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+120281,Yes,NA,NA,NA,NA,NA,pteridine alkaloids,Alkaloids,"1,2,4-triazines"
+1203541,Yes,NA,NA,NA,NA,NA,Pregnane steroids,Terpenoids,3-oxo delta-5-steroids
+1203767,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,N-aliphatic s-triazines
+1205654,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Lineolic acids and derivatives
+1205909,Yes,NA,NA,NA,NA,NA,N-acyl amines,Amino acids and Peptides,Amino acids and derivatives
+1205937,Yes,"Spectral Match to Monolinolenin (9c,12c,15c) from NIST14",M+H,353.27,0,Bronze,Monoacylglycerols,Fatty acids,1-monoacylglycerols
+1206394,Yes,NA,NA,NA,NA,NA,Piperidine alkaloids,Amino acids and Peptides,Alpha amino acid amides
+1207209,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Monoacylglycerols
+1209510,Yes,NA,NA,NA,NA,NA,N-acyl amines,Fatty acids,Amino acids and derivatives
+1209568,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Fatty acids,Amino acids and derivatives
+1209673,Yes,NA,NA,NA,NA,NA,N-acyl amines,Fatty acids,N-acyl-alpha amino acids and derivatives
+1210,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+121542,Yes,NA,NA,NA,NA,NA,Cinnamic acids and derivatives,Shikimates and Phenylpropanoids,Benzene and substituted derivatives
+1216451,Yes,NA,NA,NA,NA,NA,Acyclic guanidine alkaloids,Alkaloids,"1,3,5-triazines"
+1216761,Yes,NA,NA,NA,NA,NA,Acyclic guanidine alkaloids,Alkaloids,"1,3,5-triazines"
+121689,Yes,NA,NA,NA,NA,NA,Cinnamic acids and derivatives,Shikimates and Phenylpropanoids,Cinnamic acids
+121722,Yes,NA,NA,NA,NA,NA,Aminoacids,Alkaloids,Thiadiazoles
+121741,Yes,NA,NA,NA,NA,NA,Cinnamic acids and derivatives,Shikimates and Phenylpropanoids,Cinnamic acids and derivatives
+121829,Yes,NA,NA,NA,NA,NA,pteridine alkaloids,Alkaloids,Aminotriazines
+121918,Yes,NA,NA,NA,NA,NA,pteridine alkaloids,Alkaloids,Alkylarylthioethers
+121934,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Amino acids and derivatives
+1222102,Yes,Cholic acid,M-3H2O+H,355.263,408.288,Bronze,Pregnane steroids,Terpenoids,3-oxo delta-4-steroids
+1222456,Yes,NA,NA,NA,NA,NA,Androstane steroids,Terpenoids,Oxosteroids
+1222508,Yes,NA,NA,NA,NA,NA,Cholestane steroids,Terpenoids,3-hydroxysteroids
+1222722,Yes,Cholic acid,M-3H2O+H,355.263,408.288,Bronze,Pregnane steroids,Terpenoids,"Bile acids, alcohols and derivatives"
+1223064,Yes,"""(4R)-4-((5S,7R,9S,10S,13R,14S,17R)-7-hydroxy-10,13-dimethyl-3-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",M-2H2O+H,355.263,390.277,Gold,Cholestane steroids,Terpenoids,"Bile acids, alcohols and derivatives"
+122309,Yes,NA,NA,NA,NA,NA,Aminoacids,Alkaloids,Azoles
+1223171,Yes,NA,NA,NA,NA,NA,Fatty alcohols,Fatty acids,3-hydroxysteroids
+1223387,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Lineolic acids and derivatives
+1223404,Yes,NA,NA,NA,NA,NA,N-acyl amines,Fatty acids,Hydroxamic acids
+1224142,Yes,NA,NA,NA,NA,NA,N-acyl amines,Fatty acids,N-acyl amines
+1224709,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Lineolic acids and derivatives
+1225191,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Long-chain fatty alcohols
+1225596,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Lineolic acids and derivatives
+1225653,Yes,Spectral Match to 1-Linoleoylglycerol from NIST14,M+H,355.284,354.277,Bronze,Monoacylglycerols,Fatty acids,Fatty alcohols
+1226323,Yes,Spectral Match to 1-Linoleoylglycerol from NIST14,M+H,355.284,354.277,Bronze,Monoacylglycerols,Fatty acids,Lineolic acids and derivatives
+1226469,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Lineolic acids and derivatives
+1226915,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Lineolic acids and derivatives
+122742,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids
+122792,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids
+122811,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids
+122821,Yes,NA,NA,NA,NA,NA,Aminoacids,Alkaloids,Amino acids
+122879,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids
+122926,Yes,NA,NA,NA,NA,NA,Aminoacids,Alkaloids,Amino acids and derivatives
+122971,Yes,Spectral Match to L-Tryptophan from NIST14,M+H,205.098,204.09,Bronze,Aminoacids,Amino acids and Peptides,Alpha amino acids and derivatives
+123079,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids
+123084,Yes,Spectral Match to L-Tryptophan from NIST14,M+H,205.099,204.09,Bronze,Pyridine alkaloids,Alkaloids,Alpha amino acids
+123089,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids
+123090,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids
+123218,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids
+1234206,Yes,"""(R)-4-((3R,5R,6R,8S,9S,10R,13R,14S,17R)-3,6-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",M-2H2O+H,357.279,392.293,Gold,Cholestane steroids,Terpenoids,"Bile acids, alcohols and derivatives"
+1234324,Yes,NA,NA,NA,NA,NA,Pimarane and Isopimarane diterpenoids,Terpenoids,Diterpenoids
+1234334,Yes,NA,NA,NA,NA,NA,Pregnane steroids,Terpenoids,Steroids and steroid derivatives
+1234435,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Amino acids and derivatives
+1235277,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Amino acids
+1235317,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Monoacylglycerols
+123624,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Alpha amino acids
+1236367,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Peptides
+1237215,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Organic phosphoric acids and derivatives
+1237249,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Fatty acids,Dicarboxylic acids and derivatives
+1237809,Yes,NA,NA,NA,NA,NA,N-acyl amines,Fatty acids,Semicarbazides
+1237810,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Dialkylthioethers
+1243214,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+1243241,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+1244261,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+1244602,Yes,NA,NA,NA,NA,NA,Dicarboxylic acids,Fatty acids,Fatty acid esters
+1245593,Yes,NA,NA,NA,NA,NA,Pyrrolidine alkaloids,Alkaloids,Amino acids and derivatives
+1245612,Yes,NA,NA,NA,NA,NA,N-acyl amines,Fatty acids,Alpha amino acids
+1246041,Yes,NA,NA,NA,NA,NA,Piperidine alkaloids,Fatty acids,Amino acids and derivatives
+1247165,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+1251363,Yes,NA,NA,NA,NA,NA,Dipeptides,Alkaloids,Alpha amino acid esters
+1252887,Yes,NA,NA,NA,NA,NA,Wax monoesters,Fatty acids,Dicarboxylic acids and derivatives
+1266196,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+1268016,Yes,NA,NA,NA,NA,NA,Aminoacids,Alkaloids,Thiadiazole sulfonamides
+1268251,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids and derivatives
+1268271,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Organic sulfuric acids and derivatives
+128022,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+128072,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Fatty acids,Benzene and substituted derivatives
+128152,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+128394,Yes,NA,NA,NA,NA,NA,Quinolizidine alkaloids,Alkaloids,Alkaloids and derivatives
+1284298,Yes,NA,NA,NA,NA,NA,Purine nucleos(t)ides,Carbohydrates,N-acyl-alpha amino acids
+128594,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+128656,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Amino acids and derivatives
+128800,Yes,NA,NA,NA,NA,NA,Dipeptides,Alkaloids,Alpha amino acids and derivatives
+128825,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+128986,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Benzenoids
+129265,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Indoles
+129427,Yes,NA,NA,NA,NA,NA,Quinolizidine alkaloids,Alkaloids,Amino acids and derivatives
+1294970,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+129520,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids and derivatives
+129535,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1297218,Yes,NA,NA,NA,NA,NA,Penicillins,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+1298087,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Peptides
+130244,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,3-alkylindoles
+1306390,Yes,NA,NA,NA,NA,NA,Pregnane steroids,Terpenoids,Azasteroids and derivatives
+1306522,Yes,NA,NA,NA,NA,NA,Pregnane steroids,Fatty acids,Azasteroids and derivatives
+1306605,Yes,NA,NA,NA,NA,NA,Pregnane steroids,Terpenoids,"Bile acids, alcohols and derivatives"
+1306610,Yes,NA,NA,NA,NA,NA,N-acyl amines,Alkaloids,Amino acids and derivatives
+1307874,Yes,NA,NA,NA,NA,NA,Penicillins,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+1307985,Yes,NA,NA,NA,NA,NA,Penicillins,Amino acids and Peptides,Alpha amino acids
+1327596,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Polyketides,Carboxylic acid esters
+132808,Yes,NA,NA,NA,NA,NA,Simple indole alkaloids,Alkaloids,Benzenoids
+1328514,Yes,NA,NA,NA,NA,NA,Prostaglandins,Fatty acids,Prostaglandins and related compounds
+133176,Yes,NA,NA,NA,NA,NA,Simple indole alkaloids,Alkaloids,3-alkylindoles
+133461,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+133474,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+133476,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+133477,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+133479,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+133489,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+133490,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+133496,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+133512,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+133517,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+133529,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+133537,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+133539,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+133544,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+133584,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+133596,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+133614,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+133632,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+133634,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+133636,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1336573,Yes,NA,NA,NA,NA,NA,N-acyl amines,Fatty acids,Amino acids and derivatives
+133709,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+133857,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1338745,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Aminotriazines
+1338865,Yes,NA,NA,NA,NA,NA,Quinolizidine alkaloids,Alkaloids,Azasteroids and derivatives
+1339,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+134021,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+134052,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1342958,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,"Monohydroxy bile acids, alcohols and derivatives"
+1343121,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,N-aliphatic s-triazines
+1343142,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,N-aliphatic s-triazines
+1343143,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Aminotriazines
+1343152,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Dialkylamines
+1343180,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,N-aliphatic s-triazines
+1348223,Yes,NA,NA,NA,NA,NA,N-acyl amines,Fatty acids,N-acyl-alpha amino acids and derivatives
+1348261,Yes,NA,NA,NA,NA,NA,N-acyl amines,Fatty acids,N-acyl-alpha amino acids and derivatives
+1348277,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Lineolic acids and derivatives
+1348352,Yes,NA,NA,NA,NA,NA,N-acyl amines,Fatty acids,N-acyl amines
+1350817,Yes,"NCGC00385377-01_C19H32O7_4-(2,6,6-Trimethyl-4-oxo-2-cyclohexen-1-yl)-2-butanyl beta-D-glucopyranoside",M+H,373.222,372.215,Gold,Polyamines,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+1351863,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+135192,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+135225,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1352424,Yes,"""(R)-4-((3R,5S,7R,8R,9S,10S,12S,13R,14S,17R)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",M-2H2O+H,373.274,408.288,Gold,Cholane steroids,Terpenoids,"Monohydroxy bile acids, alcohols and derivatives"
+1352526,Yes,"""(4R)-4-((3R,5R,6R,9S,10R,12S,13R,14S,17R)-3,6,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",M-2H2O+H,373.274,408.288,Gold,Cholane steroids,Terpenoids,"Monohydroxy bile acids, alcohols and derivatives"
+1352528,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Peptides
+1352603,Yes,"""(R)-4-((3S,5S,7S,8R,9S,10S,12R,13R,14S,17R)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",M-2H2O+H,373.274,408.288,Gold,Cholane steroids,Terpenoids,"Monohydroxy bile acids, alcohols and derivatives"
+1352633,Yes,"""(4R)-4-((3R,4R,5S,7R,9S,10R,13R,14S,17R)-3,4,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",M-2H2O+H,373.274,408.288,Gold,Cholane steroids,Terpenoids,"Bile acids, alcohols and derivatives"
+1352639,Yes,"""(R)-4-((3R,5S,7S,8R,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pent-2-enoic acid""",M-H2O+H,373.273,390.277,Gold,Cholane steroids,Terpenoids,"Monohydroxy bile acids, alcohols and derivatives"
+1352644,Yes,"""(4R)-4-((3R,5S,7R,9S,10S,13R,14R,17R)-3,7,14-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",M-2H2O+H,373.274,408.288,Gold,Cholane steroids,Terpenoids,"Monohydroxy bile acids, alcohols and derivatives"
+1352670,Yes,"""(4R)-4-((3R,5S,7R,9S,10S,13R,14S,15R,17R)-3,7,15-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",M-2H2O+H,373.274,408.288,Gold,Cholane steroids,Terpenoids,"Monohydroxy bile acids, alcohols and derivatives"
+1352673,Yes,NA,NA,NA,NA,NA,Cholestane steroids,Terpenoids,"Monohydroxy bile acids, alcohols and derivatives"
+1352678,Yes,"""(R)-4-((3R,5R,6R,7R,8S,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",M-2H2O+H,373.274,408.288,Gold,Cholestane steroids,Terpenoids,"Monohydroxy bile acids, alcohols and derivatives"
+1352712,Yes,Cholic acid,M-2H2O+H,373.274,408.288,Bronze,Cholane steroids,Terpenoids,"Monohydroxy bile acids, alcohols and derivatives"
+1352756,Yes,"""(R)-4-((3R,5R,6R,7R,8S,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",M-2H2O+H,373.274,408.288,Gold,Cholane steroids,Terpenoids,"Monohydroxy bile acids, alcohols and derivatives"
+1352793,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,N-aliphatic s-triazines
+1352797,Yes,"""(4R)-4-((3R,4R,5S,7R,9S,10R,13R,14S,17R)-3,4,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",M-2H2O+H,373.274,408.288,Gold,Cholane steroids,Terpenoids,"Bile acids, alcohols and derivatives"
+1352844,Yes,"""(R)-4-((3R,5R,6R,7R,8S,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",M-2H2O+H,373.274,408.288,Gold,Cholane steroids,Terpenoids,"Monohydroxy bile acids, alcohols and derivatives"
+1352855,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,"Bile acids, alcohols and derivatives"
+1352926,Yes,Cholic acid,M-2H2O+H,373.274,408.288,Bronze,Cholane steroids,Terpenoids,"Monohydroxy bile acids, alcohols and derivatives"
+1352931,Yes,"""(4R)-4-((3S,5R,6S,7S,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",M-2H2O+H,373.274,408.288,Gold,Cholane steroids,Terpenoids,"Monohydroxy bile acids, alcohols and derivatives"
+1353018,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,"Monohydroxy bile acids, alcohols and derivatives"
+135312,Yes,NA,NA,NA,NA,NA,Carboline alkaloids,Alkaloids,Indoles
+1353144,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,"Monohydroxy bile acids, alcohols and derivatives"
+135320,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,N-substituted imidazoles
+135323,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Heteroaromatic compounds
+135333,Yes,NA,NA,NA,NA,NA,Carboline alkaloids,Alkaloids,Benzenoids
+135419,Yes,NA,NA,NA,NA,NA,Lactones,Fatty acids,Carboxylic acid esters
+1356166,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+135634,Yes,NA,NA,NA,NA,NA,Hydroxy fatty acids,Fatty acids,Medium-chain hydroxy acids and derivatives
+1356362,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+1356371,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Oligopeptides
+1356578,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+1357056,Yes,NA,NA,NA,NA,NA,N-acyl amines,Fatty acids,N-acyl amines
+1357110,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,2-monoacylglycerols
+1357111,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,1-monoacylglycerols
+1357113,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Monoacylglycerols
+1357116,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Monoacylglycerols
+135779,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,Pyrimidines and pyrimidine derivatives
+1357942,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Histidine and derivatives
+135804,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Amino acids and derivatives
+135818,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,Amino acids and derivatives
+135831,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Pyrazoles
+135866,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Amino acids and derivatives
+1358992,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Dipeptides
+135909,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Alkylarylthioethers
+135917,Yes,NA,NA,NA,NA,NA,Dicarboxylic acids,Fatty acids,Fatty acid esters
+136041,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Pyrimidines and pyrimidine derivatives
+136113,Yes,NA,NA,NA,NA,NA,Pyrazine and Piperazine alkaloids,Alkaloids,Aminopyrimidines and derivatives
+136116,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Pyrimidines and pyrimidine derivatives
+136122,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Pyrimidines and pyrimidine derivatives
+136229,Yes,NA,NA,NA,NA,NA,Pyrazine and Piperazine alkaloids,Alkaloids,N-acetyl-2-arylethylamines
+1362772,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Eicosanoids
+136303,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Pyrimidines and pyrimidine derivatives
+136340,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Azoles
+1363532,Yes,"""(R)-4-((3S,5S,8R,9S,10S,12S,13R,14S,17R)-3,12-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",M-H2O+H,375.289,392.293,Gold,Cholane steroids,Terpenoids,"Monohydroxy bile acids, alcohols and derivatives"
+1363852,Yes,"""(R)-4-((1R,3S,5R,8S,9S,10S,13R,14S,17R)-1,3-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",M-H2O+H,375.289,392.293,Gold,Cholane steroids,Terpenoids,"Monohydroxy bile acids, alcohols and derivatives"
+1363970,Yes,"""(R)-4-((1R,3S,5R,8S,9S,10S,13R,14S,17R)-1,3-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",M-H2O+H,375.289,392.293,Gold,Cholane steroids,Terpenoids,"Hydroxy bile acids, alcohols and derivatives"
+1364317,Yes,"""(R)-4-((1R,3S,5R,8S,9S,10S,13R,14S,17R)-1,3-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",M-H2O+H,375.289,392.293,Gold,Cholane steroids,Terpenoids,"Hydroxy bile acids, alcohols and derivatives"
+1364356,Yes,"""(R)-4-((1R,3S,5R,8S,9S,10S,13R,14S,17R)-1,3-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",M-H2O+H,375.289,392.293,Gold,Cholane steroids,Terpenoids,"Monohydroxy bile acids, alcohols and derivatives"
+13644,Yes,NA,NA,NA,NA,NA,Tricyclic guanidine alkaloids,Alkaloids,Azacyclic compounds
+1364618,Yes,"""(4R)-4-((3R,5R,6S,9S,10R,13R,14S,17R)-3,6-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",M-H2O+H,375.289,392.293,Gold,Cholane steroids,Terpenoids,"Monohydroxy bile acids, alcohols and derivatives"
+1364679,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,"Hydroxy bile acids, alcohols and derivatives"
+1364740,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,"Monohydroxy bile acids, alcohols and derivatives"
+136987,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,N-acetyl-2-arylethylamines
+137127,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,Amino acids and derivatives
+1371729,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,N-acyl-alpha amino acids
+13718,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1373116,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Dipeptides
+1373131,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Dipeptides
+1373871,Yes,NA,NA,NA,NA,NA,Quinolizidine alkaloids,Alkaloids,Piperidines
+1374320,Yes,NA,NA,NA,NA,NA,Purine alkaloids,Alkaloids,Amino acids and derivatives
+1375260,Yes,NA,NA,NA,NA,NA,pteridine alkaloids,Alkaloids,Alloxazines and isoalloxazines
+1376842,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,Guanidines
+1379146,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Lipids and lipid-like molecules
+138045,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,N-acetyl-2-arylethylamines
+1380668,Yes,NA,NA,NA,NA,NA,Pregnane steroids,Terpenoids,Lipids and lipid-like molecules
+1382396,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Other hydroxyeicosapolyenoic acids
+138418,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Heteroaromatic compounds
+1385152,Yes,NA,NA,NA,NA,NA,Androstane steroids,Fatty acids,Fatty acid esters
+1385639,Yes,NA,NA,NA,NA,NA,Labdane diterpenoids,Alkaloids,Heteroaromatic compounds
+1395065,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,1-monoacylglycerols
+1397163,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+1397718,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Oligopeptides
+14013,Yes,NA,NA,NA,NA,NA,Fatty alcohols,Fatty acids,Primary alcohols
+1403,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+14031,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Sulfenyl compounds
+14050,Yes,NA,NA,NA,NA,NA,Acyclic monoterpenoids,Terpenoids,Monoterpenoids
+1406343,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,N-acyl-alpha amino acids
+1406379,Yes,NA,NA,NA,NA,NA,Purine nucleos(t)ides,Carbohydrates,"Amino acids, peptides, and analogues"
+1419,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+143320,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,"1,2-aminoalcohols"
+1433235,Yes,NA,NA,NA,NA,NA,Cholestane steroids,Terpenoids,Cholesterols and derivatives
+1433686,Yes,NA,NA,NA,NA,NA,Cholestane steroids,Terpenoids,Delta-5-steroids
+1435381,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Peptides
+1435664,Yes,NA,NA,NA,NA,NA,Prenyl quinone meroterpenoids,Polyketides,Phenylpropanoic acids
+1437123,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+1437155,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+1437315,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Lineolic acids and derivatives
+1438952,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,"Hydroxy bile acids, alcohols and derivatives"
+1439189,Yes,NA,NA,NA,NA,NA,N-acyl amines,Fatty acids,Carbamate esters
+1459940,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,Alpha amino acids and derivatives
+1464819,Yes,"""(4R)-4-((3S,5S,7S,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethyl-12-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",M-H2O+H,389.268,406.272,Gold,Cholane steroids,Terpenoids,"Bile acids, alcohols and derivatives"
+1464928,Yes,"""(4R)-4-((3S,5S,7S,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethyl-12-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",M-H2O+H,389.268,406.272,Gold,Cholane steroids,Terpenoids,"Bile acids, alcohols and derivatives"
+1464943,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,"Monohydroxy bile acids, alcohols and derivatives"
+1475857,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Dipeptides
+1475858,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Dipeptides
+1481713,Yes,"""(4R)-4-((3R,5R,6R,7R,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",M-H2O+H,391.284,408.288,Gold,Cholane steroids,Terpenoids,"Dihydroxy bile acids, alcohols and derivatives"
+1483036,Yes,Spectral Match to 12-Ketodeoxycholic acid from NIST14,M+H,391.284,0,Bronze,Cholane steroids,Terpenoids,"Monohydroxy bile acids, alcohols and derivatives"
+1483960,Yes,"""(4R)-4-((3R,5R,6S,7R,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",M-H2O+H,391.284,408.288,Gold,Cholane steroids,Terpenoids,"Hydroxy bile acids, alcohols and derivatives"
+1484451,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,"Dihydroxy bile acids, alcohols and derivatives"
+1484817,Yes,"""(R)-4-((3R,5R,6S,7R,8S,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",M-H2O+H,391.284,408.288,Gold,Cholane steroids,Terpenoids,"Dihydroxy bile acids, alcohols and derivatives"
+1484950,Yes,"""(R)-4-((3R,5R,8S,9S,10R,13R,14S,17R)-3-hydroxy-10,13-dimethyl-6-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",M+H,391.284,390.277,Gold,Cholane steroids,Terpenoids,"Hydroxy bile acids, alcohols and derivatives"
+1485659,Yes,"""(4R)-4-((3R,5R,6S,7R,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",M-H2O+H,391.284,408.288,Gold,Cholane steroids,Terpenoids,"Monohydroxy bile acids, alcohols and derivatives"
+1485847,Yes,"""(4R)-4-((3R,5R,6S,7R,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",M-H2O+H,391.284,408.288,Gold,Cholane steroids,Terpenoids,"Dihydroxy bile acids, alcohols and derivatives"
+1487755,Yes,"""(R)-4-((3R,5R,8S,9S,10R,13R,14S,17R)-3-hydroxy-10,13-dimethyl-6-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",M+H,391.284,390.277,Gold,Cholane steroids,Terpenoids,"Hydroxy bile acids, alcohols and derivatives"
+1488052,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,"Dihydroxy bile acids, alcohols and derivatives"
+1488062,Yes,"""(R)-4-((3R,5R,8S,9S,10R,13R,14S,17R)-3-hydroxy-10,13-dimethyl-6-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",M+H,391.284,390.277,Gold,Cholane steroids,Terpenoids,"Dihydroxy bile acids, alcohols and derivatives"
+1488282,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,"Monohydroxy bile acids, alcohols and derivatives"
+1491588,Yes,"""(R)-4-((3R,5S,7R,8R,9S,10S,12S,13R,14S,17R)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",M-H2O+H,391.284,408.288,Gold,Cholane steroids,Terpenoids,"Monohydroxy bile acids, alcohols and derivatives"
+1499055,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+149991,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acid esters
+1500456,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+1500546,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Phenylalanine and derivatives
+150104,Yes,NA,NA,NA,NA,NA,Acridone alkaloids,Alkaloids,Benzenoids
+150156,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids and derivatives
+150277,Yes,NA,NA,NA,NA,NA,Aminoacids,Fatty acids,Quaternary ammonium salts
+150279,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Acetamides
+150298,Yes,NA,NA,NA,NA,NA,Pyrrolidine alkaloids,Fatty acids,Ketones
+150301,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Acetamides
+150303,Yes,NA,NA,NA,NA,NA,Aminoacids,Fatty acids,Organic phosphonic acids and derivatives
+150345,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Pyrimidones
+150353,Yes,NA,NA,NA,NA,NA,Piperidine alkaloids,Alkaloids,Phosphonic acid esters
+150408,Yes,NA,NA,NA,NA,NA,Carane monoterpenoids,Terpenoids,Dialkyl alkylphosphonates
+150420,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Organic phosphonic acids and derivatives
+150469,Yes,NA,NA,NA,NA,NA,Purine alkaloids,Alkaloids,Aminopyrimidines and derivatives
+150501,Yes,NA,NA,NA,NA,NA,Piperidine alkaloids,Alkaloids,Organonitrogen compounds
+150507,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Azolidines
+1505867,Yes,NA,NA,NA,NA,NA,N-acyl amines,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+1506321,Yes,NA,NA,NA,NA,NA,N-acyl amines,Fatty acids,Amino acids and derivatives
+1507397,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+1507402,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+1507419,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+1508276,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+150967,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Secondary carboxylic acid amides
+1512456,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,N-acyl-alpha amino acids
+1514902,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+1515030,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Fatty acids,Alpha amino acid esters
+1515135,Yes,NA,NA,NA,NA,NA,N-acyl amines,Alkaloids,Fatty Acyls
+1517530,Yes,NA,NA,NA,NA,NA,Prostaglandins,Polyketides,Phenol ethers
+151850,Yes,NA,NA,NA,NA,NA,Fatty alcohols,Fatty acids,Carboxylic acids
+1521449,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+15255,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Azoles
+15293,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Azacyclic compounds
+15344,Yes,NA,NA,NA,NA,NA,Chalcones,Shikimates and Phenylpropanoids,Aniline and substituted anilines
+1542121,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+154624,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+154802,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Cysteine and derivatives
+154820,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,"1,3,5-triazines"
+15488,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1552167,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+1553572,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+15545,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1554597,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Monoacylglycerols
+1555119,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1564099,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+1566393,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,"Hydroxy bile acids, alcohols and derivatives"
+1566468,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,"Hydroxy bile acids, alcohols and derivatives"
+156681,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Primary alcohols
+156696,Yes,NA,NA,NA,NA,NA,Wax monoesters,Fatty acids,Benzene and substituted derivatives
+1570107,Yes,"""methyl (R)-4-((3R,5S,7R,8R,9S,10S,13R,14S,15S,17R)-3,7,15-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoate""",M-H2O+H,405.299,422.303,Gold,Cholane steroids,Terpenoids,"Dihydroxy bile acids, alcohols and derivatives"
+1575114,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,"Dihydroxy bile acids, alcohols and derivatives"
+1575115,Yes,NA,NA,NA,NA,NA,N-acyl amines,Fatty acids,Alkanesulfonic acids
+1575117,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,Glycinated bile acids and derivatives
+1575212,Yes,NA,NA,NA,NA,NA,N-acyl amines,Fatty acids,N-acyl amines
+157759,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+157819,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Aralkylamines
+157957,Yes,NA,NA,NA,NA,NA,Caryophyllane sesquiterpenoids,Fatty acids,Carbonyl compounds
+158012,Yes,NA,NA,NA,NA,NA,Caryophyllane sesquiterpenoids,Terpenoids,Lipids and lipid-like molecules
+1580825,Yes,"""3alpha,7alpha-dihydroxy-12-oxo-5beta-cholanic acid""",[M+H]+,407.279,406.272,Gold,Cholane steroids,Terpenoids,"Trihydroxy bile acids, alcohols and derivatives"
+158093,Yes,NA,NA,NA,NA,NA,Caryophyllane sesquiterpenoids,Terpenoids,Ketones
+1581383,Yes,"""(R)-4-((3R,5R,6R,7S,8R,9S,10R,12S,13R,14S,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",M-H2O+H,407.279,424.283,Gold,Cholane steroids,Terpenoids,"Trihydroxy bile acids, alcohols and derivatives"
+1581392,Yes,"""(4R)-4-((3R,5R,6S,7R,9S,10R,12S,13R,14S,17R)-3,6,7,12-tetrahydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",M-H2O+H,407.279,424.283,Gold,Cholane steroids,Terpenoids,"Trihydroxy bile acids, alcohols and derivatives"
+1582691,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+1582706,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Peptides
+1583097,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+1583954,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,Glycinated bile acids and derivatives
+1585131,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,Glycinated bile acids and derivatives
+1585145,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,"Dihydroxy bile acids, alcohols and derivatives"
+1585366,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,Glycinated bile acids and derivatives
+1591477,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+1591599,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Dipeptides
+1591730,Yes,NA,NA,NA,NA,NA,N-acyl amines,Fatty acids,N-acyl-alpha amino acids and derivatives
+1591737,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,Glycinated bile acids and derivatives
+1591824,Yes,NA,NA,NA,NA,NA,N-acyl amines,Fatty acids,N-acyl-alpha amino acids
+1592125,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,Glycinated bile acids and derivatives
+1592137,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,Glycinated bile acids and derivatives
+1595229,Yes,Arg-C16:1,M+H,411.333,410.326,Silver,Simple amide alkaloids,Fatty acids,N-acyl-alpha amino acids
+15953,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+15961,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids and derivatives
+15972,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+15981,Yes,NA,NA,NA,NA,NA,Aminoacids,Alkaloids,Azoles
+15982,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Cysteine and derivatives
+15984,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+15987,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Carboxylic acids and derivatives
+15988,Yes,NA,NA,NA,NA,NA,pteridine alkaloids,Alkaloids,Triazoles
+15992,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+15999,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+16005,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids and derivatives
+16006,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+16014,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+16022,Yes,NA,NA,NA,NA,NA,Aminoacids,Alkaloids,Azoles
+16053,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+16056,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+16076,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+16126,Yes,NA,NA,NA,NA,NA,Simple phenolic acids,Fatty acids,Organic phosphonic acids
+16147,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+16150,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+16161,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+161898,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+161950,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1620,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+162076,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+16251,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+162556,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1627,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+16296,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+16303,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Azacyclic compounds
+163103,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1631230,Yes,NA,NA,NA,NA,NA,Simple amide alkaloids,Alkaloids,Amino acids and derivatives
+1631333,Yes,Arg-C16:0,M+H,413.349,412.341,Silver,N-acyl amines,Fatty acids,N-acyl-alpha amino acids
+1632275,Yes,NA,NA,NA,NA,NA,Amino cyclitols,Carbohydrates,Aminoglycosides
+1632358,Yes,Met-C18:1,M+H,414.304,413.296,Silver,N-acyl amines,Fatty acids,N-acyl-alpha amino acids
+1632518,Yes,NA,NA,NA,NA,NA,Fatty acyl carnitines,Fatty acids,Fatty Acyls
+1632531,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Amino acids and derivatives
+1637565,Yes,NA,NA,NA,NA,NA,Tripeptides,Alkaloids,N-acyl-alpha amino acids and derivatives
+1637721,Yes,NA,NA,NA,NA,NA,Spirostane steroids,Terpenoids,Triterpenoids
+1640,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+164388,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+164437,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1644782,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+1644784,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Alpha amino acids and derivatives
+16480,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1649,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+164979,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+165043,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1651701,Yes,Tyr-C16:1,M+H,418.295,417.288,Silver,Polyamines,Amino acids and Peptides,Alpha amino acid amides
+1652,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+165368,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Organic phosphonic acids
+1662,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1662858,Yes,NA,NA,NA,NA,NA,Phenazine alkaloids,Alkaloids,Benzenoids
+1671026,Yes,NA,NA,NA,NA,NA,Glycerophosphates,Fatty acids,Trialkyl phosphates
+1684074,Yes,NA,NA,NA,NA,NA,4-pyrone derivatives,Terpenoids,Chromones
+1684107,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Polyketides,1-benzopyrans
+1684312,Yes,NA,NA,NA,NA,NA,Macrotetrolides,Fatty acids,Beta hydroxy acids and derivatives
+168496,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Aralkylamines
+1686194,Yes,NA,NA,NA,NA,NA,Simple phenolic acids,Shikimates and Phenylpropanoids,Benzoic acids and derivatives
+1686195,Yes,NA,NA,NA,NA,NA,Wax diesters,Terpenoids,Benzene and substituted derivatives
+168621,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1686312,Yes,NA,NA,NA,NA,NA,Wax monoesters,Terpenoids,Phenol ethers
+1686356,Yes,NA,NA,NA,NA,NA,Pregnane steroids,Terpenoids,Phenol ethers
+168648,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Aralkylamines
+1686563,Yes,NA,NA,NA,NA,NA,Lupane triterpenoids,Terpenoids,Triterpenoids
+1686583,Yes,NA,NA,NA,NA,NA,Lupane triterpenoids,Terpenoids,Triterpenoids
+1686594,Yes,NA,NA,NA,NA,NA,Lupane triterpenoids,Terpenoids,Triterpenoids
+1687363,Yes,NA,NA,NA,NA,NA,Sphingoid bases,Fatty acids,Alpha amino acids
+1687396,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Amino acids and derivatives
+1687460,Yes,NA,NA,NA,NA,NA,Glycerophosphoethanolamines,Fatty acids,Glycerophosphoethanolamines
+1687592,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,Glycinated bile acids and derivatives
+1687593,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,Glycinated bile acids and derivatives
+168796,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Aralkylamines
+1691147,Yes,NA,NA,NA,NA,NA,Oxo fatty acids,Fatty acids,Fatty acid esters
+169448,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Pyrimidones
+1697499,Yes,Spectral Match to Cholic acid from NIST14,M+NH4,426.321,408.288,Bronze,Cholane steroids,Terpenoids,"Trihydroxy bile acids, alcohols and derivatives"
+1697520,Yes,Spectral Match to Cholic acid from NIST14,M+NH4,426.321,408.288,Bronze,Cholane steroids,Terpenoids,Glycinated bile acids and derivatives
+1697533,Yes,Cholic Acid,[M+NH4]+,426.321,0,Bronze,Cholane steroids,Terpenoids,Glycinated bile acids and derivatives
+1697538,Yes,Spectral Match to Cholic acid from NIST14,M+NH4,426.321,408.288,Bronze,Cholane steroids,Terpenoids,Glycinated bile acids and derivatives
+1697542,Yes,Cholic Acid,[M+NH4]+,426.321,0,Bronze,Cholane steroids,Terpenoids,Glycinated bile acids and derivatives
+1697551,Yes,Spectral Match to Cholic acid from NIST14,M+NH4,426.321,408.288,Bronze,Cholane steroids,Terpenoids,Glycinated bile acids and derivatives
+1697574,Yes,Spectral Match to Cholic acid from NIST14,M+NH4,426.321,408.288,Bronze,Cholane steroids,Terpenoids,Glycinated bile acids and derivatives
+1697596,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Steroids and steroid derivatives
+1697621,Yes,Cholic Acid,[M+NH4]+,426.321,0,Bronze,Cholane steroids,Terpenoids,Glycinated bile acids and derivatives
+1697624,Yes,Spectral Match to Cholic acid from NIST14,M+NH4,426.321,408.288,Bronze,Cholane steroids,Terpenoids,Glycinated bile acids and derivatives
+1697625,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,Glycinated bile acids and derivatives
+1697690,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,"Hydroxy bile acids, alcohols and derivatives"
+169771,Yes,NA,NA,NA,NA,NA,pteridine alkaloids,Alkaloids,Triazoles
+1700380,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+170449,Yes,NA,NA,NA,NA,NA,Aminoacids,Shikimates and Phenylpropanoids,Arylsulfonic acids and derivatives
+1708,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1719930,Yes,NA,NA,NA,NA,NA,N-acyl amines,Fatty acids,Alpha amino acids
+1722306,Yes,Phe-C18:2,M+H,428.316,427.309,Silver,N-acyl amines,Fatty acids,Phenylalanine and derivatives
+1729913,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+1732422,Yes,NA,NA,NA,NA,NA,Phenazine alkaloids,Alkaloids,Alkylarylthioethers
+173715,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+173720,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Phenylpropanes
+173724,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Phenylpropanes
+173730,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Shikimates and Phenylpropanoids,Diphenylmethanes
+173736,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Diphenylmethanes
+173745,Yes,NA,NA,NA,NA,NA,Phenylethylamines,Alkaloids,Stilbenes
+173750,Yes,NA,NA,NA,NA,NA,Aminoacids,Shikimates and Phenylpropanoids,Aminotoluenes
+173785,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Amphetamines and derivatives
+173793,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Monoalkylamines
+173797,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Phenylpropanes
+1738104,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+173917,Yes,NA,NA,NA,NA,NA,Aminoacids,Shikimates and Phenylpropanoids,Aminotoluenes
+1739219,Yes,NA,NA,NA,NA,NA,Oxo fatty acids,Fatty acids,Lineolic acids and derivatives
+1739471,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Dipeptides
+1739651,Yes,"""(4R)-4-((3R,5S,7R,8R,9S,10S,13S,14S,16R)-3,7,16-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",M+Na,431.277,408.288,Gold,Cholane steroids,Terpenoids,"Hydroxy bile acids, alcohols and derivatives"
+173981,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Aminotoluenes
+1740595,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+1740637,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+1741012,Yes,NA,NA,NA,NA,NA,Steroidal alkaloids,Alkaloids,Dialkylarylamines
+174149,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Monoalkylamines
+1750670,Yes,NA,NA,NA,NA,NA,N-acyl amines,Fatty acids,Alpha amino acids and derivatives
+1751909,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,"Tetrahydroxy bile acids, alcohols and derivatives"
+1751917,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,"Hydroxy bile acids, alcohols and derivatives"
+1751941,Yes,NA,NA,NA,NA,NA,N-acyl amines,Fatty acids,Peptides
+175410,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Aralkylamines
+175427,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Pyrimidines and pyrimidine derivatives
+175442,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Piperidines
+175487,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Piperidines
+175501,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Aralkylamines
+175502,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+175521,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Aminopyrimidines and derivatives
+175539,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,Aralkylamines
+175553,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,Aralkylamines
+175557,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Monoalkylamines
+175559,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,Xylenes
+175588,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,Aminoimidazoles
+1756075,Yes,NA,NA,NA,NA,NA,Spirostane steroids,Terpenoids,Triterpenoids
+175608,Yes,NA,NA,NA,NA,NA,Purine alkaloids,Alkaloids,Dialkylarylamines
+1756390,Yes,NA,NA,NA,NA,NA,Spirostane steroids,Terpenoids,Triterpenoids
+175643,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,Benzene and substituted derivatives
+175694,Yes,NA,NA,NA,NA,NA,Purine alkaloids,Alkaloids,Aralkylamines
+175700,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,Aralkylamines
+175732,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Pyridines and derivatives
+175748,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Aralkylamines
+175754,Yes,NA,NA,NA,NA,NA,Quinazoline alkaloids,Alkaloids,Benzimidazoles
+1757582,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,N-acyl-alpha amino acids
+175775,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Heteroaromatic compounds
+175785,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Benzene and substituted derivatives
+175810,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,2-pyridylmethylamines
+175833,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Azoles
+175852,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,Aralkylamines
+175887,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Benzene and substituted derivatives
+175890,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Benzene and substituted derivatives
+175892,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,Benzene and substituted derivatives
+175905,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,N-substituted imidazoles
+175918,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Aralkylamines
+175941,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Aralkylamines
+175950,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Aralkylamines
+176006,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Pyrimidines and pyrimidine derivatives
+176026,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Aralkylamines
+176036,Yes,NA,NA,NA,NA,NA,Polyamines,Fatty acids,Sulfoxides
+176039,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Methylpyridines
+176045,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,Benzene and substituted derivatives
+176049,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,Triazoles
+176066,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,N-substituted imidazoles
+176123,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,N-substituted imidazoles
+176124,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,Benzylamines
+176161,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Pyridines and derivatives
+176189,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Aralkylamines
+176226,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,N-arylpiperazines
+176304,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,Benzene and substituted derivatives
+176315,Yes,NA,NA,NA,NA,NA,Polyamines,Fatty acids,Sulfinyl compounds
+176338,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1764,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+176442,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Methylpyridines
+176507,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Aralkylamines
+176539,Yes,NA,NA,NA,NA,NA,Fatty alcohols,Fatty acids,Sulfoxides
+176627,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Monoalkylamines
+176751,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Organic phosphoric acids and derivatives
+176775,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,Aralkylamines
+176881,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Aralkylamines
+1769037,Yes,NA,NA,NA,NA,NA,Pregnane steroids,Amino acids and Peptides,Steroids and steroid derivatives
+177333,Yes,NA,NA,NA,NA,NA,Purine alkaloids,Alkaloids,Piperidines
+177426,Yes,NA,NA,NA,NA,NA,Tricyclic guanidine alkaloids,Alkaloids,Triazoles
+177428,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids and derivatives
+1774637,Yes,NA,NA,NA,NA,NA,Cyclic peptides,Amino acids and Peptides,Peptides
+1774904,Yes,NA,NA,NA,NA,NA,Lupane triterpenoids,Terpenoids,Triterpenoids
+1774915,Yes,NA,NA,NA,NA,NA,"Lanostane, Tirucallane and Euphane triterpenoids",Terpenoids,Triterpenoids
+1776216,Yes,NA,NA,NA,NA,NA,Glycerophosphoethanolamines,Fatty acids,Amino acids and derivatives
+1776225,Yes,NA,NA,NA,NA,NA,Glycerophosphoethanolamines,Fatty acids,Amino acids and derivatives
+1776231,Yes,NA,NA,NA,NA,NA,Glycerophosphoethanolamines,Fatty acids,Amino acids and derivatives
+1776246,Yes,NA,NA,NA,NA,NA,Cyclic peptides,Amino acids and Peptides,Alpha amino acid amides
+1776248,Yes,NA,NA,NA,NA,NA,Glycerophosphoethanolamines,Fatty acids,Amino acids and derivatives
+1776269,Yes,NA,NA,NA,NA,NA,Glycerophosphoethanolamines,Fatty acids,Amino acids and derivatives
+1776340,Yes,NA,NA,NA,NA,NA,Glycerophosphoethanolamines,Fatty acids,Amino acids and derivatives
+1776683,Yes,NA,NA,NA,NA,NA,Glycerophosphoethanolamines,Fatty acids,Glycerophosphoethanolamines
+177724,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids and derivatives
+1781560,Yes,NA,NA,NA,NA,NA,Cyclic peptides,Amino acids and Peptides,Peptides
+1781568,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Peptides
+1781570,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Oligopeptides
+1783464,Yes,Soyaspongenol C,M+H,441.373,0,Bronze,Lupane triterpenoids,Terpenoids,Triterpenoids
+1783467,Yes,Soyaspongenol C,M+H,441.373,0,Bronze,Oleanane triterpenoids,Terpenoids,Triterpenoids
+1783474,Yes,Soyaspongenol C,M+H,441.373,0,Bronze,Cholestane steroids,Terpenoids,Triterpenoids
+1783478,Yes,Soyaspongenol C,M+H,441.373,0,Bronze,Oleanane triterpenoids,Terpenoids,Triterpenoids
+1783495,Yes,Soyaspongenol C,M+H,441.373,0,Bronze,Ursane and Taraxastane triterpenoids,Terpenoids,Triterpenoids
+1786262,Yes,NA,NA,NA,NA,NA,Cyclic peptides,Amino acids and Peptides,Dipeptides
+1786812,Yes,NA,NA,NA,NA,NA,N-acyl amines,Fatty acids,N-acyl-alpha amino acids
+1787,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1787124,Yes,NA,NA,NA,NA,NA,Polyamines,Amino acids and Peptides,Tyrosine and derivatives
+179135,Yes,NA,NA,NA,NA,NA,Camphane monoterpenoids,Alkaloids,Benzene and substituted derivatives
+1808875,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+1808920,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+1809211,Yes,Tyr-C18:1,M+H,446.326,445.319,Silver,N-acyl amines,Fatty acids,Tyrosine and derivatives
+1809261,Yes,Tyr-C18:1,M+H,446.326,445.319,Silver,N-acyl amines,Fatty acids,Tyrosine and derivatives
+1810644,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+1824147,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+1825159,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+1826233,Yes,NA,NA,NA,NA,NA,Piperidine alkaloids,Alkaloids,Alpha amino acids and derivatives
+1828811,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,Glycinated bile acids and derivatives
+1828841,Yes,NA,NA,NA,NA,NA,Simple phenolic acids,Terpenoids,Amino acids and derivatives
+1828842,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,Benzenoids
+1828843,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,Amino acids and derivatives
+1828852,Yes,NA,NA,NA,NA,NA,Simple phenolic acids,Terpenoids,Amino acids and derivatives
+1837026,Yes,NA,NA,NA,NA,NA,Glycerophosphocholines,Fatty acids,Glycerophosphocholines
+1837030,Yes,NA,NA,NA,NA,NA,Glycerophosphocholines,Fatty acids,Glycerophosphocholines
+1839103,Yes,NA,NA,NA,NA,NA,Cyclic peptides,Amino acids and Peptides,Dipeptides
+1839527,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,N-aliphatic s-triazines
+1840591,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Alkaloids,Amino acids and derivatives
+1843,Yes,NA,NA,NA,NA,NA,Aminoacids,Fatty acids,Monothioacetals
+1845649,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Amino acids and derivatives
+1845683,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Dipeptides
+1845687,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Heteroaromatic compounds
+1845803,Yes,NA,NA,NA,NA,NA,Oleanane triterpenoids,Terpenoids,Triterpenoids
+1846253,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Peptides
+1846262,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Alpha amino acid amides
+1847853,Yes,NA,NA,NA,NA,NA,"Lanostane, Tirucallane and Euphane triterpenoids",Terpenoids,Triterpenoids
+1850510,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Dipeptides
+185270,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1858865,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+1859075,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+186075,Yes,NA,NA,NA,NA,NA,Jasmonic acids,Fatty acids,Fatty Acyls
+1864434,Yes,NA,NA,NA,NA,NA,N-acyl amines,Fatty acids,N-acyl amines
+186485,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1865113,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Benzenoids
+1865135,Yes,NA,NA,NA,NA,NA,Quinolizidine alkaloids,Alkaloids,Amino acids and derivatives
+1865389,Yes,NA,NA,NA,NA,NA,Purine alkaloids,Alkaloids,Alpha amino acid esters
+1868662,Yes,NA,NA,NA,NA,NA,Aminosugars,Carbohydrates,Aminoglycosides
+1870252,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Alpha amino acid amides
+1872709,Yes,NA,NA,NA,NA,NA,Steroidal alkaloids,Alkaloids,Amino acids and derivatives
+1874499,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,"Hydroxy bile acids, alcohols and derivatives"
+1874502,Yes,NA,NA,NA,NA,NA,Prenyl quinone meroterpenoids,Terpenoids,Diterpenoids
+1874514,Yes,NA,NA,NA,NA,NA,Prenyl quinone meroterpenoids,Terpenoids,Benzoic acids and derivatives
+1874628,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,Hydroxysteroids
+1879263,Yes,NA,NA,NA,NA,NA,Purine nucleos(t)ides,Alkaloids,Alpha amino acid esters
+1879609,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,Glycinated bile acids and derivatives
+1879640,Yes,GLYCOCHOLATE - 30.0 eV,M+H,466.316,0,Gold,Cholane steroids,Terpenoids,Glycinated bile acids and derivatives
+1879656,Yes,"""((R)-4-((3R,5S,7S,8R,9S,10S,12S,13R,14S,17R)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoyl)glycine""",M+H,466.316,465.309,Gold,Cholane steroids,Terpenoids,Glycinated bile acids and derivatives
+1883235,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,N-acyl amines
+1883568,Yes,NA,NA,NA,NA,NA,Piperidine alkaloids,Alkaloids,Dialkylarylamines
+1886505,Yes,match to acetylated cholic acid,M+H,468.333,0,Bronze,Cholane steroids,Terpenoids,"Dihydroxy bile acids, alcohols and derivatives"
+1886510,Yes,match to acetylated cholic acid,M+H,468.333,0,Bronze,Cholane steroids,Terpenoids,Glycinated bile acids and derivatives
+188789,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1888263,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Diacylglycerols
+1888265,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,1-monoacylglycerols
+1888268,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Diradylglycerols
+1888276,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Alpha amino acid amides
+1888280,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,N-aliphatic s-triazines
+1888289,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,"1,2-diacylglycerols"
+1888304,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Fatty acid esters
+189138,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1897306,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Polyketides,Amino acids and derivatives
+1897312,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Peptides
+189866,Yes,NA,NA,NA,NA,NA,Polyamines,Amino acids and Peptides,Alpha amino acids and derivatives
+1900457,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Alkaloids,Alpha amino acids and derivatives
+190677,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+19137,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+19138,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+19153,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1916489,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+1917061,Yes,NA,NA,NA,NA,NA,N-acyl amines,Alkaloids,Biotin and derivatives
+1917063,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Aminopyrimidines and derivatives
+1918803,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+1919133,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+1919251,Yes,NA,NA,NA,NA,NA,Purine alkaloids,Alkaloids,Nitroaromatic compounds
+1925001,Yes,NA,NA,NA,NA,NA,Tetracyclic diterpenoids,Terpenoids,Amino acids and derivatives
+19266,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1927869,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+1932016,Yes,NA,NA,NA,NA,NA,Polyamines,Fatty acids,Amino acids and derivatives
+1933857,Yes,NA,NA,NA,NA,NA,Purine nucleos(t)ides,Carbohydrates,Purine nucleosides
+1934005,Yes,NA,NA,NA,NA,NA,Glycerophosphoethanolamines,Fatty acids,Amino acids and derivatives
+193620,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+193671,Yes,NA,NA,NA,NA,NA,Aminoacids,Alkaloids,Thiadiazoles
+1936785,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+1936967,Yes,NA,NA,NA,NA,NA,Polyamines,Amino acids and Peptides,Alpha amino acids and derivatives
+1937008,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Amino acids and derivatives
+193711,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1937221,Yes,NA,NA,NA,NA,NA,Polyamines,Fatty acids,Fatty Acyls
+193782,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+193805,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Aminosulfonyl compounds
+1938848,Yes,NA,NA,NA,NA,NA,Oxo fatty acids,Fatty acids,N-acyl-alpha amino acids
+19395,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+19403,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+194041,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1944223,Yes,"""2-((4R)-4-((3R,5R,6S,7S,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid""",M-2H2O+H,480.278,515.292,Gold,Cholane steroids,Terpenoids,"Hydroxy bile acids, alcohols and derivatives"
+1947427,Yes,NA,NA,NA,NA,NA,Microcolins and mirabimids,Amino acids and Peptides,Cyclic depsipeptides
+194954,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1953130,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,Alpha amino acids and derivatives
+1953267,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+1953306,Yes,NA,NA,NA,NA,NA,Piperidine alkaloids,Amino acids and Peptides,Alpha amino acids and derivatives
+1953311,Yes,NA,NA,NA,NA,NA,Glycerophosphocholines,Fatty acids,Glycerophosphocholines
+195597,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+195758,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+195783,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+195872,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1959232,Yes,NA,NA,NA,NA,NA,Glycerophosphoserines,Fatty acids,1-acyl-glycerol-3-phosphoserines
+196027,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1960566,Yes,PG(16:0_0:0) - 2-hydroxy-3-(2-hydroxyacetoxy)propyl palmitate,M+H,485.287,506.262,Bronze,Diacylglycerols,Shikimates and Phenylpropanoids,"1,2-diacylglycerols"
+1963103,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Dicarboxylic acids and derivatives
+196319,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1964672,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+1964673,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+19686,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+197053,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1971318,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+1973512,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Aryl thiophosphates
+197857,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,Heteroaromatic compounds
+1981627,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+1983009,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Polyketides,Alpha amino acids and derivatives
+1983065,Yes,NA,NA,NA,NA,NA,Diacylglycerols,Fatty acids,Lineolic acids and derivatives
+1986642,Yes,NA,NA,NA,NA,NA,Simple amide alkaloids,Polyketides,Alpha amino acids and derivatives
+1986658,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Polyketides,Fatty acid esters
+1992913,Yes,NA,NA,NA,NA,NA,Abietane diterpenoids,Terpenoids,Diterpenoids
+1992943,Yes,NA,NA,NA,NA,NA,Purine alkaloids,Amino acids and Peptides,Alpha amino acids and derivatives
+199295,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+1993544,Yes,NA,NA,NA,NA,NA,Polyamines,Amino acids and Peptides,Alpha amino acid amides
+1994702,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,Alpha amino acid esters
+199499,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Heteroaromatic compounds
+1995913,Yes,Ser-CA,M+H,496.327,495.32,Silver,Cholane steroids,Terpenoids,Glycinated bile acids and derivatives
+199597,Yes,NA,NA,NA,NA,NA,Saxitoxins,Amino acids and Peptides,Azacyclic compounds
+19976,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+19981,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+19987,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+20011,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2001923,Yes,NA,NA,NA,NA,NA,Sphingoid bases,Fatty acids,Alpha amino acid amides
+2001924,Yes,NA,NA,NA,NA,NA,Cholane steroids,Amino acids and Peptides,"Hydroxy bile acids, alcohols and derivatives"
+2002643,Yes,"""2-((4R)-4-((3R,5R,6S,7R,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid""",M-H2O+H,498.288,515.292,Gold,Cholane steroids,Terpenoids,"Bile acids, alcohols and derivatives"
+2004827,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Dialkylarylamines
+2006280,Yes,NA,NA,NA,NA,NA,Anthraquinones and anthrones,Polyketides,Triphenylenes
+2014483,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+2014504,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+2014547,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Polyketides,Amino acids and derivatives
+2014625,Yes,NA,NA,NA,NA,NA,Cyclic peptides,Amino acids and Peptides,Amino acids and derivatives
+20155,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2018117,Yes,"""2-((4R)-4-((3R,5S,7R,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid""",M+H,500.304,499.297,Gold,Pregnane steroids,Terpenoids,Azasteroids and derivatives
+2018159,Yes,Spectral Match to Tauroursodeoxycholic acid from NIST14,M+H,500.304,499.297,Bronze,Pregnane steroids,Terpenoids,Androstane steroids
+2018168,Yes,"""2-((4R)-4-((3R,5S,7R,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid""",M+H,500.304,499.297,Gold,Cholestane steroids,Terpenoids,4-azasteroids and derivatives
+2018186,Yes,"""2-((4R)-4-((3R,5S,7R,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid""",M+H,500.304,499.297,Gold,Pregnane steroids,Terpenoids,"Bile acids, alcohols and derivatives"
+2018187,Yes,Spectral Match to Tauroursodeoxycholic acid from NIST14,M+H,500.304,499.297,Bronze,Cholane steroids,Terpenoids,"Bile acids, alcohols and derivatives"
+2018195,Yes,"""2-((4R)-4-((3R,5R,6S,9S,10R,13R,14S,17R)-3,6-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid""",M+H,500.304,499.297,Gold,Cholane steroids,Terpenoids,3-alpha-hydroxysteroids
+2018200,Yes,"""2-((R)-4-((3R,5S,7S,8R,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid""",M+H,500.304,499.297,Gold,Androstane steroids,Terpenoids,Steroids and steroid derivatives
+20189,Yes,NA,NA,NA,NA,NA,Wax monoesters,Fatty acids,Organic phosphonic acids
+2026422,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2027187,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2027205,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Peptides
+203710,Yes,NA,NA,NA,NA,NA,Menthane monoterpenoids,Terpenoids,Monoterpenoids
+20399,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Organonitrogen compounds
+20407,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Pyridazines and derivatives
+20412,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2042286,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2042318,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2042362,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+20426,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2042825,Yes,Spectral Match to 1-Eicosatrienoyl-sn-glycero-3-phosphoethanolamine from NIST14,M+H,504.306,0,Bronze,Glycerophosphoethanolamines,Fatty acids,Amino acids and derivatives
+204420,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Anisoles
+2045289,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Alpha amino acids and derivatives
+2045571,Yes,NA,NA,NA,NA,NA,Pregnane steroids,Terpenoids,3-oxosteroids
+2045880,Yes,NA,NA,NA,NA,NA,Glycerophosphocholines,Fatty acids,Glycerophosphocholines
+204769,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+20488,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+20491,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+205162,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids
+20541,Yes,NA,NA,NA,NA,NA,Aminoacids,Alkaloids,Sulfuric acid diamides
+205421,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids
+20550,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2057181,Yes,NA,NA,NA,NA,NA,Simple amide alkaloids,Polyketides,N-acyl-alpha amino acids
+2060195,Yes,NA,NA,NA,NA,NA,Diacylglycerols,Fatty acids,Fatty acid esters
+2060209,Yes,NA,NA,NA,NA,NA,Diacylglycerols,Fatty acids,Diradylglycerols
+20609,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+20613,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2068125,Yes,NA,NA,NA,NA,NA,Cyclic peptides,Amino acids and Peptides,Peptides
+2068126,Yes,NA,NA,NA,NA,NA,Cyclic peptides,Amino acids and Peptides,Oligopeptides
+2069326,Yes,NA,NA,NA,NA,NA,N-acyl amines,Amino acids and Peptides,Peptides
+20698,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+20704,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Organic sulfuric acids and derivatives
+2071473,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Monoradylglycerols
+2071475,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Diradylglycerols
+2071486,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Fatty acid esters
+2071490,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Monoacylglycerols
+2071522,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Diradylglycerols
+2071553,Yes,NA,NA,NA,NA,NA,N-acyl amines,Fatty acids,N-acyl-alpha amino acids
+2072658,Yes,NA,NA,NA,NA,NA,Oleanane triterpenoids,Terpenoids,Triterpenoids
+2072701,Yes,NA,NA,NA,NA,NA,Wax monoesters,Fatty acids,Triacylglycerols
+20732,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2074964,Yes,NA,NA,NA,NA,NA,Cholestane steroids,Terpenoids,"Bile acids, alcohols and derivatives"
+2075144,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Monoradylglycerols
+2075174,Yes,NA,NA,NA,NA,NA,Triacylglycerols,Fatty acids,"1,2-diacylglycerols"
+2075180,Yes,NA,NA,NA,NA,NA,Diacylglycerols,Shikimates and Phenylpropanoids,Benzoic acid esters
+2077067,Yes,NA,NA,NA,NA,NA,Diacylglycerols,Fatty acids,"1,2-diacylglycerols"
+207972,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+207980,Yes,NA,NA,NA,NA,NA,Polyamines,Fatty acids,Dialkylamines
+208054,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2091912,Yes,NA,NA,NA,NA,NA,Colensane and Clerodane diterpenoids,Fatty acids,Fatty acid esters
+2092228,Yes,NA,NA,NA,NA,NA,Cyclic peptides,Amino acids and Peptides,Depsipeptides
+209756,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,L-alpha-amino acids
+209878,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids
+209879,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Azacyclic compounds
+210054,Yes,NA,NA,NA,NA,NA,Hydrocarbons,Fatty acids,Benzene and substituted derivatives
+2101929,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,Taurinated bile acids and derivatives
+2102635,Yes,"""2-((4R)-4-((3R,5R,6S,7R,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid""",M+H,516.299,515.292,Gold,Cholane steroids,Terpenoids,Taurinated bile acids and derivatives
+2104566,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Amino acids and derivatives
+2104586,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2105906,Yes,NA,NA,NA,NA,NA,N-acyl amines,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+210961,Yes,NA,NA,NA,NA,NA,Bisabolane sesquiterpenoids,Fatty acids,Benzene and substituted derivatives
+211351,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2118028,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2118086,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2118107,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Peptides
+21192,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+21206,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2122137,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2122157,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2124626,Yes,NA,NA,NA,NA,NA,Glycerophosphoserines,Fatty acids,1-acyl-glycerol-3-phosphoserines
+2124868,Yes,NA,NA,NA,NA,NA,Glycerophosphoserines,Fatty acids,1-acyl-glycerol-3-phosphoserines
+2127390,Yes,Isoleucocholic acid,M+H,522.379,0,Bronze,Cholane steroids,Terpenoids,"Trihydroxy bile acids, alcohols and derivatives"
+2127396,Yes,Leucocholic acid,M+H,522.379,0,Bronze,Cholane steroids,Terpenoids,Glycinated bile acids and derivatives
+212825,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Carboxylic acids and derivatives
+2128956,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,"Hydroxy bile acids, alcohols and derivatives"
+212912,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Dipeptides
+212930,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+212937,Yes,NA,NA,NA,NA,NA,Bisabolane sesquiterpenoids,Terpenoids,Phenols
+213140,Yes,NA,NA,NA,NA,NA,Catechols with side chains,Terpenoids,Hydroquinones
+213335,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2139974,Yes,NA,NA,NA,NA,NA,Glycerophosphoserines,Fatty acids,Glycerophosphoserines
+2139996,Yes,NA,NA,NA,NA,NA,Glycerophosphoserines,Fatty acids,1-acyl-glycerol-3-phosphoserines
+21409,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2141249,Yes,NA,NA,NA,NA,NA,N-acyl amines,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+21418,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+21421,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2146082,Yes,NA,NA,NA,NA,NA,Macrolide lactones,Polyketides,Macrolides and analogues
+2150216,Yes,NA,NA,NA,NA,NA,N-acyl amines,Amino acids and Peptides,N-acyl amines
+21558,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2156488,Yes,NA,NA,NA,NA,NA,Purine alkaloids,Alkaloids,Alpha amino acids and derivatives
+2156713,Yes,NA,NA,NA,NA,NA,Purine alkaloids,Alkaloids,Alpha amino acid esters
+2157169,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Polyketides,Fatty Acyls
+2159307,Yes,NA,NA,NA,NA,NA,Wax monoesters,Fatty acids,Dicarboxylic acids and derivatives
+215967,Yes,NA,NA,NA,NA,NA,Purine alkaloids,Alkaloids,Hypoxanthines
+215975,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+216062,Yes,NA,NA,NA,NA,NA,Purine alkaloids,Alkaloids,Azoles
+216166,Yes,NA,NA,NA,NA,NA,Fatty acyl homoserine lactones,Fatty acids,Alpha amino acid esters
+216383,Yes,NA,NA,NA,NA,NA,Purine alkaloids,Alkaloids,Phenoxy compounds
+2163940,Yes,NA,NA,NA,NA,NA,Polyamines,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+2164320,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,N-acyl amines
+2164335,Yes,NA,NA,NA,NA,NA,Polyamines,Amino acids and Peptides,Alpha amino acid amides
+2164361,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,N-acyl amines
+2164596,Yes,NA,NA,NA,NA,NA,Polyamines,Fatty acids,Alpha amino acid amides
+2164609,Yes,NA,NA,NA,NA,NA,Polyamines,Fatty acids,Amino acids and derivatives
+2165631,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Aminopyrimidines and derivatives
+216664,Yes,NA,NA,NA,NA,NA,Purine alkaloids,Alkaloids,1-hydroxy-2-unsubstituted benzenoids
+216851,Yes,NA,NA,NA,NA,NA,Simple amide alkaloids,Alkaloids,Benzoic acids and derivatives
+2170012,Yes,NA,NA,NA,NA,NA,Cholane steroids,Amino acids and Peptides,Glycinated bile acids and derivatives
+2170746,Yes,TAUROCHOLIC ACID,M+NH4,533.326,0,Bronze,Cholane steroids,Terpenoids,Steroids and steroid derivatives
+2170843,Yes,TAUROCHOLIC ACID,M+NH4,533.326,0,Bronze,Cholestane steroids,Terpenoids,"Bile acids, alcohols and derivatives"
+2171249,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,"Bile acids, alcohols and derivatives"
+2171348,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,"Monohydroxy bile acids, alcohols and derivatives"
+2171617,Yes,TAUROCHOLIC ACID,M+NH4,533.326,0,Bronze,Cholane steroids,Terpenoids,7-oxosteroids
+2177101,Yes,NA,NA,NA,NA,NA,Purine nucleos(t)ides,Carbohydrates,Alpha amino acids and derivatives
+2178085,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Amino acids and derivatives
+2179546,Yes,NA,NA,NA,NA,NA,Ceramides,Fatty acids,Ceramides
+2180203,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+2180216,Yes,NA,NA,NA,NA,NA,N-acyl amines,Amino acids and Peptides,Azoles
+2180240,Yes,NA,NA,NA,NA,NA,Simple amide alkaloids,Alkaloids,Anisoles
+2180430,Yes,"""((4R)-4-((3R,5R,7R,9S,10S,12S,13R,14S,17R)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoyl)lysine""",M+H,537.39,536.383,Gold,Cholane steroids,Terpenoids,Glycinated bile acids and derivatives
+2181614,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Peptides
+21837,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+21881,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+21882,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+21892,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+21923,Yes,NA,NA,NA,NA,NA,Phenazine alkaloids,Alkaloids,Azoles
+21924,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Organonitrogen compounds
+2193335,Yes,NA,NA,NA,NA,NA,N-acyl amines,Fatty acids,N-acyl amines
+21935,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+21938,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids and derivatives
+2196749,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2196996,Yes,Spectral Match to Taurocholic acid from NIST14,M+Na,538.281,515.292,Bronze,Cholane steroids,Terpenoids,"Bile acids, alcohols and derivatives"
+21978,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids and derivatives
+2199079,Yes,NA,NA,NA,NA,NA,Polyamines,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+21991,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Organosulfonic acids
+2207133,Yes,NA,NA,NA,NA,NA,Carboline alkaloids,Alkaloids,Naphthalenes
+2207518,Yes,NA,NA,NA,NA,NA,Antimycins,Polyketides,N-acyl-alpha amino acids and derivatives
+22085,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+22087,Yes,NA,NA,NA,NA,NA,Aminoacids,Fatty acids,Organothiophosphorus compounds
+2210280,Yes,NA,NA,NA,NA,NA,Ceramides,Fatty acids,Long-chain ceramides
+2211642,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Dithiophosphate S-esters
+2211964,Yes,NA,NA,NA,NA,NA,Polyprenylated cyclic polyketides (Hop meroterpenoids),Terpenoids,Hydroxysteroids
+2211966,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+22146,Yes,NA,NA,NA,NA,NA,Phenazine alkaloids,Alkaloids,Arylsulfonic acids and derivatives
+2217054,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Peptides
+2217056,Yes,NA,NA,NA,NA,NA,Polyamines,Carbohydrates,Alpha amino acids and derivatives
+22172,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2218290,Yes,NA,NA,NA,NA,NA,N-acyl amines,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+2218427,Yes,NA,NA,NA,NA,NA,N-acyl amines,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+22190,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Sulfonyls
+2222777,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Polyketides,Benzene and substituted derivatives
+2226322,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2228624,Yes,NA,NA,NA,NA,NA,"Lanostane, Tirucallane and Euphane triterpenoids",Terpenoids,Triterpenoids
+2228670,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Terpenoids,Amino acids and derivatives
+2229551,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Dipeptides
+2230968,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2230969,Yes,NA,NA,NA,NA,NA,Polyamines,Fatty acids,Dialkyldisulfides
+2230971,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2231888,Yes,NA,NA,NA,NA,NA,Glycerophosphocholines,Fatty acids,1-acyl-sn-glycero-3-phosphocholines
+2235536,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Diterpenoids
+2235540,Yes,NA,NA,NA,NA,NA,Diacylglycerols,Fatty acids,Tricarboxylic acids and derivatives
+2235848,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Peptides
+2236484,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Thienoimidazolidines
+2236488,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Pyrimidines and pyrimidine derivatives
+2236721,Yes,NA,NA,NA,NA,NA,Cephalosporins,Amino acids and Peptides,Benzenesulfonic acids and derivatives
+2236825,Yes,NA,NA,NA,NA,NA,Cephalosporins,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+22371,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2238765,Yes,NA,NA,NA,NA,NA,Wax monoesters,Terpenoids,Alpha amino acid esters
+2238766,Yes,NA,NA,NA,NA,NA,Wax monoesters,Fatty acids,Alpha amino acid esters
+2255680,Yes,NA,NA,NA,NA,NA,Cyclic peptides,Amino acids and Peptides,Amino acids and derivatives
+2255841,Yes,NA,NA,NA,NA,NA,Polyamines,Carbohydrates,Amino acids and derivatives
+2257475,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,Depsipeptides
+2257512,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,Dipeptides
+2257522,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2257525,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+2257559,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2257564,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Alpha amino acid amides
+2257577,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2257689,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,Alpha amino acids and derivatives
+2257693,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,Alpha amino acid esters
+2259404,Yes,NA,NA,NA,NA,NA,Oxidized glycerophospholipids,Fatty acids,Phosphatidylcholines
+2260291,Yes,NA,NA,NA,NA,NA,Aminoglycosides,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+2261209,Yes,NA,NA,NA,NA,NA,Ceramides,Fatty acids,Ceramides
+22653,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+22657,Yes,NA,NA,NA,NA,NA,Simple phenolic acids,Shikimates and Phenylpropanoids,Benzene and substituted derivatives
+22660,Yes,NA,NA,NA,NA,NA,Simple phenolic acids,Fatty acids,Benzene and substituted derivatives
+226677,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Benzene and substituted derivatives
+22673,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+22685,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+22706,Yes,NA,NA,NA,NA,NA,Simple phenolic acids,Shikimates and Phenylpropanoids,Benzene and substituted derivatives
+22717,Yes,NA,NA,NA,NA,NA,Aminoacids,Alkaloids,Organic phosphonic acids
+22729,Yes,NA,NA,NA,NA,NA,Simple phenolic acids,Shikimates and Phenylpropanoids,Benzene and substituted derivatives
+2273712,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+227539,Yes,NA,NA,NA,NA,NA,Simple phenolic acids,Shikimates and Phenylpropanoids,Benzoic acids and derivatives
+2276715,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Peptides
+2277063,Yes,NA,NA,NA,NA,NA,Ceramides,Fatty acids,Ceramides
+2277676,Yes,NA,NA,NA,NA,NA,Fatty acyl glycosides of mono- and disaccharides,Fatty acids,Glycosylglycerols
+2278104,Yes,NA,NA,NA,NA,NA,Labdane diterpenoids,Terpenoids,Terpene glycosides
+2278184,Yes,NA,NA,NA,NA,NA,Erythromycins,Fatty acids,Amino acids and derivatives
+2278190,Yes,NA,NA,NA,NA,NA,N-acyl amines,Terpenoids,Alpha amino acids and derivatives
+2278202,Yes,NA,NA,NA,NA,NA,N-acyl amines,Polyketides,Alpha amino acids and derivatives
+22786,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2279051,Yes,Phe-CA,M+H,556.363,555.356,Silver,Cholane steroids,Terpenoids,Glycinated bile acids and derivatives
+22803,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids
+2281998,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Peptides
+2282009,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Amino acids and derivatives
+228364,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Dipeptides
+2283880,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Fatty acid esters
+22841,Yes,NA,NA,NA,NA,NA,Wax monoesters,Fatty acids,Organooxygen compounds
+228508,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,N-acyl-alpha amino acids
+2285451,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2285486,Yes,NA,NA,NA,NA,NA,Cholestane steroids,Terpenoids,Steroid esters
+22859,Yes,NA,NA,NA,NA,NA,Simple phenolic acids,Shikimates and Phenylpropanoids,Benzene and substituted derivatives
+2288816,Yes,NA,NA,NA,NA,NA,Polyamines,Fatty acids,Peptides
+22912,Yes,NA,NA,NA,NA,NA,Simple phenolic acids,Shikimates and Phenylpropanoids,Benzene and substituted derivatives
+23014,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2301979,Yes,NA,NA,NA,NA,NA,Tetraketide meroterpenoids,Terpenoids,Anisoles
+230821,Yes,NA,NA,NA,NA,NA,Jasmonic acids,Fatty acids,Lipids and lipid-like molecules
+23086,Yes,NA,NA,NA,NA,NA,Indolizidine alkaloids,Alkaloids,Azacyclic compounds
+2314228,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2314846,Yes,NA,NA,NA,NA,NA,Diacylglycerols,Fatty acids,Lineolic acids and derivatives
+2314877,Yes,Ricinoleic acid-C18:2,M+H,561.488,560.48,Silver,Diacylglycerols,Fatty acids,Lineolic acids and derivatives
+2314885,Yes,Ricinoleic acid-C18:2,M+H,561.488,560.48,Silver,Diacylglycerols,Fatty acids,Lineolic acids and derivatives
+2314892,Yes,NA,NA,NA,NA,NA,Triacylglycerols,Fatty acids,Lineolic acids and derivatives
+2314962,Yes,NA,NA,NA,NA,NA,Diacylglycerols,Fatty acids,Lineolic acids and derivatives
+2317346,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,Phenylalanine and derivatives
+2317415,Yes,NA,NA,NA,NA,NA,Colensane and Clerodane diterpenoids,Fatty acids,Diterpenoids
+2321183,Yes,NA,NA,NA,NA,NA,N-acyl amines,Alkaloids,Amino acids and derivatives
+2321333,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,Alpha amino acids and derivatives
+23221,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Sulfinic acids and derivatives
+2322261,Yes,Arginine conjugated cholic acid,M+H,565.396,564.389,Gold,Cholane steroids,Terpenoids,Glycinated bile acids and derivatives
+2322438,Yes,12-hydroxy stearic acid-C18:1,M+H,565.519,564.512,Silver,Unsaturated fatty acids,Fatty acids,Very long-chain fatty acids
+2322452,Yes,12-hydroxy stearic acid-C18:1,M+H,565.519,564.512,Silver,Diacylglycerols,Fatty acids,Fatty acid esters
+2327089,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2328097,Yes,NA,NA,NA,NA,NA,Glycerophosphocholines,Fatty acids,Glycerophosphocholines
+2328653,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Dialkylarylamines
+2328889,Yes,NA,NA,NA,NA,NA,Ceramides,Fatty acids,Ceramides
+2328915,Yes,NA,NA,NA,NA,NA,Ceramides,Fatty acids,Ceramides
+2330604,Yes,NA,NA,NA,NA,NA,Anthraquinones and anthrones,Shikimates and Phenylpropanoids,Aryl phosphates
+2330665,Yes,NA,NA,NA,NA,NA,Anthraquinones and anthrones,Shikimates and Phenylpropanoids,2-naphthalene sulfonates
+2331047,Yes,NA,NA,NA,NA,NA,Cephalosporins,Amino acids and Peptides,"2,3,5-trisubstituted thiophenes"
+2331151,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,"1-sulfo,2-unsubstituted aromatic compounds"
+2331611,Yes,NA,NA,NA,NA,NA,4-pyrone derivatives,Shikimates and Phenylpropanoids,Organic pyrophosphates
+23352,Yes,NA,NA,NA,NA,NA,Indolizidine alkaloids,Alkaloids,Heteroaromatic compounds
+2336490,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Dipeptides
+2336518,Yes,NA,NA,NA,NA,NA,N-acyl amines,Amino acids and Peptides,Peptides
+2336527,Yes,NA,NA,NA,NA,NA,Acyclic triterpenoids,Terpenoids,Lipids and lipid-like molecules
+2338171,Yes,NA,NA,NA,NA,NA,Diacylglycerols,Fatty acids,"1,2-diacylglycerols"
+2338668,Yes,NA,NA,NA,NA,NA,Monocyclic monoterpenoids,Alkaloids,Dithiophosphate S-esters
+2340254,Yes,NA,NA,NA,NA,NA,Phosphosphingolipids,Fatty acids,Alpha amino acid amides
+23413,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2345714,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,Diterpene glycosides
+2346832,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2347746,Yes,"""((4R)-4-((3R,5S,7R,9S,10S,12S,13R,14S,17R)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoyl)tyrosine""",M+H,572.358,571.351,Gold,Cholane steroids,Terpenoids,Glycinated bile acids and derivatives
+2347752,Yes,Tyrosocholic acid,M+H,572.359,0,Bronze,Cholane steroids,Terpenoids,Glycinated bile acids and derivatives
+2348723,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+2348733,Yes,NA,NA,NA,NA,NA,Polyprenylated cyclic polyketides (Hop meroterpenoids),Terpenoids,Steroids and steroid derivatives
+2348788,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Alpha amino acids and derivatives
+2349146,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2349227,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Terpenoids,Steroids and steroid derivatives
+2349241,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+23504,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2351487,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,Depsipeptides
+2351518,Yes,NA,NA,NA,NA,NA,Cholestane steroids,Terpenoids,Steroids and steroid derivatives
+2356503,Yes,NA,NA,NA,NA,NA,Isariotin alkaloids,Terpenoids,Aminosaccharides
+2356524,Yes,NA,NA,NA,NA,NA,Simple amide alkaloids,Fatty acids,O-glycosyl compounds
+2360992,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2362011,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2362414,Yes,NA,NA,NA,NA,NA,Wax monoesters,Fatty acids,Amino acids and derivatives
+2362510,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Fatty Acyls
+236495,Yes,NA,NA,NA,NA,NA,Simple phenolic acids,Shikimates and Phenylpropanoids,Amino acids and derivatives
+236542,Yes,NA,NA,NA,NA,NA,Polyamines,Fatty acids,Sulfonyls
+236607,Yes,NA,NA,NA,NA,NA,Phenylethylamines,Alkaloids,Amino acids and derivatives
+236643,Yes,NA,NA,NA,NA,NA,Wax monoesters,Shikimates and Phenylpropanoids,Alpha amino acid esters
+2368850,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+2371209,Yes,NA,NA,NA,NA,NA,Depsipeptides,Amino acids and Peptides,Cyclic depsipeptides
+2371249,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,Glycinated bile acids and derivatives
+2371451,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2372339,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Alpha amino acids and derivatives
+237408,Yes,NA,NA,NA,NA,NA,Polyamines,Fatty acids,Amino acids
+2375717,Yes,NA,NA,NA,NA,NA,Diacylglycerols,Fatty acids,Fatty alcohol esters
+2375799,Yes,NA,NA,NA,NA,NA,N-acyl amines,Amino acids and Peptides,Alpha amino acid esters
+2375811,Yes,NA,NA,NA,NA,NA,Acyclic triterpenoids,Terpenoids,Diterpenoids
+2377317,Yes,NA,NA,NA,NA,NA,Cyclic peptides,Amino acids and Peptides,Hybrid peptides
+2377432,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+2384192,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2390085,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Fatty acid esters
+23920,Yes,NA,NA,NA,NA,NA,Chalcones,Shikimates and Phenylpropanoids,Benzoyl derivatives
+239409,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Carboximidamides
+239410,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Guanidines
+239423,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Guanidines
+239461,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Guanidines
+239479,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Guanidines
+239505,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2395078,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,Alpha amino acids and derivatives
+2395188,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+239520,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Carboximidamides
+239522,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Guanidines
+239592,Yes,NA,NA,NA,NA,NA,Saxitoxins,Alkaloids,Guanidines
+2396059,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,Alpha amino acids and derivatives
+23963,Yes,NA,NA,NA,NA,NA,Branched fatty acids,Fatty acids,Fatty acids and conjugates
+239653,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Guanidines
+23977,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Aralkylamines
+239784,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Triazines
+2408600,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,Bilirubins
+2412017,Yes,NA,NA,NA,NA,NA,Polyamines,Amino acids and Peptides,Peptides
+2412090,Yes,NA,NA,NA,NA,NA,Polyamines,Amino acids and Peptides,Peptides
+2412203,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,Depsipeptides
+2412255,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,Phenylalanine and derivatives
+2413001,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2414214,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,Depsipeptides
+2415389,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Polyketides,N-acyl-alpha amino acids and derivatives
+2415428,Yes,NA,NA,NA,NA,NA,N-acyl amines,Amino acids and Peptides,Alpha amino acid esters
+2415446,Yes,NA,NA,NA,NA,NA,Macrolide lactones,Polyketides,Amino acids and derivatives
+2415453,Yes,NA,NA,NA,NA,NA,Erythromycins,Polyketides,Amino acids and derivatives
+2415549,Yes,NA,NA,NA,NA,NA,Wax monoesters,Fatty acids,Alpha amino acid esters
+2418407,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,"Bile acids, alcohols and derivatives"
+2418506,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,Bilirubins
+2418508,Yes,NA,NA,NA,NA,NA,Depsipeptides,Amino acids and Peptides,Tetrapyrroles and derivatives
+24188,Yes,NA,NA,NA,NA,NA,Menthane monoterpenoids,Terpenoids,Monocyclic monoterpenoids
+24191,Yes,NA,NA,NA,NA,NA,Menthane monoterpenoids,Terpenoids,Benzene and substituted derivatives
+2423954,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Alpha amino acid amides
+2423963,Yes,NA,NA,NA,NA,NA,Depsipeptides,Polyketides,Tetrapyrroles and derivatives
+2424082,Yes,NA,NA,NA,NA,NA,Depsipeptides,Amino acids and Peptides,Alpha amino acid esters
+2424181,Yes,NA,NA,NA,NA,NA,Lipopeptides,Terpenoids,Glycinated bile acids and derivatives
+24251,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Organonitrogen compounds
+2427709,Yes,NA,NA,NA,NA,NA,Terpenoid alkaloids,Terpenoids,Amino acids and derivatives
+2427712,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+2429062,Yes,NA,NA,NA,NA,NA,Purine nucleos(t)ides,Carbohydrates,Purine nucleotide sugars
+2429065,Yes,NA,NA,NA,NA,NA,Purine nucleos(t)ides,Carbohydrates,Purine nucleosides
+2429078,Yes,NA,NA,NA,NA,NA,Tripeptides,Carbohydrates,Gamma-glutamyl peptides
+2429384,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Gamma-glutamyl peptides
+2430209,Yes,NA,NA,NA,NA,NA,N-acyl amines,Fatty acids,Valine and derivatives
+2430223,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Polyketides,Amino acids and derivatives
+2432422,Yes,NA,NA,NA,NA,NA,Glycerophosphoethanolamines,Alkaloids,Aminopyrimidines and derivatives
+2438309,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Terpenoids,Hydroxysteroids
+2438317,Yes,NA,NA,NA,NA,NA,"Lanostane, Tirucallane and Euphane triterpenoids",Terpenoids,Hydroxysteroids
+2438321,Yes,NA,NA,NA,NA,NA,Tetracyclic diterpenoids,Terpenoids,Triterpenoids
+2438322,Yes,NA,NA,NA,NA,NA,"Lanostane, Tirucallane and Euphane triterpenoids",Terpenoids,Hydroxysteroids
+2438332,Yes,NA,NA,NA,NA,NA,Cardenolides,Terpenoids,Hydroxysteroids
+2438391,Yes,NA,NA,NA,NA,NA,Cardenolides,Terpenoids,Hydroxysteroids
+2438400,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Polyketides,Dicarboxylic acids and derivatives
+2438437,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Terpenoids,Steroids and steroid derivatives
+2438494,Yes,NA,NA,NA,NA,NA,Cardenolides,Terpenoids,Hydroxysteroids
+2438677,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2438690,Yes,NA,NA,NA,NA,NA,Amino cyclitols,Amino acids and Peptides,Peptides
+2438693,Yes,NA,NA,NA,NA,NA,Aminoglycosides,Carbohydrates,Peptides
+2438701,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2438702,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Peptides
+2440517,Yes,NA,NA,NA,NA,NA,Triacylglycerols,Fatty acids,Triradylcglycerols
+2442971,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Polyketides,Beta hydroxy acids and derivatives
+2443295,Yes,NA,NA,NA,NA,NA,Cyclic peptides,Amino acids and Peptides,Alpha amino acids and derivatives
+24435,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Organonitrogen compounds
+2443784,Yes,NA,NA,NA,NA,NA,Serratane triterpenoids,Terpenoids,Triterpenoids
+244715,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+244844,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Alkylarylthioethers
+244907,Yes,NA,NA,NA,NA,NA,Piperidine alkaloids,Alkaloids,Amino acids and derivatives
+245028,Yes,NA,NA,NA,NA,NA,Pyrrolidine alkaloids,Alkaloids,Amino acids and derivatives
+24532,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2459168,Yes,NA,NA,NA,NA,NA,Steroidal alkaloids,Alkaloids,Oxosteroids
+2459201,Yes,NA,NA,NA,NA,NA,Drimane sesquiterpenoids,Terpenoids,Steroids and steroid derivatives
+246056,Yes,NA,NA,NA,NA,NA,Piperidine alkaloids,Alkaloids,Amino acids and derivatives
+2461695,Yes,NA,NA,NA,NA,NA,Polyamines,Amino acids and Peptides,Peptides
+2461742,Yes,NA,NA,NA,NA,NA,Wax monoesters,Terpenoids,Alpha amino acids and derivatives
+2461743,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Terpenoids,Isoquinolines and derivatives
+2461746,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Polyketides,Leucine and derivatives
+2461762,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Terpenoids,Oxepanes
+2461768,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Terpenoids,Alpha amino acids and derivatives
+2461769,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,Amino acids and derivatives
+2461773,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Polyketides,Alpha amino acids and derivatives
+2461821,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Terpenoids,Diterpenoids
+2461867,Yes,NA,NA,NA,NA,NA,Ceramides,Terpenoids,Alpha amino acids and derivatives
+2461973,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,Tricarboxylic acids and derivatives
+2462273,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,Alpha amino acids and derivatives
+2462877,Yes,NA,NA,NA,NA,NA,Cyclic peptides,Amino acids and Peptides,Cyclic depsipeptides
+2465108,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Terpenoids,Amino acids and derivatives
+2465129,Yes,NA,NA,NA,NA,NA,Cholestane steroids,Terpenoids,"Dihydroxy bile acids, alcohols and derivatives"
+2465174,Yes,NA,NA,NA,NA,NA,Erythromycins,Amino acids and Peptides,Alpha amino acid esters
+2465289,Yes,NA,NA,NA,NA,NA,Lipopeptides,Alkaloids,Alpha amino acid amides
+247101,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+247176,Yes,NA,NA,NA,NA,NA,Phenazine alkaloids,Alkaloids,Benzenoids
+247216,Yes,NA,NA,NA,NA,NA,Simple coumarins,Shikimates and Phenylpropanoids,Arylsulfonic acids and derivatives
+247236,Yes,NA,NA,NA,NA,NA,Aminoacids,Polyketides,Nitroaromatic compounds
+247252,Yes,NA,NA,NA,NA,NA,Phenazine alkaloids,Alkaloids,Benzenoids
+247256,Yes,NA,NA,NA,NA,NA,Phenazine alkaloids,Alkaloids,Benzenoids
+247317,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+247358,Yes,NA,NA,NA,NA,NA,Phenazine alkaloids,Alkaloids,Benzenoids
+247476,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+247482,Yes,NA,NA,NA,NA,NA,Phenazine alkaloids,Alkaloids,Benzenoids
+247507,Yes,NA,NA,NA,NA,NA,Phenazine alkaloids,Alkaloids,Benzenoids
+247517,Yes,NA,NA,NA,NA,NA,Simple phenolic acids,Shikimates and Phenylpropanoids,Aryl phosphates
+247559,Yes,NA,NA,NA,NA,NA,Anthraquinones and anthrones,Alkaloids,Benzenoids
+247728,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+247745,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Thiadiazole sulfonamides
+247764,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+247822,Yes,NA,NA,NA,NA,NA,Simple coumarins,Shikimates and Phenylpropanoids,Arylsulfonic acids and derivatives
+247868,Yes,NA,NA,NA,NA,NA,Phenazine alkaloids,Alkaloids,Benzenoids
+2478850,Yes,NA,NA,NA,NA,NA,Amino cyclitols,Carbohydrates,Aminoglycosides
+2479172,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Gamma-glutamyl peptides
+2479211,Yes,NA,NA,NA,NA,NA,Tripeptides,Carbohydrates,Peptides
+2479265,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2479568,Yes,NA,NA,NA,NA,NA,Purine nucleos(t)ides,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+2479969,Yes,NA,NA,NA,NA,NA,Polyamines,Amino acids and Peptides,Peptides
+2480473,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+248100,Yes,NA,NA,NA,NA,NA,Phenazine alkaloids,Alkaloids,Benzenoids
+248236,Yes,NA,NA,NA,NA,NA,Aminoacids,Alkaloids,"1-sulfo,2-unsubstituted aromatic compounds"
+248356,Yes,NA,NA,NA,NA,NA,Simple phenolic acids,Shikimates and Phenylpropanoids,Aryl phosphates
+248569,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+248668,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+248695,Yes,NA,NA,NA,NA,NA,Simple phenolic acids,Shikimates and Phenylpropanoids,Aryl phosphates
+248708,Yes,NA,NA,NA,NA,NA,Phenazine alkaloids,Alkaloids,Benzenoids
+2491443,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2492117,Yes,NA,NA,NA,NA,NA,Purine nucleos(t)ides,Carbohydrates,Purine ribonucleoside monophosphates
+2492252,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Phenylalanine and derivatives
+2492856,Yes,NA,NA,NA,NA,NA,Lipopeptides,Fatty acids,Alpha amino acids and derivatives
+2494091,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,Peptides
+249731,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2498444,Yes,NA,NA,NA,NA,NA,Diacylglycerols,Fatty acids,Lineolic acids and derivatives
+2498483,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,Alpha amino acids and derivatives
+2499094,Yes,NA,NA,NA,NA,NA,Cephalosporins,Alkaloids,Thiadiazoles
+2507260,Yes,NA,NA,NA,NA,NA,Cyclic peptides,Amino acids and Peptides,Alpha amino acids and derivatives
+2510276,Yes,NA,NA,NA,NA,NA,Tricyclic guanidine alkaloids,Alkaloids,N-acyl-alpha amino acids and derivatives
+25250,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Amphetamines and derivatives
+25253,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Benzene and substituted derivatives
+25269,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Amphetamines and derivatives
+2527274,Yes,NA,NA,NA,NA,NA,Phosphosphingolipids,Fatty acids,Phosphosphingolipids
+25322,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Amphetamines and derivatives
+25349,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2535333,Yes,NA,NA,NA,NA,NA,Oleanane triterpenoids,Terpenoids,Steroids and steroid derivatives
+2535376,Yes,NA,NA,NA,NA,NA,Diacylglycerols,Fatty acids,"1,2-diacylglycerols"
+2536113,Yes,NA,NA,NA,NA,NA,Oxidized glycerophospholipids,Fatty acids,Phosphatidylcholines
+2536294,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Amino acids and Peptides,Amino acids and derivatives
+25368,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+25369,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Phenethylamines
+25372,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+25376,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Amphetamines and derivatives
+25384,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Benzamides
+2540794,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Aminopyrimidines and derivatives
+2542798,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Peptides
+2542800,Yes,NA,NA,NA,NA,NA,Fatty acyl glycosides of mono- and disaccharides,Fatty acids,Saccharolipids
+254301,Yes,NA,NA,NA,NA,NA,Wax monoesters,Fatty acids,Organooxygen compounds
+2544971,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,Benzenesulfonyl compounds
+2546947,Yes,NA,NA,NA,NA,NA,N-acyl amines,Fatty acids,Amino acids and derivatives
+2549875,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Peptides
+25500,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2550605,Yes,NA,NA,NA,NA,NA,Erythromycins,Fatty acids,Amino acids and derivatives
+2550716,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Peptides
+2551214,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+25514,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Benzene and substituted derivatives
+2551706,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2551982,Yes,NA,NA,NA,NA,NA,Cyclic peptides,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+2552008,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Terpenoids,Amino acids and derivatives
+2552018,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,Amino acids and derivatives
+2552029,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,Glycinated bile acids and derivatives
+2552046,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Terpenoids,Diterpenoids
+2552061,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Terpenoids,Diterpenoids
+2552074,Yes,NA,NA,NA,NA,NA,Steroidal alkaloids,Terpenoids,Diterpenoids
+2552126,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,Alpha amino acids and derivatives
+2552147,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,Peptides
+2556387,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2556394,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2557141,Yes,NA,NA,NA,NA,NA,Flavonols,Shikimates and Phenylpropanoids,Pyranones and derivatives
+2557245,Yes,NA,NA,NA,NA,NA,Anthraquinones and anthrones,Carbohydrates,Purine nucleotides
+2557258,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Phenyl thiophosphates
+2557597,Yes,NA,NA,NA,NA,NA,Simple phenolic acids,Shikimates and Phenylpropanoids,Phenoxy compounds
+2559179,Yes,NA,NA,NA,NA,NA,Cyclic peptides,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+25597,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Thioethers
+2559751,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Polyketides,Macrolides and analogues
+2559869,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Alkanolamines
+25610,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Amphetamines and derivatives
+2562614,Yes,NA,NA,NA,NA,NA,Phosphosphingolipids,Fatty acids,Phosphosphingolipids
+2562909,Yes,NA,NA,NA,NA,NA,Depsipeptides,Polyketides,Depsipeptides
+25630,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Amphetamines and derivatives
+2563264,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,Peptides
+2563628,Yes,NA,NA,NA,NA,NA,Triacylglycerols,Terpenoids,Diterpenoids
+2563633,Yes,NA,NA,NA,NA,NA,Triacylglycerols,Terpenoids,Diterpenoids
+2563635,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,Depsipeptides
+2563639,Yes,NA,NA,NA,NA,NA,Cholestane steroids,Terpenoids,Steroid esters
+2563648,Yes,NA,NA,NA,NA,NA,Cholestane steroids,Terpenoids,Steroid esters
+2565765,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2565927,Yes,NA,NA,NA,NA,NA,Phosphosphingolipids,Fatty acids,Phosphosphingolipids
+2566020,Yes,NA,NA,NA,NA,NA,Phosphosphingolipids,Fatty acids,Phosphosphingolipids
+2566369,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2567032,Yes,NA,NA,NA,NA,NA,"Carotenoids (C40, Î²-Î²)",Terpenoids,Prenol lipids
+25694,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2578565,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2578569,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2579203,Yes,NA,NA,NA,NA,NA,Polyamines,Amino acids and Peptides,Peptides
+2579220,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,Oligopeptides
+2579222,Yes,NA,NA,NA,NA,NA,N-acyl amines,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+2579264,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,Alpha amino acids and derivatives
+2579280,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,Peptides
+2579294,Yes,NA,NA,NA,NA,NA,Macrotetrolides,Polyketides,Lipids and lipid-like molecules
+2579311,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,Alpha amino acids and derivatives
+2579350,Yes,NA,NA,NA,NA,NA,Depsipeptides,Amino acids and Peptides,Cyclic depsipeptides
+2579384,Yes,NA,NA,NA,NA,NA,Depsipeptides,Amino acids and Peptides,Cyclic depsipeptides
+2579914,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+25802,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2580325,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Terpenoids,Fatty acid esters
+2581354,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2581565,Yes,NA,NA,NA,NA,NA,N-acyl amines,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+2581776,Yes,NA,NA,NA,NA,NA,Polyamines,Fatty acids,N-acyl amines
+25836,Yes,NA,NA,NA,NA,NA,Polyamines,Fatty acids,Alkanolamines
+2584348,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+25846,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Amphetamines and derivatives
+2585198,Yes,NA,NA,NA,NA,NA,Tetracyclic diterpenoids,Terpenoids,Amino acids
+25860,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2586629,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,Alpha amino acids and derivatives
+25867,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Azacyclic compounds
+2586896,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,Phenylalanine and derivatives
+2586913,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,Phenylalanine and derivatives
+2587158,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,Phenylalanine and derivatives
+2587375,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+2589367,Yes,NA,NA,NA,NA,NA,Cyclic peptides,Amino acids and Peptides,Cyclic depsipeptides
+2589726,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Peptides
+25912,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Amphetamines and derivatives
+2597680,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,Alpha amino acids and derivatives
+2597692,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Fatty acids,Alkyl glycosides
+2597742,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,N-acyl-alpha amino acids and derivatives
+2598032,Yes,NA,NA,NA,NA,NA,Cyclic peptides,Amino acids and Peptides,Alpha amino acids and derivatives
+25982,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+25990,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Phenylpropanes
+2599755,Yes,NA,NA,NA,NA,NA,Anthraquinones and anthrones,Alkaloids,Benzenoids
+260310,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Tyrosine and derivatives
+2603106,Yes,NA,NA,NA,NA,NA,Cephalosporins,Alkaloids,Arylsulfonic acids and derivatives
+2604152,Yes,NA,NA,NA,NA,NA,Lipopeptides,Polyketides,Macrolide lactams
+2604261,Yes,NA,NA,NA,NA,NA,N-acyl amines,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+2604324,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,N-acyl amines
+2604505,Yes,NA,NA,NA,NA,NA,N-acyl amines,Amino acids and Peptides,Alpha amino acids and derivatives
+2604510,Yes,NA,NA,NA,NA,NA,Monocyclic guanidine alkaloids,Alkaloids,Amino acids and derivatives
+2604576,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2605714,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+260575,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2607802,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+2608647,Yes,NA,NA,NA,NA,NA,Lipopeptides,Alkaloids,Alpha amino acids and derivatives
+2608711,Yes,NA,NA,NA,NA,NA,Phosphosphingolipids,Fatty acids,Phosphosphingolipids
+2612095,Yes,NA,NA,NA,NA,NA,Linear peptides,Fatty acids,N-acyl-alpha amino acids and derivatives
+26133,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2618910,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2619916,Yes,NA,NA,NA,NA,NA,"Carotenoids (C40, Î²-Î²)",Terpenoids,Fatty alcohol esters
+2620000,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,N-acyl amines
+2620066,Yes,NA,NA,NA,NA,NA,Aminoglycosides,Carbohydrates,Aminocyclitol glycosides
+2622983,Yes,NA,NA,NA,NA,NA,Cyclic peptides,Amino acids and Peptides,Peptides
+262437,Yes,NA,NA,NA,NA,NA,Fatty alcohols,Fatty acids,Lipids and lipid-like molecules
+2626782,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Polyketides,O-glycosyl compounds
+2627281,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2627472,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,Oligopeptides
+2635590,Yes,NA,NA,NA,NA,NA,Phosphosphingolipids,Fatty acids,Phosphosphingolipids
+2635889,Yes,NA,NA,NA,NA,NA,Phosphosphingolipids,Fatty acids,Phosphosphingolipids
+2636146,Yes,NA,NA,NA,NA,NA,"Carotenoids (C40, Î²-Î²)",Terpenoids,Benzene and substituted derivatives
+2636435,Yes,NA,NA,NA,NA,NA,Fatty acyl glycosides of mono- and disaccharides,Fatty acids,Fatty acid esters
+2637399,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Diarylthioethers
+2637959,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2638714,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,Oligopeptides
+2638726,Yes,NA,NA,NA,NA,NA,Monocyclic guanidine alkaloids,Fatty acids,Alpha amino acids and derivatives
+2640239,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,"1,2,4-dithiazole-3-thiones"
+2640635,Yes,NA,NA,NA,NA,NA,Phosphosphingolipids,Fatty acids,Phosphosphingolipids
+2651638,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,Depsipeptides
+2652870,Yes,NA,NA,NA,NA,NA,Macrotetrolides,Polyketides,Macrolides and analogues
+2653487,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+26544,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2657302,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Polyketides,Diterpene glycosides
+2657303,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Polyketides,Hydroxysteroids
+2661091,Yes,NA,NA,NA,NA,NA,Triacylglycerols,Polyketides,Fatty acid esters
+2661103,Yes,NA,NA,NA,NA,NA,Triacylglycerols,Fatty acids,Triacylglycerols
+2662331,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,Alpha amino acids and derivatives
+2676516,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+267934,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2679817,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,Oligopeptides
+2679830,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+2679838,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Polyketides,Steroids and steroid derivatives
+2680449,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2682309,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2683525,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2686856,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Alkaloids,Dicarboxylic acids and derivatives
+2687340,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,N-acyl-alpha amino acids and derivatives
+2689443,Yes,NA,NA,NA,NA,NA,Cyclic peptides,Polyketides,Cyclic depsipeptides
+269293,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2692993,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Peptides
+2693005,Yes,NA,NA,NA,NA,NA,Secoiridoid monoterpenoids,Shikimates and Phenylpropanoids,Saccharolipids
+2693044,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+2693908,Yes,NA,NA,NA,NA,NA,Depsipeptides,Amino acids and Peptides,Alpha amino acids and derivatives
+2693926,Yes,NA,NA,NA,NA,NA,Polyamines,Amino acids and Peptides,Peptides
+270721,Yes,NA,NA,NA,NA,NA,Wax monoesters,Fatty acids,Straight chain fatty acids
+271305,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Alpha amino acid amides
+2715758,Yes,NA,NA,NA,NA,NA,Phosphosphingolipids,Fatty acids,Phosphosphingolipids
+2716109,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,N-acyl-alpha amino acids and derivatives
+2716134,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2716832,Yes,NA,NA,NA,NA,NA,Glycerophosphoethanolamines,Fatty acids,Amino acids and derivatives
+2718382,Yes,NA,NA,NA,NA,NA,Linear peptides,Polyketides,Depsipeptides
+2718869,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,Alpha amino acids and derivatives
+2718872,Yes,NA,NA,NA,NA,NA,Glycerophosphocholines,Fatty acids,Glycerophosphocholines
+2719016,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,Oligopeptides
+2723497,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,Oligopeptides
+2724299,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Benzenesulfonyl compounds
+2724953,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Polyketides,Prenol lipids
+2726367,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2726548,Yes,NA,NA,NA,NA,NA,Lipopeptides,Alkaloids,Oligopeptides
+2727507,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Fatty acid esters
+2727509,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Amino acids and derivatives
+2727512,Yes,NA,NA,NA,NA,NA,Thia fatty acids,Alkaloids,Fatty acid esters
+2727515,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Fatty Acyls
+2727518,Yes,NA,NA,NA,NA,NA,Thia fatty acids,Fatty acids,Fatty acid esters
+2727519,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,"1,2,4-dithiazole-3-thiones"
+2730136,Yes,NA,NA,NA,NA,NA,Polyamines,Carbohydrates,Cyclohexylamines
+273540,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Aminopyrimidines and derivatives
+273715,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids and derivatives
+273843,Yes,NA,NA,NA,NA,NA,Purine alkaloids,Alkaloids,"1,3,5-triazine-2,4-diamines"
+2739380,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2739417,Yes,NA,NA,NA,NA,NA,Penicillins,Amino acids and Peptides,Peptides
+274024,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Organonitrogen compounds
+274173,Yes,NA,NA,NA,NA,NA,Pyrazine and Piperazine alkaloids,Alkaloids,Aminopyrimidines and derivatives
+274231,Yes,NA,NA,NA,NA,NA,Pyrazine and Piperazine alkaloids,Alkaloids,Aminopyrimidines and derivatives
+2743122,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+274373,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Benzene and substituted derivatives
+274525,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Aminopyrimidines and derivatives
+2749381,Yes,NA,NA,NA,NA,NA,Cephalosporins,Alkaloids,Benzenesulfonic acids and derivatives
+2749448,Yes,NA,NA,NA,NA,NA,Anthraquinones and anthrones,Alkaloids,Diarylthioethers
+2750865,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2759066,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,Peptides
+2768020,Yes,NA,NA,NA,NA,NA,Purine nucleos(t)ides,Carbohydrates,N-acyl-alpha amino acids
+2769471,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,Depsipeptides
+2774100,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2774135,Yes,NA,NA,NA,NA,NA,Diacylglycerols,Fatty acids,Triradylcglycerols
+2774138,Yes,NA,NA,NA,NA,NA,Diacylglycerols,Fatty acids,Triradylcglycerols
+2786556,Yes,NA,NA,NA,NA,NA,Polyether ionophores,Polyketides,Diterpenoids
+2792348,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,Oligopeptides
+2792834,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2793720,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2799412,Yes,NA,NA,NA,NA,NA,Erythromycins,Amino acids and Peptides,Oligopeptides
+2802228,Yes,NA,NA,NA,NA,NA,Dipeptides,Alkaloids,Cysteine and derivatives
+2803140,Yes,NA,NA,NA,NA,NA,Cyclic peptides,Amino acids and Peptides,Alpha amino acids and derivatives
+2806260,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2806263,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2806273,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,Peptides
+2806577,Yes,NA,NA,NA,NA,NA,Lipopeptides,Fatty acids,Peptides
+2807689,Yes,NA,NA,NA,NA,NA,Cyclic peptides,Amino acids and Peptides,Depsipeptides
+2813879,Yes,NA,NA,NA,NA,NA,Diacylglycerols,Terpenoids,Dicarboxylic acids and derivatives
+2814009,Yes,NA,NA,NA,NA,NA,Lupane triterpenoids,Terpenoids,Steroid esters
+2814190,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2814575,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2814604,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Cysteine and derivatives
+2817048,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,Peptides
+2817049,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Alkaloids,Azasteroids and derivatives
+2817591,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2821002,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2824769,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2827529,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+28352,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Benzene and substituted derivatives
+283666,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,N-acetyl-2-arylethylamines
+283756,Yes,NA,NA,NA,NA,NA,Pyrazine and Piperazine alkaloids,Alkaloids,Benzene and substituted derivatives
+283769,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Pyrimidines and pyrimidine derivatives
+283792,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,N-acetylarylamines
+283828,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Imidazoles
+284288,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Diazines
+2843195,Yes,NA,NA,NA,NA,NA,Triacylglycerols,Fatty acids,Fatty acyl glycosides of mono- and disaccharides
+2843215,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,Alpha amino acids and derivatives
+2844351,Yes,NA,NA,NA,NA,NA,Anthraquinones and anthrones,Alkaloids,Benzenoids
+2845641,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Aminopyrimidines and derivatives
+2847877,Yes,NA,NA,NA,NA,NA,Glycerophosphoethanolamines,Fatty acids,Phosphatidylethanolamines
+2847924,Yes,NA,NA,NA,NA,NA,Glycerophosphoethanolamines,Fatty acids,Monomethylphosphatidylethanolamines
+2848997,Yes,NA,NA,NA,NA,NA,Diacylglycerols,Fatty acids,Triradylcglycerols
+284927,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Sulfonyls
+2849745,Yes,NA,NA,NA,NA,NA,Glycerophosphoethanolamines,Fatty acids,Phosphatidylethanolamines
+2850307,Yes,NA,NA,NA,NA,NA,Glycerophosphocholines,Fatty acids,"1-alkyl,2-acylglycero-3-phosphocholines"
+2850938,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2851879,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2851889,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2855775,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,Oligopeptides
+2855787,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+2855817,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2857249,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,Oligopeptides
+2857251,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2862127,Yes,NA,NA,NA,NA,NA,Anthraquinones and anthrones,Alkaloids,1-naphthalene sulfonates
+2862618,Yes,NA,NA,NA,NA,NA,Polyether ionophores,Terpenoids,Diterpenoids
+2862925,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,Peptides
+2864759,Yes,NA,NA,NA,NA,NA,Polyamines,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+2865355,Yes,NA,NA,NA,NA,NA,Glucosinolates,Amino acids and Peptides,Benzenesulfonic acids and derivatives
+2867502,Yes,"""(R)-4-((3S,5R,8R,9S,10S,13R,14S,17R)-3-hydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",2M+H,753.603,376.298,Gold,Polyamines,Alkaloids,Steroids and steroid derivatives
+2868444,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,Oligopeptides
+2868445,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2870597,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2870915,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,Oligopeptides
+2876117,Yes,NA,NA,NA,NA,NA,Glycerophosphoinositol phosphates,Fatty acids,Phosphatidylinositol phosphates
+2879389,Yes,NA,NA,NA,NA,NA,Gallotannins,Carbohydrates,Amino acids
+2884140,Yes,NA,NA,NA,NA,NA,pteridine alkaloids,Alkaloids,N-acyl-alpha amino acids
+2884404,Yes,NA,NA,NA,NA,NA,Macrotetrolides,Polyketides,Diterpene glycosides
+2890549,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Aminopyrimidines and derivatives
+2891591,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,Oligopeptides
+2894005,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2894013,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2894018,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2899474,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2899475,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2899480,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2899483,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Dialkylarylamines
+2903823,Yes,NA,NA,NA,NA,NA,Depsipeptides,Amino acids and Peptides,Cyclic depsipeptides
+2904848,Yes,NA,NA,NA,NA,NA,Anthraquinones and anthrones,Alkaloids,2-naphthalene sulfonates
+2904851,Yes,NA,NA,NA,NA,NA,Anthraquinones and anthrones,Polyketides,Amino acids and derivatives
+2904855,Yes,NA,NA,NA,NA,NA,Anthraquinones and anthrones,Alkaloids,Diarylthioethers
+2904860,Yes,NA,NA,NA,NA,NA,Purine nucleos(t)ides,Carbohydrates,Glycosylamines
+2904925,Yes,NA,NA,NA,NA,NA,Gallotannins,Shikimates and Phenylpropanoids,Hydrolyzable tannins
+2905150,Yes,NA,NA,NA,NA,NA,Cephalosporins,Alkaloids,Arylsulfonic acids and derivatives
+2905361,Yes,NA,NA,NA,NA,NA,Gallotannins,Carbohydrates,Purine ribonucleoside monophosphates
+2911437,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2912141,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2917429,Yes,NA,NA,NA,NA,NA,Glycerophosphocholines,Fatty acids,Phosphatidylcholines
+2919179,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2919187,Yes,"""(4R)-4-((3S,5R,9S,10S,13R,14S,17R)-3-hydroxy-10,13-dimethyl-12-oxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",2M+H,781.561,390.277,Gold,Cholane steroids,Terpenoids,Glycinated bile acids and derivatives
+2919197,Yes,NA,NA,NA,NA,NA,Cholestane steroids,Amino acids and Peptides,"Hydroxy bile acids, alcohols and derivatives"
+2919356,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Gamma-glutamyl peptides
+2924759,Yes,NA,NA,NA,NA,NA,Triacylglycerols,Terpenoids,Steroid esters
+292515,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+2927156,Yes,NA,NA,NA,NA,NA,Cyclic peptides,Amino acids and Peptides,Cyclic depsipeptides
+2929121,Yes,"""(R)-4-((3S,5S,7R,8R,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",2M+H,785.593,392.293,Gold,Lipopeptides,Terpenoids,Oligopeptides
+2929132,Yes,"""(4R)-4-((3R,5R,6S,9S,10R,13R,14S,17R)-3,6-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",2M+H,785.593,392.293,Gold,Triacylglycerols,Fatty acids,Fatty alcohols
+2929134,Yes,Spectral Match to Deoxycholic acid from NIST14,2M+H,785.594,0,Bronze,Lipopeptides,Terpenoids,Glycinated bile acids and derivatives
+2929135,Yes,"""(R)-4-((3S,5S,7R,8R,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",2M+H,785.593,392.293,Gold,Lipopeptides,Terpenoids,Glycinated bile acids and derivatives
+2929144,Yes,"""(4R)-4-((3R,5R,6S,9S,10R,13R,14S,17R)-3,6-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",2M+H,785.593,392.293,Gold,Lipopeptides,Terpenoids,Glycinated bile acids and derivatives
+2929152,Yes,"""(4R)-4-((3R,5S,7S,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",2M+H,785.593,392.293,Gold,Lipopeptides,Terpenoids,"Hydroxy bile acids, alcohols and derivatives"
+2929158,Yes,"""(4R)-4-((3R,5S,7S,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",2M+H,785.593,392.293,Gold,Lipopeptides,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+2929164,Yes,"""(R)-4-((3R,5S,8R,9S,10S,12R,13R,14S,17R)-3,12-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",2M+H,785.593,392.293,Gold,Lipopeptides,Amino acids and Peptides,Oligopeptides
+2929205,Yes,"""(4R)-4-((3R,5S,7S,9S,10S,13R,14S,17R)-3,7-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",2M+H,785.593,392.293,Gold,Lipopeptides,Terpenoids,Glycinated bile acids and derivatives
+2929542,Yes,NA,NA,NA,NA,NA,Cyclic peptides,Polyketides,Alpha amino acids and derivatives
+2929555,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Organosulfonic acids and derivatives
+2944873,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,Oligopeptides
+2954300,Yes,NA,NA,NA,NA,NA,Cyclic peptides,Polyketides,Cyclic depsipeptides
+2954980,Yes,NA,NA,NA,NA,NA,Triacylglycerols,Fatty acids,Triacylglycerols
+2955558,Yes,NA,NA,NA,NA,NA,Macrotetrolides,Polyketides,Macrolides and analogues
+2958276,Yes,NA,NA,NA,NA,NA,Cholestane steroids,Terpenoids,12-hydroxysteroids
+2958994,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,Oligopeptides
+2958997,Yes,NA,NA,NA,NA,NA,Cholestane steroids,Terpenoids,Glycinated bile acids and derivatives
+2959222,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,Oligopeptides
+2959249,Yes,NA,NA,NA,NA,NA,Linear peptides,Terpenoids,Glycinated bile acids and derivatives
+2959457,Yes,NA,NA,NA,NA,NA,Glycerophosphocholines,Fatty acids,Glycerophosphocholines
+2959856,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,Oligopeptides
+2960454,Yes,NA,NA,NA,NA,NA,Cholestane steroids,Terpenoids,"Hydroxy bile acids, alcohols and derivatives"
+2962130,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2962175,Yes,NA,NA,NA,NA,NA,Cholestane steroids,Terpenoids,Glycinated bile acids and derivatives
+2962470,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,"Monohydroxy bile acids, alcohols and derivatives"
+2962769,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2962792,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,Oligopeptides
+2965621,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,Dipeptides
+2965858,Yes,"""(4R)-4-((5S,7R,9S,10S,12S,13R,14S,17R)-7,12-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",2M+Na,807.575,392.293,Gold,Lipopeptides,Amino acids and Peptides,Oligopeptides
+2965859,Yes,"""(4R)-4-((5S,7R,9S,10S,12S,13R,14S,17R)-7,12-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",2M+Na,807.575,392.293,Gold,Triacylglycerols,Terpenoids,Steroid esters
+2965891,Yes,"""(4R)-4-((5S,7R,9S,10S,12S,13R,14S,17R)-7,12-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",2M+Na,807.575,392.293,Gold,Linear peptides,Amino acids and Peptides,Oligopeptides
+2965910,Yes,"""(4R)-4-((5S,7R,9S,10S,12S,13R,14S,17R)-7,12-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",2M+Na,807.575,392.293,Gold,Lipopeptides,Amino acids and Peptides,Oligopeptides
+2965928,Yes,"""(4R)-4-((5S,7R,9S,10S,12S,13R,14S,17R)-7,12-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",2M+Na,807.575,392.293,Gold,Cholestane steroids,Terpenoids,Glycinated bile acids and derivatives
+2968075,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2968124,Yes,NA,NA,NA,NA,NA,Phosphosphingolipids,Fatty acids,Phosphosphingolipids
+2972229,Yes,NA,NA,NA,NA,NA,Cyclic peptides,Amino acids and Peptides,Oligopeptides
+297373,Yes,NA,NA,NA,NA,NA,Eudesmane sesquiterpenoids,Terpenoids,Prenol lipids
+2973923,Yes,NA,NA,NA,NA,NA,Cholestane steroids,Terpenoids,Steroid esters
+2974202,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,Oligopeptides
+2974270,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,Oligopeptides
+2974309,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,Oligopeptides
+2974377,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2979247,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Amino acids and derivatives
+2981490,Yes,NA,NA,NA,NA,NA,Cholestane steroids,Terpenoids,Steroid esters
+2981526,Yes,NA,NA,NA,NA,NA,Stigmastane steroids,Terpenoids,Triterpenoids
+2981556,Yes,NA,NA,NA,NA,NA,Cyclic peptides,Amino acids and Peptides,Cyclic depsipeptides
+2984509,Yes,Spectral Match to Cholic acid from NIST14,2M+H,817.583,0,Bronze,Stigmastane steroids,Terpenoids,Triterpenoids
+2984511,Yes,"""(4R)-4-((3S,5R,6S,7S,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",2M+H,817.582,408.288,Gold,Stigmastane steroids,Terpenoids,Triterpenoids
+2984518,Yes,"""(4R)-4-((3S,5R,6S,7S,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",2M+H,817.582,408.288,Gold,Cholestane steroids,Terpenoids,"Dihydroxy bile acids, alcohols and derivatives"
+2984534,Yes,"""(4R)-4-((3S,5R,6S,7S,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",2M+H,817.582,408.288,Gold,Cholestane steroids,Terpenoids,Steroid esters
+2984535,Yes,"""(4R)-4-((3S,5R,6S,7S,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",2M+H,817.582,408.288,Gold,Cholestane steroids,Terpenoids,Triterpenoids
+2984568,Yes,"""(4R)-4-((3S,5R,6S,7S,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",2M+H,817.582,408.288,Gold,Cholestane steroids,Terpenoids,Steroid esters
+2985181,Yes,NA,NA,NA,NA,NA,Glycerophosphoethanolamines,Fatty acids,7-hydroxysteroids
+2986283,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2986865,Yes,NA,NA,NA,NA,NA,Oxidized glycerophospholipids,Fatty acids,Phosphatidylcholines
+2986871,Yes,NA,NA,NA,NA,NA,Polyamines,Amino acids and Peptides,Alpha amino acid amides
+2986872,Yes,NA,NA,NA,NA,NA,Acyclic guanidine alkaloids,Alkaloids,Biotin and derivatives
+2986877,Yes,NA,NA,NA,NA,NA,Phosphosphingolipids,Fatty acids,Sphingolipids
+2989321,Yes,NA,NA,NA,NA,NA,Phosphosphingolipids,Fatty acids,Phosphosphingolipids
+298938,Yes,NA,NA,NA,NA,NA,Fatty alcohols,Fatty acids,Primary alcohols
+298953,Yes,NA,NA,NA,NA,NA,Fatty alcohols,Fatty acids,Primary alcohols
+2989837,Yes,NA,NA,NA,NA,NA,Polyamines,Fatty acids,Isoleucine and derivatives
+2989849,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2992139,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+2992140,Yes,"""methyl (4R)-4-((5R,8S,9S,10R,13R,17R)-10,13-dimethyl-3,6-dioxohexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoate""",2M+Na,827.543,402.277,Gold,Triacylglycerols,Fatty acids,Triacylglycerols
+2995156,Yes,NA,NA,NA,NA,NA,Neutral glycosphingolipids,Fatty acids,Glycosyl-N-acylsphingosines
+2995246,Yes,NA,NA,NA,NA,NA,Cephalosporins,Alkaloids,Aryl thiophosphates
+2997816,Yes,NA,NA,NA,NA,NA,Cholestane steroids,Amino acids and Peptides,Glycinated bile acids and derivatives
+2998957,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,Oligopeptides
+3000216,Yes,NA,NA,NA,NA,NA,Glycerophosphoethanolamines,Fatty acids,Amino acids and derivatives
+3000301,Yes,NA,NA,NA,NA,NA,Glycerophosphocholines,Fatty acids,Phosphatidylcholines
+3000393,Yes,NA,NA,NA,NA,NA,Phosphosphingolipids,Fatty acids,N-acyl-alpha amino acids and derivatives
+3001919,Yes,Cholic acid,2M+NH4,834.609,408.288,Bronze,Lipopeptides,Amino acids and Peptides,Glycinated bile acids and derivatives
+3001937,Yes,Cholic acid,2M+NH4,834.609,408.288,Bronze,Lipopeptides,Amino acids and Peptides,Peptides
+3002460,Yes,"""(4R,E)-4-((3R,5R,6S,7R,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pent-2-enoic acid""",2M+Na,835.533,406.272,Gold,Cholestane steroids,Terpenoids,"Hydroxy bile acids, alcohols and derivatives"
+3003862,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,Glycinated bile acids and derivatives
+3004461,Yes,NA,NA,NA,NA,NA,Steroidal alkaloids,Terpenoids,Steroids and steroid derivatives
+3004705,Yes,NA,NA,NA,NA,NA,Cholane steroids,Terpenoids,Glycinated bile acids and derivatives
+3004708,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Dialkylarylamines
+3004917,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,Glycinated bile acids and derivatives
+3006902,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+3006926,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,Peptides
+3006937,Yes,"""(4R)-4-((3R,5S,7R,8R,9S,10S,13S,14S,16R)-3,7,16-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",2M+Na,839.564,408.288,Gold,Lipopeptides,Amino acids and Peptides,Glycinated bile acids and derivatives
+3006938,Yes,"""(4R)-4-((3R,5S,7R,8R,9S,10S,13S,14S,16R)-3,7,16-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",2M+Na,839.564,408.288,Gold,Lipopeptides,Amino acids and Peptides,Oligopeptides
+3006946,Yes,"""(R)-4-((3R,5S,7R,8R,9S,10S,12R,13R,14S,17R)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",2M+Na,839.564,408.288,Gold,Cholestane steroids,Terpenoids,Glycinated bile acids and derivatives
+3006956,Yes,"""(R)-4-((3R,5S,7R,8R,9S,10S,12R,13R,14S,17R)-3,7,12-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",2M+Na,839.564,408.288,Gold,Lipopeptides,Amino acids and Peptides,Glycinated bile acids and derivatives
+3006993,Yes,"""(R)-4-((3S,5R,6R,7R,8S,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",2M+Na,839.564,408.288,Gold,Dammarane and Protostane triterpenoids,Terpenoids,Triterpene saponins
+3007009,Yes,"""(R)-4-((3S,5R,6R,7R,8S,9S,10R,13R,14S,17R)-3,6,7-trihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanoic acid""",2M+Na,839.564,408.288,Gold,Linear peptides,Amino acids and Peptides,Oligopeptides
+300728,Yes,NA,NA,NA,NA,NA,Polyamines,Fatty acids,Sulfenyl compounds
+3007598,Yes,NA,NA,NA,NA,NA,Lipopeptides,Terpenoids,Glycinated bile acids and derivatives
+3007625,Yes,NA,NA,NA,NA,NA,Neutral glycosphingolipids,Fatty acids,Glycosyl-N-acylsphingosines
+3009895,Yes,NA,NA,NA,NA,NA,Phosphosphingolipids,Fatty acids,Phosphosphingolipids
+3009968,Yes,NA,NA,NA,NA,NA,Lipopeptides,Amino acids and Peptides,Depsipeptides
+3011963,Yes,NA,NA,NA,NA,NA,Tantazoles and mirabazoles,Alkaloids,Benzene and substituted derivatives
+3012049,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Beta amino acids and derivatives
+3012710,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,Oligopeptides
+3012726,Yes,NA,NA,NA,NA,NA,Glycerophosphocholines,Fatty acids,Biotin and derivatives
+3012732,Yes,NA,NA,NA,NA,NA,Oxidized glycerophospholipids,Fatty acids,Phosphatidylcholines
+3012784,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,Oligopeptides
+3013347,Yes,NA,NA,NA,NA,NA,Polyamines,Amino acids and Peptides,Oligopeptides
+301728,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Aminotriazines
+3018035,Yes,NA,NA,NA,NA,NA,Depsipeptides,Polyketides,Cyclic depsipeptides
+3018410,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,Oligopeptides
+3018427,Yes,NA,NA,NA,NA,NA,Linear peptides,Amino acids and Peptides,Hybrid peptides
+3018463,Yes,NA,NA,NA,NA,NA,Glycerophosphocholines,Fatty acids,Amino acids and derivatives
+3028816,Yes,PC(20:5/22:6); [M+H]+ C50H79N1O8P1,M+H,852.554,0,Gold,NA,NA,NA
+3033779,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3035081,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3035490,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3035713,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3036326,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3036816,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3041306,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3041337,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3042684,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3042876,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3044822,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3044826,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3047052,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3047459,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3051904,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3056499,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3057933,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3062239,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3068110,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3069245,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3074308,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3075174,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3075180,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3075187,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3075197,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3075226,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3075258,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3075371,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3075418,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3081,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3091763,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3091780,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3091791,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3091866,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3092472,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3093809,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3113408,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3127847,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3127865,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3127867,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3128843,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3133038,Yes,Ala-CA,2M+Na,981.639,479.325,Silver,NA,NA,NA
+313726,Yes,NA,NA,NA,NA,NA,Fatty alcohols,Fatty acids,Long-chain fatty alcohols
+3139779,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+314071,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Terpenoids,Fatty Acyls
+314157,Yes,NA,NA,NA,NA,NA,Norlabdane diterpenoids,Fatty acids,Prenol lipids
+3153367,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3153368,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3153686,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3153687,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3154296,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3155241,Yes,"""2-((4R)-4-((3R,5R,6S,9S,10R,13R,14S,17R)-3,6-dihydroxy-10,13-dimethylhexadecahydro-1H-cyclopenta[a]phenanthren-17-yl)pentanamido)ethane-1-sulfonic acid""",2M+Na,1021.58,499.297,Gold,NA,NA,NA
+3155274,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3155276,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3155280,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3155289,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3155423,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3155516,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3155527,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+316032,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Amino acids and derivatives
+316047,Yes,NA,NA,NA,NA,NA,Pyrrole alkaloids,Alkaloids,Fatty acid esters
+316049,Yes,NA,NA,NA,NA,NA,Phenylethylamines,Alkaloids,Amino acids and derivatives
+316053,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Secondary carboxylic acid amides
+316075,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Fatty Acyls
+316092,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Secondary carboxylic acid amides
+3161112,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3161113,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+316114,Yes,NA,NA,NA,NA,NA,Phenylethylamines,Alkaloids,Amino acids and derivatives
+3161245,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+316142,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+316172,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Amino acids and derivatives
+316222,Yes,NA,NA,NA,NA,NA,Simple phenolic acids,Alkaloids,1-hydroxy-2-unsubstituted benzenoids
+316260,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Amino acids and derivatives
+3162662,Yes,"Spectral Match to Propanoic acid, 3,3'-thiobis-, didodecyl ester from NIST14",2M+Na,1051.8,514.406,Bronze,NA,NA,NA
+316273,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Methyl esters
+316341,Yes,NA,NA,NA,NA,NA,Simple phenolic acids,Shikimates and Phenylpropanoids,Alpha amino acid esters
+316387,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Amino acids and derivatives
+316447,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Anilides
+316516,Yes,NA,NA,NA,NA,NA,Wax monoesters,Alkaloids,Carboxylic acid esters
+3166874,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3168916,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3169002,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3169380,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3169382,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3170007,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3170015,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3170021,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3170957,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3172500,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3175726,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3175786,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+31763,Yes,NA,NA,NA,NA,NA,Hydrocarbons,Fatty acids,Thioethers
+3176344,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3176346,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3176347,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3176503,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3176577,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3176798,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3176799,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3176800,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3176846,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3176935,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3176968,Yes,Cholic acid,3M+H,1225.87,408.288,Bronze,NA,NA,NA
+3176969,Yes,Cholic acid,3M+H,1225.87,408.288,Bronze,NA,NA,NA
+3176988,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3177491,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3177528,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3177529,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3177537,Yes,Cholic acid,3M+NH4,1242.9,408.288,Bronze,NA,NA,NA
+3177541,Yes,Cholic acid,3M+NH4,1242.9,408.288,Bronze,NA,NA,NA
+3177550,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3177588,Yes,Cholic acid,3M+Na,1247.85,408.288,Bronze,NA,NA,NA
+3177608,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3178055,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3178056,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3178059,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3178071,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3178076,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3178123,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3178150,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3178155,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3178158,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3178195,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3178259,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3178330,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3178335,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3179508,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3179509,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3179512,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3179544,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3179564,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+31798,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3179883,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3180023,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3180024,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3180025,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3180028,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3180030,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3180033,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3180035,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3180038,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3180041,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3180043,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3180048,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3180051,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3180066,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3180069,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3180077,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3180081,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3180218,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3180219,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3180241,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+31812,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3181424,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3181428,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3181429,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3185522,Yes,"Spectral Match to 9Z,11E,13E-Octadecatrienoic acid methyl ester from NIST14",M+H,293.247,0,Bronze,Unsaturated fatty acids,Fatty acids,Lineolic acids and derivatives
+3185544,Yes,NA,NA,NA,NA,NA,Labdane diterpenoids,Terpenoids,Fatty acid esters
+3185556,Yes,NA,NA,NA,NA,NA,Polyamines,Fatty acids,Dialkylthioethers
+3185637,Yes,NA,NA,NA,NA,NA,Hydroxy-hydroperoxyeicosatrienoic acids,Fatty acids,Lineolic acids and derivatives
+3185649,Yes,NA,NA,NA,NA,NA,Labdane diterpenoids,Fatty acids,Lineolic acids and derivatives
+3185701,Yes,"Spectral Match to 9Z,11E,13E-Octadecatrienoic acid methyl ester from NIST14",M+H,293.247,0,Bronze,Labdane diterpenoids,Terpenoids,Diterpenoids
+3197597,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Dipeptides
+3197649,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Dipeptides
+3197673,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Alpha amino acids
+319870,Yes,NA,NA,NA,NA,NA,Simple phenolic acids,Shikimates and Phenylpropanoids,Benzoic acid esters
+31998,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3200,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3201110,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Carboxylic acid derivatives
+3201562,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Dialkylamines
+3204308,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Alkylarylthioethers
+3204313,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,"1,3,5-triazines"
+3204323,Yes,NA,NA,NA,NA,NA,Other Eicosanoids,Fatty acids,Lineolic acids and derivatives
+3204487,Yes,NA,NA,NA,NA,NA,Wax monoesters,Fatty acids,Lineolic acids and derivatives
+3204591,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,"1,3,5-triazines"
+32046,Yes,NA,NA,NA,NA,NA,Halogenated hydrocarbons,Fatty acids,Organic phosphonic acids
+3204784,Yes,NA,NA,NA,NA,NA,Labdane diterpenoids,Terpenoids,Diterpenoids
+3204825,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Triazines
+32067,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3210033,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Heteroaromatic compounds
+3211782,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Dipeptides
+3211837,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids
+3213651,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Histidine and derivatives
+321612,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+32204,Yes,NA,NA,NA,NA,NA,Aminoacids,Fatty acids,Sulfenyl compounds
+3228894,Yes,NA,NA,NA,NA,NA,Purine nucleos(t)ides,Carbohydrates,Alpha amino acids and derivatives
+3231740,Yes,NA,NA,NA,NA,NA,Other Octadecanoids,Fatty acids,Long-chain fatty acids
+3232453,Yes,NA,NA,NA,NA,NA,Other Octadecanoids,Fatty acids,Lineolic acids and derivatives
+3232456,Yes,NA,NA,NA,NA,NA,Other Octadecanoids,Fatty acids,Long-chain fatty acids
+323599,Yes,NA,NA,NA,NA,NA,Fatty alcohols,Fatty acids,Fatty alcohols
+3239693,Yes,NA,NA,NA,NA,NA,N-acyl amines,Fatty acids,Amino acids and derivatives
+3248588,Yes,NA,NA,NA,NA,NA,Open-chain polyketides,Fatty acids,N-acyl amines
+3260300,Yes,NA,NA,NA,NA,NA,Labdane diterpenoids,Fatty acids,Long-chain fatty acids
+3260648,Yes,NA,NA,NA,NA,NA,Cannabinoids,Terpenoids,Benzenoids
+3261745,Yes,NA,NA,NA,NA,NA,Wax monoesters,Fatty acids,Fatty Acyls
+3261809,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Aminotriazines
+3262152,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Dialkylthioethers
+32861,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+32878,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Organic sulfuric acids and derivatives
+32977,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+33012,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Organic phosphonic acids
+330938,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Benzenoids
+33191,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Organonitrogen compounds
+33237,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Phosphate esters
+33299,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Organic sulfuric acids and derivatives
+333041,Yes,NA,NA,NA,NA,NA,Dipeptides,Alkaloids,Fatty Acyls
+33960,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+33961,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alkanesulfonic acids
+34059,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+34076,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+34114,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+34160,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+34674,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Dialkylamines
+34720,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+34759,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+34781,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+34816,Yes,NA,NA,NA,NA,NA,Simple phenolic acids,Shikimates and Phenylpropanoids,Phenol ethers
+348168,Yes,Spectral Match to Equol from NIST14,M+H,243.101,0,Bronze,Imidazole alkaloids,Alkaloids,Phenol ethers
+348178,Yes,NA,NA,NA,NA,NA,Isoflavanones,Shikimates and Phenylpropanoids,Isoflavanols
+34831,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Carboxylic acid derivatives
+34841,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Isothioureas
+34984,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Monoalkylamines
+35089,Yes,NA,NA,NA,NA,NA,Aminoacids,Fatty acids,Primary amines
+35288,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Organosulfonic acids and derivatives
+35292,Yes,NA,NA,NA,NA,NA,Monosaccharides,Carbohydrates,Organic peroxomonosulfates
+35328,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+35346,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+353723,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+35959,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+359630,Yes,NA,NA,NA,NA,NA,Bisabolane sesquiterpenoids,Terpenoids,Prenol lipids
+35966,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids
+359666,Yes,NA,NA,NA,NA,NA,Catechols with side chains,Polyketides,Benzene and substituted derivatives
+35969,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3597,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Organic oxoazanium compounds
+359740,Yes,NA,NA,NA,NA,NA,Norkaurane diterpenoids,Terpenoids,Benzenoids
+359748,Yes,NA,NA,NA,NA,NA,Hydrocarbons,Fatty acids,Branched unsaturated hydrocarbons
+35986,Yes,NA,NA,NA,NA,NA,Aminoacids,Alkaloids,Histidine and derivatives
+36002,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+36006,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Carboxylic acids
+36022,Yes,NA,NA,NA,NA,NA,Aminoacids,Alkaloids,Monoalkylamines
+36111,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3612,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids and derivatives
+36146,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Tyrosine and derivatives
+3632,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Organic azides
+36349,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids
+364990,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Alpha amino acids and derivatives
+3653,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+3658,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Carboxylic acids
+36738,Yes,NA,NA,NA,NA,NA,Simple coumarins,Shikimates and Phenylpropanoids,Benzenoids
+36792,Yes,NA,NA,NA,NA,NA,Simple coumarins,Shikimates and Phenylpropanoids,Benzenoids
+36879,Yes,NA,NA,NA,NA,NA,Quinazoline alkaloids,Alkaloids,Imidazopyrimidines
+368969,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Alpha amino acids and derivatives
+368990,Yes,NA,NA,NA,NA,NA,Pyrrolidine alkaloids,Alkaloids,Azacyclic compounds
+369007,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,"1,3,5-triazines"
+369025,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,"1,3,5-triazines"
+369093,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,"1,3,5-triazines"
+369222,Yes,NA,NA,NA,NA,NA,Primary amides,Terpenoids,Dialkylthioethers
+369225,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,Heteroaromatic compounds
+369237,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Aminotriazines
+369285,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,"1,3,5-triazines"
+369414,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,Heteroaromatic compounds
+377709,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,N-substituted imidazoles
+377713,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,"1,3,5-triazines"
+377720,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,Imidazoles
+377724,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,"1,3,5-triazines"
+377760,Yes,NA,NA,NA,NA,NA,Dipeptides,Alkaloids,Amino acids and derivatives
+377783,Yes,NA,NA,NA,NA,NA,Purine alkaloids,Alkaloids,Azoles
+377794,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Guanidines
+377819,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,Substituted imidazoles
+37808,Yes,NA,NA,NA,NA,NA,Fatty aldehydes,Fatty acids,Monothioacetals
+38042,Yes,NA,NA,NA,NA,NA,pteridine alkaloids,Alkaloids,Organic sulfuric acids and derivatives
+383678,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Fatty acids,Quaternary ammonium salts
+384660,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Organonitrogen compounds
+386398,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+386405,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+386800,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids and derivatives
+389028,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+397566,Yes,NA,NA,NA,NA,NA,Caryophyllane sesquiterpenoids,Terpenoids,Sesquiterpenoids
+399916,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+399917,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+4017,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+402965,Yes,NA,NA,NA,NA,NA,Aminoacids,Alkaloids,Aminotriazines
+40309,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,Heteroaromatic compounds
+40324,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+40382,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+40579,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+40884,Yes,NA,NA,NA,NA,NA,Polyamines,Fatty acids,Monoalkylamines
+40889,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+40893,Yes,NA,NA,NA,NA,NA,Acetate-derived alkaloids,Fatty acids,Monoalkylamines
+409158,Yes,NA,NA,NA,NA,NA,Hydrocarbons,Fatty acids,Organosulfur compounds
+40920,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+40936,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+41014,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+410284,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Fatty Acyls
+410950,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Long-chain fatty acids
+41118,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+411947,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Long-chain fatty acids
+41320,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+41321,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+41382,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+41387,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+41412,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+41416,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+41419,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+41449,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+41502,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+41538,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+416254,Yes,NA,NA,NA,NA,NA,Aminoacids,Alkaloids,Organic sulfuric acids and derivatives
+41642,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+41694,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+41721,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+41772,Yes,NA,NA,NA,NA,NA,Dipeptides,Alkaloids,Alpha amino acids and derivatives
+41898,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+42089,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+42126,Yes,NA,NA,NA,NA,NA,Piperidine alkaloids,Alkaloids,Amino acids and derivatives
+42185,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+43782,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+43936,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+43953,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+43957,Yes,NA,NA,NA,NA,NA,Pyrrolidine alkaloids,Fatty acids,Alpha amino acids and derivatives
+43969,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids and derivatives
+44109,Yes,NA,NA,NA,NA,NA,Aminoacids,Shikimates and Phenylpropanoids,Aminotoluenes
+44234,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+44290,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+44304,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+44324,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+44413,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+44444,Yes,NA,NA,NA,NA,NA,Isocoumarins,Alkaloids,Carboxylic acids and derivatives
+44445,Yes,NA,NA,NA,NA,NA,pteridine alkaloids,Alkaloids,Nitroaromatic compounds
+44459,Yes,NA,NA,NA,NA,NA,pteridine alkaloids,Alkaloids,Thiadiazole sulfonamides
+44465,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids and derivatives
+44503,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+44566,Yes,NA,NA,NA,NA,NA,pteridine alkaloids,Alkaloids,Tetrazoles
+446928,Yes,NA,NA,NA,NA,NA,Farnesane sesquiterpenoids,Terpenoids,Sesquiterpenoids
+4479,Yes,NA,NA,NA,NA,NA,pteridine alkaloids,Alkaloids,Purinones
+44837,Yes,NA,NA,NA,NA,NA,pteridine alkaloids,Alkaloids,Organic sulfuric acids and derivatives
+44959,Yes,NA,NA,NA,NA,NA,pteridine alkaloids,Alkaloids,Tetrazoles
+450128,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+451221,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Piperidines
+45160,Yes,NA,NA,NA,NA,NA,pteridine alkaloids,Alkaloids,Azoles
+462703,Yes,Trp-gly CollisionEnergy:205060,M+H,262.119,0,Bronze,Dipeptides,Amino acids and Peptides,Dipeptides
+462705,Yes,NA,NA,NA,NA,NA,Polyamines,Amino acids and Peptides,Alpha amino acids
+462710,Yes,NA,NA,NA,NA,NA,Polyamines,Amino acids and Peptides,Alpha amino acids and derivatives
+465295,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Dipeptides
+465503,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Dipeptides
+465542,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Alpha amino acids and derivatives
+4716,Yes,NA,NA,NA,NA,NA,Acridone alkaloids,Alkaloids,Benzenoids
+473746,Yes,NA,NA,NA,NA,NA,Farnesane sesquiterpenoids,Terpenoids,Prenol lipids
+474218,Yes,NA,NA,NA,NA,NA,Fatty aldehydes,Fatty acids,Fatty Acyls
+474230,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Fatty Acyls
+474407,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Fatty Acyls
+474954,Yes,NA,NA,NA,NA,NA,Fatty aldehydes,Fatty acids,Fatty Acyls
+475195,Yes,NA,NA,NA,NA,NA,Farnesane sesquiterpenoids,Fatty acids,Prenol lipids
+475292,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Fatty Acyls
+475325,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Fatty Acyls
+475355,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Fatty Acyls
+475583,Yes,NA,NA,NA,NA,NA,Acyclic monoterpenoids,Fatty acids,Fatty alcohols
+47860,Yes,NA,NA,NA,NA,NA,Acridone alkaloids,Alkaloids,Benzene and substituted derivatives
+47864,Yes,NA,NA,NA,NA,NA,Aminoacids,Alkaloids,Sulfuric acid diamides
+47873,Yes,NA,NA,NA,NA,NA,Aminoacids,Alkaloids,Sulfonyls
+47876,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+47884,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alkanolamines
+47956,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+48019,Yes,NA,NA,NA,NA,NA,Pyrrolidine alkaloids,Alkaloids,Aminals
+48044,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Dialkyldisulfides
+48087,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+483941,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Alpha amino acids and derivatives
+484024,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Dipeptides
+484584,Yes,NA,NA,NA,NA,NA,Purine alkaloids,Alkaloids,Dialkylarylamines
+484635,Yes,NA,NA,NA,NA,NA,Purine alkaloids,Alkaloids,Triazines
+484707,Yes,NA,NA,NA,NA,NA,Purine alkaloids,Alkaloids,Alkoxy-S-triazines
+484711,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,Imidazoles
+484754,Yes,NA,NA,NA,NA,NA,Purine alkaloids,Alkaloids,Azoles
+48504,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+485129,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Organic phosphoric acids and derivatives
+485142,Yes,NA,NA,NA,NA,NA,Purine alkaloids,Alkaloids,Triazines
+485301,Yes,NA,NA,NA,NA,NA,Purine alkaloids,Alkaloids,"1,3,5-triazine-2,4-diamines"
+485457,Yes,NA,NA,NA,NA,NA,Purine alkaloids,Alkaloids,"1,3,5-triazine-2,4-diamines"
+485522,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,Amino acids and derivatives
+48603,Yes,NA,NA,NA,NA,NA,Piperidine alkaloids,Alkaloids,Carbamate esters
+48615,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+48839,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+48901,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+490681,Yes,NA,NA,NA,NA,NA,Fatty alcohols,Terpenoids,Long-chain fatty alcohols
+490792,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Unsaturated fatty acids
+491053,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+49116,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+49160,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+49518,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+49584,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+4967,Yes,NA,NA,NA,NA,NA,Cinnamic acids and derivatives,Shikimates and Phenylpropanoids,Benzene and substituted derivatives
+49681,Yes,NA,NA,NA,NA,NA,Wax monoesters,Fatty acids,Monocarboxylic acids and derivatives
+49689,Yes,NA,NA,NA,NA,NA,Wax monoesters,Fatty acids,Acetylides
+4971,Yes,NA,NA,NA,NA,NA,pteridine alkaloids,Alkaloids,Thiadiazoles
+49711,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+49772,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+49780,Yes,NA,NA,NA,NA,NA,Wax monoesters,Fatty acids,Phosphate esters
+49803,Yes,NA,NA,NA,NA,NA,Wax monoesters,Fatty acids,Phosphate esters
+4982,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+4986,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Organic phosphoric acids and derivatives
+49887,Yes,NA,NA,NA,NA,NA,Wax monoesters,Fatty acids,Phosphate esters
+49889,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+4990,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+49915,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+49924,Yes,NA,NA,NA,NA,NA,Simple phenolic acids,Shikimates and Phenylpropanoids,Arylsulfonic acids and derivatives
+4996,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Organic phosphoramides
+50066,Yes,NA,NA,NA,NA,NA,Wax monoesters,Fatty acids,Phosphate esters
+50181,Yes,NA,NA,NA,NA,NA,Wax monoesters,Fatty acids,Phosphate esters
+50202,Yes,NA,NA,NA,NA,NA,Aminoacids,Shikimates and Phenylpropanoids,C-nitro compounds
+50420,Yes,NA,NA,NA,NA,NA,Aminoacids,Alkaloids,Azoles
+50516,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,C-nitro compounds
+5071,Yes,NA,NA,NA,NA,NA,Pyrazine and Piperazine alkaloids,Alkaloids,Aminopyrimidines and derivatives
+5075,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Organic cyanides
+5102,Yes,NA,NA,NA,NA,NA,Purine alkaloids,Alkaloids,Triazoles
+519025,Yes,NA,NA,NA,NA,NA,Wax monoesters,Fatty acids,Fatty acid methyl esters
+519610,Yes,NA,NA,NA,NA,NA,Wax monoesters,Fatty acids,Long-chain fatty acids
+520343,Yes,NA,NA,NA,NA,NA,Wax monoesters,Fatty acids,Fatty acid methyl esters
+5227,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+522934,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Dipeptides
+5234,Yes,NA,NA,NA,NA,NA,Polyamines,Fatty acids,Dialkylamines
+5290,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+530004,Yes,NA,NA,NA,NA,NA,Phenanthrenes,Shikimates and Phenylpropanoids,Benzene and substituted derivatives
+530736,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Thiazoles
+5314,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+53156,Yes,NA,NA,NA,NA,NA,Iridoids monoterpenoids,Fatty acids,Sulfonyls
+53160,Yes,NA,NA,NA,NA,NA,Oxo fatty acids,Fatty acids,Thia fatty acids
+53167,Yes,NA,NA,NA,NA,NA,Iridoids monoterpenoids,Terpenoids,Sulfonyls
+53215,Yes,NA,NA,NA,NA,NA,Fatty alcohols,Fatty acids,Organooxygen compounds
+53289,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+53743,Yes,NA,NA,NA,NA,NA,Wax monoesters,Fatty acids,Organic phosphines and derivatives
+53745,Yes,NA,NA,NA,NA,NA,Aminoacids,Alkaloids,Heteroaromatic compounds
+5382,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Phenylalanine and derivatives
+53881,Yes,NA,NA,NA,NA,NA,Simple indole alkaloids,Alkaloids,Indoles
+53889,Yes,NA,NA,NA,NA,NA,Simple indole alkaloids,Alkaloids,Indoles
+53917,Yes,NA,NA,NA,NA,NA,Simple coumarins,Shikimates and Phenylpropanoids,Coumarins and derivatives
+53954,Yes,NA,NA,NA,NA,NA,Simple indole alkaloids,Alkaloids,Indoles
+53956,Yes,NA,NA,NA,NA,NA,Simple indole alkaloids,Alkaloids,Indoles
+53959,Yes,NA,NA,NA,NA,NA,Simple indole alkaloids,Alkaloids,Indoles and derivatives
+53963,Yes,NA,NA,NA,NA,NA,Simple indole alkaloids,Shikimates and Phenylpropanoids,Indoles
+54002,Yes,Spectral Match to DL-Indole-3-lactic acid from NIST14,M+H-H2O,188.07,0,Bronze,Simple indole alkaloids,Alkaloids,Indoles
+54016,Yes,NA,NA,NA,NA,NA,Simple indole alkaloids,Alkaloids,Indoles
+54031,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+54033,Yes,Spectral Match to L-Tryptophan from NIST14,M+H-NH3,188.071,0,Bronze,Cinnamic acids and derivatives,Shikimates and Phenylpropanoids,Cinnamic acids and derivatives
+54040,Yes,Spectral Match to Abrine from NIST14,M+H-CH3NH2,188.074,0,Bronze,Cinnamic acids and derivatives,Alkaloids,Quinolines and derivatives
+54059,Yes,Spectral Match to L-Tryptophan from NIST14,M+H-NH3,188.075,0,Bronze,Simple indole alkaloids,Alkaloids,Cinnamic acids
+540610,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,N-acetylarylamines
+54064,Yes,NA,NA,NA,NA,NA,Simple coumarins,Shikimates and Phenylpropanoids,Coumarins and derivatives
+54081,Yes,NA,NA,NA,NA,NA,Aminoacids,Alkaloids,Anilides
+54083,Yes,NA,NA,NA,NA,NA,Carboline alkaloids,Alkaloids,Indoles
+541178,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Acetamides
+54137,Yes,NA,NA,NA,NA,NA,Simple indole alkaloids,Alkaloids,Indoles
+54175,Yes,NA,NA,NA,NA,NA,Simple coumarins,Shikimates and Phenylpropanoids,Coumarins and derivatives
+54178,Yes,NA,NA,NA,NA,NA,Simple coumarins,Shikimates and Phenylpropanoids,Coumarins and derivatives
+54197,Yes,NA,NA,NA,NA,NA,Simple indole alkaloids,Alkaloids,Indolyl carboxylic acids and derivatives
+54228,Yes,NA,NA,NA,NA,NA,Simple indole alkaloids,Alkaloids,Indoles
+54246,Yes,NA,NA,NA,NA,NA,Simple indole alkaloids,Alkaloids,Benzenoids
+54267,Yes,NA,NA,NA,NA,NA,Simple indole alkaloids,Alkaloids,Hydroquinolones
+54289,Yes,NA,NA,NA,NA,NA,Cinnamic acids and derivatives,Alkaloids,Hydroquinolones
+54420,Yes,Spectral Match to DL-Indole-3-lactic acid from NIST14,M+H-H2O,188.07,0,Bronze,Simple indole alkaloids,Alkaloids,Hydroquinolones
+54448,Yes,NA,NA,NA,NA,NA,Simple coumarins,Alkaloids,Coumarins and derivatives
+5447,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids
+54498,Yes,NA,NA,NA,NA,NA,Simple indole alkaloids,Alkaloids,Indoles
+54540,Yes,NA,NA,NA,NA,NA,Cinnamic acids and derivatives,Alkaloids,Hydroquinolones
+54626,Yes,NA,NA,NA,NA,NA,Simple indole alkaloids,Alkaloids,Indoles
+54653,Yes,NA,NA,NA,NA,NA,Simple indole alkaloids,Alkaloids,Indoles
+54736,Yes,NA,NA,NA,NA,NA,Simple coumarins,Shikimates and Phenylpropanoids,Coumarins and derivatives
+54768,Yes,NA,NA,NA,NA,NA,Simple indole alkaloids,Alkaloids,Quinolines and derivatives
+553516,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Dipeptides
+554382,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,"1,3,5-triazines"
+56249,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids
+563470,Yes,NA,NA,NA,NA,NA,Carbocyclic fatty acids,Fatty acids,Benzene and substituted derivatives
+564386,Yes,NA,NA,NA,NA,NA,Fatty alcohols,Fatty acids,Fatty Acyls
+564390,Yes,NA,NA,NA,NA,NA,Fatty alcohols,Fatty acids,Fatty Acyls
+564597,Yes,NA,NA,NA,NA,NA,Polyamines,Fatty acids,Carbamate esters
+564801,Yes,NA,NA,NA,NA,NA,Fatty alcohols,Fatty acids,Fatty Acyls
+574922,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Dialkylthioethers
+576544,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Long-chain fatty acids
+576578,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acid amides
+576606,Yes,NA,NA,NA,NA,NA,Aminoacids,Alkaloids,Amino acids and derivatives
+576627,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Fatty Acyls
+576697,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Long-chain fatty acids
+576794,Yes,NA,NA,NA,NA,NA,Wax monoesters,Fatty acids,Amino acids and derivatives
+576795,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Long-chain fatty acids
+576870,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Long-chain fatty acids
+576971,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Long-chain fatty acids
+577306,Yes,NA,NA,NA,NA,NA,N-acyl amines,Amino acids and Peptides,Alpha amino acids and derivatives
+57773,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+57837,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+57872,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Aminopyridines and derivatives
+58342,Yes,NA,NA,NA,NA,NA,Hydrocarbons,Amino acids and Peptides,Nitriles
+583473,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Organoheterocyclic compounds
+583614,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Long-chain fatty acids
+58530,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Benzene and substituted derivatives
+585777,Yes,NA,NA,NA,NA,NA,Simple indole alkaloids,Alkaloids,Indoles
+59227,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Amidines
+60455,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+60542,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids and derivatives
+60652,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,Azoles
+61078,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+61097,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+61111,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+61112,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+61124,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+61134,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+61149,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+61162,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+61253,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+61620,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+61676,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+61723,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+61840,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+61884,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+62536,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids
+62549,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alpha amino acids and derivatives
+62731,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+632265,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+632873,Yes,NA,NA,NA,NA,NA,Drimane sesquiterpenoids,Terpenoids,Terpene lactones
+632908,Yes,NA,NA,NA,NA,NA,Isoquinoline alkaloids,Alkaloids,Dibenzocycloheptenes
+632974,Yes,NA,NA,NA,NA,NA,Farnesane sesquiterpenoids,Alkaloids,Heteroaromatic compounds
+635268,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,N-acyl-alpha amino acids
+635338,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Dipeptides
+635995,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Dialkylamines
+636009,Yes,NA,NA,NA,NA,NA,Polyamines,Fatty acids,Organic disulfides
+637003,Yes,NA,NA,NA,NA,NA,Polyamines,Fatty acids,Dialkyldisulfides
+638553,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Lineolic acids and derivatives
+638666,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Lineolic acids and derivatives
+638672,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Long-chain fatty acids
+638786,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Lineolic acids and derivatives
+638809,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+638815,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Long-chain fatty acids
+638886,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+639019,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Long-chain fatty acids
+639057,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Lineolic acids and derivatives
+639073,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Lineolic acids and derivatives
+639144,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Long-chain fatty acids
+639342,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Organonitrogen compounds
+639376,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Long-chain fatty acids
+639451,Yes,Spectral Match to Pinolenic acid from NIST14,M+H,279.232,278.225,Bronze,Unsaturated fatty acids,Fatty acids,Long-chain fatty acids
+639478,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Long-chain fatty acids
+639530,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Lineolic acids and derivatives
+639635,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Long-chain fatty acids
+639668,Yes,Spectral Match to Pinolenic acid from NIST14,M+H,279.232,278.225,Bronze,Unsaturated fatty acids,Fatty acids,Long-chain fatty acids
+642420,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+643143,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Oligopeptides
+643730,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Benzene and substituted derivatives
+643742,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Polyketides,Pyridines and derivatives
+643745,Yes,NA,NA,NA,NA,NA,Shikimic acids and derivatives,Alkaloids,Benzoic acid esters
+64816,Yes,NA,NA,NA,NA,NA,Aminoacids,Alkaloids,Azoles
+648569,Yes,"Spectral Match to Conjugated linoleic Acid (10E,12Z) from NIST14",M+H,281.248,280.24,Bronze,Polyamines,Alkaloids,Secondary amines
+648593,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Secondary amines
+648716,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,N-aliphatic s-triazines
+648955,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Lineolic acids and derivatives
+648964,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Lineolic acids and derivatives
+64899,Yes,NA,NA,NA,NA,NA,Dipeptides,Alkaloids,1-hydroxy-2-unsubstituted benzenoids
+649219,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Lineolic acids and derivatives
+64924,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,1-hydroxy-2-unsubstituted benzenoids
+649496,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Long-chain fatty acids
+649878,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Alkylarylthioethers
+650069,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Lineolic acids and derivatives
+65074,Yes,NA,NA,NA,NA,NA,Benzodiazepine alkaloids,Alkaloids,Alpha amino acids and derivatives
+65133,Yes,NA,NA,NA,NA,NA,Quinazoline alkaloids,Alkaloids,Benzene and substituted derivatives
+65294,Yes,NA,NA,NA,NA,NA,Quinazoline alkaloids,Alkaloids,Benzene and substituted derivatives
+653018,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Diphenylmethanes
+65330,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,1-hydroxy-2-unsubstituted benzenoids
+65388,Yes,NA,NA,NA,NA,NA,Quinoline alkaloids,Alkaloids,Diazanaphthalenes
+65553,Yes,NA,NA,NA,NA,NA,Aminoacids,Terpenoids,Thiazolidines
+65835,Yes,NA,NA,NA,NA,NA,Purine alkaloids,Alkaloids,Aminotriazines
+65884,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Alkylarylthioethers
+65908,Yes,NA,NA,NA,NA,NA,Piperidine alkaloids,Alkaloids,Azacyclic compounds
+65953,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+66103,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+663685,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Long-chain fatty acids
+66593,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Alkanolamines
+666581,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Long-chain fatty acids
+667010,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Long-chain fatty acids
+66772,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Amines
+67014,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+67094,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Alanine and derivatives
+67100,Yes,NA,NA,NA,NA,NA,Simple oxindole alkaloids,Alkaloids,Indolyl carboxylic acids and derivatives
+67133,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Carbamate esters
+67155,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+67161,Yes,NA,NA,NA,NA,NA,Simple indole alkaloids,Alkaloids,Benzenoids
+67173,Yes,NA,NA,NA,NA,NA,Simple indole alkaloids,Alkaloids,Benzenoids
+67187,Yes,NA,NA,NA,NA,NA,Simple indole alkaloids,Alkaloids,Phenylpropanes
+67226,Yes,NA,NA,NA,NA,NA,Simple indole alkaloids,Alkaloids,Benzenoids
+67246,Yes,NA,NA,NA,NA,NA,Simple amide alkaloids,Alkaloids,Anisoles
+67292,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+67358,Yes,NA,NA,NA,NA,NA,Simple indole alkaloids,Alkaloids,Benzene and substituted derivatives
+67360,Yes,NA,NA,NA,NA,NA,Quinoline alkaloids,Alkaloids,Benzenoids
+67540,Yes,NA,NA,NA,NA,NA,Simple indole alkaloids,Alkaloids,Benzene and substituted derivatives
+67593,Yes,NA,NA,NA,NA,NA,Simple indole alkaloids,Alkaloids,1-hydroxy-2-unsubstituted benzenoids
+67604,Yes,NA,NA,NA,NA,NA,Simple amide alkaloids,Alkaloids,Anilides
+67670,Yes,NA,NA,NA,NA,NA,Phenylethylamines,Alkaloids,Benzoxazines
+6770,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Imidazoles
+6795,Yes,NA,NA,NA,NA,NA,Pyrazine and Piperazine alkaloids,Alkaloids,Azoles
+6819,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,Imidazoles
+684205,Yes,NA,NA,NA,NA,NA,Aminoacids,Alkaloids,Organoheterocyclic compounds
+684745,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+6891,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,Acetamides
+70142,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+70148,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+70172,Yes,NA,NA,NA,NA,NA,Simple phenolic acids,Shikimates and Phenylpropanoids,Benzenesulfonyl compounds
+70212,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+70220,Yes,NA,NA,NA,NA,NA,Simple phenolic acids,Shikimates and Phenylpropanoids,1-hydroxy-2-unsubstituted benzenoids
+70233,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+70240,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+70269,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Organonitrogen compounds
+70395,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+70484,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+70757,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+711103,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+711106,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+7132,Yes,NA,NA,NA,NA,NA,Hydrocarbons,Fatty acids,Acetamides
+713966,Yes,"Spectral Match to 4',5-Dihydroxy-7-methoxyflavanone from NIST14",M+H,287.092,0,Bronze,Cinnamic acids and derivatives,Polyketides,Phenol ethers
+714755,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Lipids and lipid-like molecules
+714952,Yes,NA,NA,NA,NA,NA,Apocarotenoids (Î²-),Terpenoids,Retinoids
+715036,Yes,NA,NA,NA,NA,NA,Norkaurane diterpenoids,Fatty acids,Fatty Acyls
+715187,Yes,NA,NA,NA,NA,NA,Abietane diterpenoids,Terpenoids,Diterpenoids
+717632,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Dipeptides
+717883,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Dipeptides
+72328,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+72365,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+72606,Yes,NA,NA,NA,NA,NA,Menthane monoterpenoids,Terpenoids,Alcohols and polyols
+72609,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+72616,Yes,NA,NA,NA,NA,NA,Phenylethylamines,Alkaloids,Phenylpropanes
+72626,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Benzene and substituted derivatives
+72665,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Benzene and substituted derivatives
+72667,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+72674,Yes,NA,NA,NA,NA,NA,Menthane monoterpenoids,Shikimates and Phenylpropanoids,Benzene and substituted derivatives
+72745,Yes,NA,NA,NA,NA,NA,Purine alkaloids,Alkaloids,N-aliphatic s-triazines
+72750,Yes,NA,NA,NA,NA,NA,Catechols with side chains,Terpenoids,Benzoyl derivatives
+72801,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Aryl thioethers
+73012,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Thioethers
+73013,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Thioethers
+73016,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Thioethers
+73018,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+733725,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+73458,Yes,NA,NA,NA,NA,NA,Pyrrolidine alkaloids,Alkaloids,Amino acids and derivatives
+73463,Yes,NA,NA,NA,NA,NA,Aminoacids,Alkaloids,Amino acids and derivatives
+73521,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Amino acids
+735270,Yes,(+)Catechin,[M+H]+,291.09,290.079,Gold,Flavan-3-ols,Shikimates and Phenylpropanoids,Catechins
+73536,Yes,NA,NA,NA,NA,NA,Dipeptides,Fatty acids,Fatty acids and conjugates
+73597,Yes,NA,NA,NA,NA,NA,Menthane monoterpenoids,Terpenoids,Carbamate esters
+73706,Yes,NA,NA,NA,NA,NA,Phenylethylamines,Alkaloids,Carbamate esters
+73804,Yes,NA,NA,NA,NA,NA,Phenylethylamines,Alkaloids,Benzodioxoles
+73815,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+73885,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+73892,Yes,NA,NA,NA,NA,NA,Phenylethylamines,Alkaloids,Phenols
+74022,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+74038,Yes,NA,NA,NA,NA,NA,Phenylethylamines,Terpenoids,Carbamate esters
+74108,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+74257,Yes,NA,NA,NA,NA,NA,Phenylethylamines,Terpenoids,Carbamate esters
+74283,Yes,NA,NA,NA,NA,NA,Phenylalanine-derived alkaloids,Alkaloids,Amino acids and derivatives
+748878,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+75048,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+754815,Yes,NA,NA,NA,NA,NA,Prenyl quinone meroterpenoids,Terpenoids,Carboxylic acid esters
+755797,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+755832,Yes,NA,NA,NA,NA,NA,Catechols with side chains,Terpenoids,Lipids and lipid-like molecules
+76214,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Amino fatty acids
+762652,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,N-acyl-alpha amino acids
+787744,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,N-acyl-alpha amino acids and derivatives
+789647,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Alkylarylthioethers
+789889,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,N-aliphatic s-triazines
+800652,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Alpha amino acid amides
+804123,Yes,"Spectral Match to 5,6-Epoxy-8Z,11Z,14Z-eicosatrienoic acid from NIST14",M+H-H2O,303.231,0,Bronze,Polyamines,Alkaloids,Heteroaromatic compounds
+804209,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Alkylarylthioethers
+808647,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Monoacylglycerols
+810725,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Dipeptides
+810757,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Dipeptides
+827600,Yes,NA,NA,NA,NA,NA,Branched fatty acids,Fatty acids,Straight chain fatty acids
+827869,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Long-chain fatty acids
+828079,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Fatty acid methyl esters
+829523,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Terpenoids,Long-chain fatty acids
+832792,Yes,NA,NA,NA,NA,NA,Phenazine alkaloids,Alkaloids,Aryl thioethers
+838151,Yes,NA,NA,NA,NA,NA,Purine nucleos(t)ides,Carbohydrates,6-aminopurines
+846934,Yes,NA,NA,NA,NA,NA,Tripeptides,Amino acids and Peptides,Alpha amino acids and derivatives
+850542,Yes,NA,NA,NA,NA,NA,Wax monoesters,Fatty acids,Long-chain fatty acids
+850900,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Long-chain fatty acids
+851058,Yes,NA,NA,NA,NA,NA,Labdane diterpenoids,Terpenoids,Sesquiterpenoids
+851355,Yes,"Spectral Match to cis-8,11,14-Eicosatrienoic acid from NIST14",M+H,307.263,306.256,Bronze,Unsaturated fatty acids,Fatty acids,Long-chain fatty acids
+853690,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+853693,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+853698,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+867603,Yes,NA,NA,NA,NA,NA,Hydroxy fatty acids,Fatty acids,Fatty acid methyl esters
+870719,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Sulfonyls
+872677,Yes,NA,NA,NA,NA,NA,Simple phenolic acids,Shikimates and Phenylpropanoids,Benzenoids
+873750,Yes,NA,NA,NA,NA,NA,Azaphilones,Polyketides,Fatty Acyls
+874921,Yes,NA,NA,NA,NA,NA,Other Octadecanoids,Fatty acids,Long-chain fatty acids
+879469,Yes,NA,NA,NA,NA,NA,Fatty alcohols,Fatty acids,Long-chain fatty alcohols
+882744,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Peptides
+882836,Yes,NA,NA,NA,NA,NA,Dipeptides,Alkaloids,Amino acids and derivatives
+885916,Yes,Spectral Match to Phe-Phe from NIST14,M+H,313.155,0,Bronze,Dipeptides,Amino acids and Peptides,Dipeptides
+885937,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Dipeptides
+886032,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Dipeptides
+886056,Yes,NA,NA,NA,NA,NA,Simple amide alkaloids,Alkaloids,Amino acids and derivatives
+886348,Yes,NA,NA,NA,NA,NA,Dipeptides,Terpenoids,Amino acids and derivatives
+886362,Yes,NA,NA,NA,NA,NA,Purine alkaloids,Alkaloids,Amino acids and derivatives
+889862,Yes,NA,NA,NA,NA,NA,Monoacylglycerols,Fatty acids,Fatty acid esters
+893532,Yes,NA,NA,NA,NA,NA,Pyridine alkaloids,Alkaloids,Organic dithiophosphoric acids and derivatives
+901328,Yes,NA,NA,NA,NA,NA,Other Octadecanoids,Fatty acids,Long-chain fatty acids
+901720,Yes,NA,NA,NA,NA,NA,Hydroxy fatty acids,Fatty acids,Long-chain fatty alcohols
+902469,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Dipeptides
+902951,Yes,NA,NA,NA,NA,NA,Imidazole alkaloids,Alkaloids,Alpha amino acid amides
+921999,Yes,NA,NA,NA,NA,NA,Wax monoesters,Fatty acids,Fatty acid methyl esters
+922034,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,"1,3,5-triazine-2,4-diamines"
+922363,Yes,h_315_oxymetholone_m2,M+H,317.247,316.24,Gold,Unsaturated fatty acids,Fatty acids,Fatty acid methyl esters
+922628,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Heteroaromatic compounds
+922680,Yes,NA,NA,NA,NA,NA,Unsaturated fatty acids,Fatty acids,Fatty acid methyl esters
+926099,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Dipeptides
+926115,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Dipeptides
+926116,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Dipeptides
+926117,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,N-acyl-alpha amino acids
+926154,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Dipeptides
+926194,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Alpha amino acids
+926637,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Dipeptides
+943186,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Alkylarylthioethers
+944083,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Organoheterocyclic compounds
+963476,Yes,NA,NA,NA,NA,NA,N-acyl amines,Alkaloids,Alpha amino acids and derivatives
+963688,Yes,NA,NA,NA,NA,NA,Prenyl quinone meroterpenoids,Terpenoids,Delta valerolactones
+963763,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,N-aliphatic s-triazines
+963881,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Sulfonyls
+969762,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Dipeptides
+97085,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+97099,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+97163,Yes,NA,NA,NA,NA,NA,Purine alkaloids,Alkaloids,6-aminopurines
+97164,Yes,NA,NA,NA,NA,NA,2-pyrone derivatives,Fatty acids,Carboxylic acids
+97176,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Hydrazines and derivatives
+97216,Yes,NA,NA,NA,NA,NA,Lactones,Fatty acids,Monocarboxylic acids and derivatives
+972409,Yes,NA,NA,NA,NA,NA,Glycerophosphoethanolamines,Fatty acids,Dithiophosphate S-esters
+97283,Yes,NA,NA,NA,NA,NA,Simple phenolic acids,Shikimates and Phenylpropanoids,Phenols
+97466,Yes,NA,NA,NA,NA,NA,Simple phenolic acids,Shikimates and Phenylpropanoids,Benzoyl derivatives
+97639,Yes,NA,NA,NA,NA,NA,Simple phenolic acids,Shikimates and Phenylpropanoids,Benzene and substituted derivatives
+983073,Yes,NA,NA,NA,NA,NA,Branched fatty acids,Fatty acids,Thia fatty acids
+983991,Yes,NA,NA,NA,NA,NA,Branched fatty acids,Fatty acids,Fatty Acyls
+987940,Yes,NA,NA,NA,NA,NA,Dipeptides,Amino acids and Peptides,Dipeptides
+99033,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Organic phosphoramides
+990535,Yes,NA,NA,NA,NA,NA,Aminoacids,Amino acids and Peptides,Cysteine and derivatives
+99291,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+99314,Yes,NA,NA,NA,NA,NA,Fatty alcohols,Fatty acids,Secondary alcohols
+99347,Yes,NA,NA,NA,NA,NA,Bisabolane sesquiterpenoids,Terpenoids,Benzyl alcohols
+99363,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+99366,Yes,NA,NA,NA,NA,NA,NA,NA,NA
+99406,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Thioethers
+99487,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Sulfenyl compounds
+99498,Yes,NA,NA,NA,NA,NA,Polyamines,Alkaloids,Thioethers
